@@ -14,7 +14,7 @@ var visualize = function (data) {
     // Boilerplate:
     var margin = { top: 50, right: 50, bottom: 50, left: 50 },
         width = 1500 - margin.left - margin.right,
-        height = 4000 - margin.top - margin.bottom,
+        height = 1700 - margin.top - margin.bottom,
         padding = 20;
 
     const effectiveDimension = {
@@ -29,22 +29,13 @@ var visualize = function (data) {
         .style("width", effectiveDimension.width)
         .style("height", effectiveDimension.height)
         .append("g");
-    
-
-    var yScale = d3.scaleLinear()
-                   .domain([0, 100])
-                   .range([0, effectiveDimension.height]);
-
-
-    var axisVariable = d3.axisTop()
-                       .scale( yScale );
 
     var tip = d3.tip()
         .attr('class', 'd3-tip')
         .offset([-10, 0])
         .html(function (d, i) {
             return d["Major Name"] + ": " +
-            d['Percent_change'] + "% change from 1985 to 2018";
+            "From " + d['Total_1985'] + " in 1985 to " + d['Total_2018'] + " in 2018.";
         });
 
     svg.selectAll(".line")
@@ -53,12 +44,11 @@ var visualize = function (data) {
         .append("line")
         .attr("x1", margin.left + 200)
         .attr("y1", function(d, i) {
-            // return d['Total_1985']
-            return d['Total_2018']
+            return effectiveDimension.height - d['Total_1985']
         })
         .attr("x2", effectiveDimension.width - margin.right - 100)
         .attr("y2", function(d, i) {
-            return d['Total_1985']
+            return effectiveDimension.height - d['Total_2018']
         })
         .attr("stroke-width", 2)
         .attr("stroke", "black")
@@ -70,7 +60,7 @@ var visualize = function (data) {
         .enter()
         .append("text")
         .attr("y", function(d, i) {
-            return d['Total_2018']
+            return effectiveDimension.height - d['Total_1985']
         })
         .attr("x", margin.left + 200)
         .attr("text-anchor","end")
@@ -85,7 +75,7 @@ var visualize = function (data) {
         .enter()
         .append("text")
         .attr("y", function(d, i) {
-            return d['Total_1985']
+            return effectiveDimension.height - d['Total_2018']
         })
         .attr("x", effectiveDimension.width - margin.right - 100)
         .attr("font-size","12px")
