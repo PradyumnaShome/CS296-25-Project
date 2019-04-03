@@ -107,7 +107,7 @@ var visualize = function(data) {
 
 var parseTime = d3.timeParse("%Y");
 
-    majors = [
+majors = [
     'ACES Undeclared',
     'Accountancy',
     'Actuarial Science',
