@@ -1,7 +1,6 @@
-
 // Using jQuery, read our data and call visualize(...) only once the page is ready:
 $(function () {
-    const datasetPath = "datasets/IllinoisStudentsByCurriculum.csv";
+    const datasetPath = "datasets/change_in_major.csv";
     d3.csv(datasetPath).then(function (data) {
         // Write the data to the console for debugging:
         console.log(data);
@@ -11,42 +10,89 @@ $(function () {
     });
 });
 
-
 var visualize = function (data) {
     // Boilerplate:
-    const canvasDimension = { width: 1024, height: 800 };
-    var margin = { top: 50, right: 50, bottom: 50, left: 50 };
+    var margin = { top: 50, right: 50, bottom: 50, left: 50 },
+        width = 1500 - margin.left - margin.right,
+        height = 4000 - margin.top - margin.bottom,
+        padding = 20;
 
     const effectiveDimension = {
-        width: canvasDimension.width - margin.left - margin.right,
-        height: canvasDimension.height - margin.top - margin.bottom
+        width: width - margin.left - margin.right,
+        height: height - margin.top - margin.bottom
     };
 
-    var svg = d3.select("#chart")
+    var svg = d3.select("#slopegraph")
         .append("svg")
-        .attr("width", canvasDimension.width)
-        .attr("height", canvasDimension.height)
-        .style("width", canvasDimension.width)
-        .style("height", canvasDimension.height)
-        .append("g");
-
-    // Visualization Code:
-
-    var canvasBackground = svg
-        .append("rect")
-        .attr("width", canvasDimension.width)
-        .attr("height", canvasDimension.height)
-        .attr("x", 0)
-        .attr("y", 0)
-        .attr("fill", "dodgerblue")
-        .attr("stroke", "black");
-
-    var background = svg
-        .append("rect")
         .attr("width", effectiveDimension.width)
         .attr("height", effectiveDimension.height)
-        .attr("x", margin.left)
-        .attr("y", margin.top)
-        .attr("fill", "seagreen")
-        .attr("stroke", "blue");
+        .style("width", effectiveDimension.width)
+        .style("height", effectiveDimension.height)
+        .append("g");
+    
+
+    var yScale = d3.scaleLinear()
+                   .domain([0, 100])
+                   .range([0, effectiveDimension.height]);
+
+
+    var axisVariable = d3.axisTop()
+                       .scale( yScale );
+
+    var tip = d3.tip()
+        .attr('class', 'd3-tip')
+        .offset([-10, 0])
+        .html(function (d, i) {
+            return d["Major Name"] + ": " +
+            d['Percent_change'] + "% change from 1985 to 2018";
+        });
+
+    svg.selectAll(".line")
+        .data(data)
+        .enter()
+        .append("line")
+        .attr("x1", margin.left + 200)
+        .attr("y1", function(d, i) {
+            // return d['Total_1985']
+            return d['Total_2018']
+        })
+        .attr("x2", effectiveDimension.width - margin.right - 100)
+        .attr("y2", function(d, i) {
+            return d['Total_1985']
+        })
+        .attr("stroke-width", 2)
+        .attr("stroke", "black")
+        .on('mouseover', tip.show)
+        .on('mouseout', tip.hide);
+
+    svg.selectAll("text")
+        .data(data)
+        .enter()
+        .append("text")
+        .attr("y", function(d, i) {
+            return d['Total_2018']
+        })
+        .attr("x", margin.left + 200)
+        .attr("text-anchor","end")
+        .attr("font-size","12px")
+        .text(function(d, i) {
+            console.log(d['Major Name'])
+            return d['Major Name']
+        });
+
+    svg.selectAll("text2")
+        .data(data)
+        .enter()
+        .append("text")
+        .attr("y", function(d, i) {
+            return d['Total_1985']
+        })
+        .attr("x", effectiveDimension.width - margin.right - 100)
+        .attr("font-size","12px")
+        .text(function(d, i) {
+            console.log(d['Major Name'])
+            return d['Major Name']
+        });
+    
+    svg.call(tip);
 }
