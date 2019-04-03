@@ -1,7 +1,7 @@
 
 // Using jQuery, read our data and call visualize(...) only once the page is ready:
 $(function () {
-    const datasetPath = "datasets/IllinoisStudentsByCurriculum.csv";
+    const datasetPath = "major-change-data.csv";
     d3.csv(datasetPath).then(function (data) {
         // Write the data to the console for debugging:
         console.log(data);
@@ -49,4 +49,6 @@ var visualize = function (data) {
         .attr("y", margin.top)
         .attr("fill", "seagreen")
         .attr("stroke", "blue");
+    
+    
 }
