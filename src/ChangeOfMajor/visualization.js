@@ -1,7 +1,7 @@
 
 // Using jQuery, read our data and call visualize(...) only once the page is ready:
 $(function () {
-    const datasetPath = "major-change-data.csv";
+    const datasetPath = "2018-Engineering-mp.csv";
     d3.csv(datasetPath).then(function (data) {
         // Write the data to the console for debugging:
         console.log(data);
@@ -50,5 +50,10 @@ var visualize = function (data) {
         .attr("fill", "seagreen")
         .attr("stroke", "blue");
     
-    
+    var yScale = d3.scaleLinear()
+        .range([0,100])
+        .domain([0,100])
+
+    var yAnis = d3.axisLeft()
+        .scale(yScale)
 }
