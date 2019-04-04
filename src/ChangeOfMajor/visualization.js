@@ -1,4 +1,3 @@
-
 // Using jQuery, read our data and update visualization every second
 
 var college = "LAS"
@@ -36,8 +35,8 @@ var visualize = function (data, title) {
     var margin = { top: 100, right: 50, bottom: 200, left: 100 };
 
     const effectiveDimension = {
-        width: width - margin.left - margin.right,
-        height: height - margin.top - margin.bottom
+        width: canvasDimension.width - margin.left - margin.right,
+        height: canvasDimension.height - margin.top - margin.bottom
     };
 
     $('#chart').empty();
@@ -50,7 +49,7 @@ var visualize = function (data, title) {
         .style("height", canvasDimension.height)
         .append("g");
 
-    var maxTotal = d3.max([maxStart, maxEnd])
+    // Visualization Code:
 
     var background = svg
         .append("rect")
