@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-1910,1989,Fine and Applied Arts,Architectural Studies,585,406,179
-1914,1989,Fine and Applied Arts,Art and Design,348,170,178
-1926,1989,Fine and Applied Arts,Music Education,252,104,148
-1911,1989,Fine and Applied Arts,Architecture,215,165,50
-1932,1989,Fine and Applied Arts,Urban Planning,143,82,61
-1925,1989,Fine and Applied Arts,Music,136,66,70
-1919,1989,Fine and Applied Arts,Landscape Architecture,133,83,50
-1917,1989,Fine and Applied Arts,Graphic Design,131,57,74
-1923,1989,Fine and Applied Arts,MUSIC-INST,90,34,56
-1912,1989,Fine and Applied Arts,Art Education,77,17,60
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+1910,1989,Fine and Applied Arts,Architectural Studies,585,406,179,524,61
+1914,1989,Fine and Applied Arts,Art and Design,348,170,178,294,54
+1926,1989,Fine and Applied Arts,Music Education,252,104,148,214,38
+1911,1989,Fine and Applied Arts,Architecture,215,165,50,154,61
+1932,1989,Fine and Applied Arts,Urban Planning,143,82,61,124,19
+1925,1989,Fine and Applied Arts,Music,136,66,70,44,92
+1919,1989,Fine and Applied Arts,Landscape Architecture,133,83,50,111,22
+1917,1989,Fine and Applied Arts,Graphic Design,131,57,74,126,5
+1923,1989,Fine and Applied Arts,MUSIC-INST,90,34,56,63,27
+1912,1989,Fine and Applied Arts,Art Education,77,17,60,63,14

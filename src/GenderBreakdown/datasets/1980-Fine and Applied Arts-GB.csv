@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-115,1980,Fine and Applied Arts,Architectural Studies,627,474,153
-119,1980,Fine and Applied Arts,Art and Design,363,115,248
-129,1980,Fine and Applied Arts,Music Education,309,130,179
-128,1980,Fine and Applied Arts,Music,251,144,107
-116,1980,Fine and Applied Arts,Architecture,186,154,32
-122,1980,Fine and Applied Arts,Graphic Design,164,40,124
-124,1980,Fine and Applied Arts,Landscape Architecture,158,97,61
-127,1980,Fine and Applied Arts,MUSIC-INST,105,54,51
-123,1980,Fine and Applied Arts,Industrial Design,97,56,41
-135,1980,Fine and Applied Arts,Urban Planning,92,49,43
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+115,1980,Fine and Applied Arts,Architectural Studies,627,474,153,576,51
+119,1980,Fine and Applied Arts,Art and Design,363,115,248,320,43
+129,1980,Fine and Applied Arts,Music Education,309,130,179,248,61
+128,1980,Fine and Applied Arts,Music,251,144,107,122,129
+116,1980,Fine and Applied Arts,Architecture,186,154,32,125,61
+122,1980,Fine and Applied Arts,Graphic Design,164,40,124,156,8
+124,1980,Fine and Applied Arts,Landscape Architecture,158,97,61,137,21
+127,1980,Fine and Applied Arts,MUSIC-INST,105,54,51,71,34
+123,1980,Fine and Applied Arts,Industrial Design,97,56,41,95,2
+135,1980,Fine and Applied Arts,Urban Planning,92,49,43,63,29

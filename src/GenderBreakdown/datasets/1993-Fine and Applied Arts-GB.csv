@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-2702,1993,Fine and Applied Arts,Architectural Studies,488,326,162
-2706,1993,Fine and Applied Arts,Art and Design,401,193,208
-2718,1993,Fine and Applied Arts,Music Education,266,120,146
-2703,1993,Fine and Applied Arts,Architecture,194,138,56
-2724,1993,Fine and Applied Arts,Urban Planning,171,104,67
-2711,1993,Fine and Applied Arts,Landscape Architecture,137,74,63
-2717,1993,Fine and Applied Arts,Music,137,59,78
-2709,1993,Fine and Applied Arts,Graphic Design,115,50,65
-2705,1993,Fine and Applied Arts,Art History,111,15,96
-2704,1993,Fine and Applied Arts,Art Education,101,31,70
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+2702,1993,Fine and Applied Arts,Architectural Studies,488,326,162,418,70
+2706,1993,Fine and Applied Arts,Art and Design,401,193,208,329,72
+2718,1993,Fine and Applied Arts,Music Education,266,120,146,212,54
+2703,1993,Fine and Applied Arts,Architecture,194,138,56,142,52
+2724,1993,Fine and Applied Arts,Urban Planning,171,104,67,141,30
+2711,1993,Fine and Applied Arts,Landscape Architecture,137,74,63,102,35
+2717,1993,Fine and Applied Arts,Music,137,59,78,47,90
+2709,1993,Fine and Applied Arts,Graphic Design,115,50,65,102,13
+2705,1993,Fine and Applied Arts,Art History,111,15,96,84,27
+2704,1993,Fine and Applied Arts,Art Education,101,31,70,76,25

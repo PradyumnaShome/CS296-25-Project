@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-7330,2016,Engineering,Computer Science,1748,1328,420
-7328,2016,Engineering,Civil Engineering,1329,972,357
-7343,2016,Engineering,Mechanical Engineering,1269,1050,219
-7329,2016,Engineering,Computer Engineering,1195,1063,132
-7332,2016,Engineering,Electrical Engineering,1151,1003,148
-7323,2016,Engineering,Aerospace Engineering,672,583,89
-7331,2016,Engineering,Electrical & Computer Engr,585,488,97
-7342,2016,Engineering,Materials Science & Engr,566,397,169
-7341,2016,Engineering,Industrial Engineering,353,251,102
-7325,2016,Engineering,Bioengineering,349,190,159
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+7330,2016,Engineering,Computer Science,1748,1328,420,535,1213
+7328,2016,Engineering,Civil Engineering,1329,972,357,566,763
+7343,2016,Engineering,Mechanical Engineering,1269,1050,219,667,602
+7329,2016,Engineering,Computer Engineering,1195,1063,132,556,639
+7332,2016,Engineering,Electrical Engineering,1151,1003,148,546,605
+7323,2016,Engineering,Aerospace Engineering,672,583,89,381,291
+7331,2016,Engineering,Electrical & Computer Engr,585,488,97,66,519
+7342,2016,Engineering,Materials Science & Engr,566,397,169,217,349
+7341,2016,Engineering,Industrial Engineering,353,251,102,157,196
+7325,2016,Engineering,Bioengineering,349,190,159,256,93

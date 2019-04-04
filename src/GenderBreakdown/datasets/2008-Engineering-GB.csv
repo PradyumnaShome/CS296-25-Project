@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-5600,2008,Engineering,Mechanical Engineering,1099,968,129
-5590,2008,Engineering,Computer Science,980,858,121
-5588,2008,Engineering,Civil Engineering,955,735,219
-5592,2008,Engineering,Electrical Engineering,804,717,86
-5597,2008,Engineering,General Engineering,542,411,131
-5584,2008,Engineering,Aerospace Engineering,514,453,60
-5591,2008,Engineering,Electrical & Computer Engr,504,444,60
-5589,2008,Engineering,Computer Engineering,446,398,46
-5599,2008,Engineering,Materials Science & Engr,439,339,100
-5603,2008,Engineering,Physics,302,262,40
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+5600,2008,Engineering,Mechanical Engineering,1099,968,129,755,344
+5590,2008,Engineering,Computer Science,980,858,121,444,536
+5588,2008,Engineering,Civil Engineering,955,735,219,630,325
+5592,2008,Engineering,Electrical Engineering,804,717,86,487,317
+5597,2008,Engineering,General Engineering,542,411,131,475,67
+5584,2008,Engineering,Aerospace Engineering,514,453,60,376,138
+5591,2008,Engineering,Electrical & Computer Engr,504,444,60,91,413
+5589,2008,Engineering,Computer Engineering,446,398,46,302,144
+5599,2008,Engineering,Materials Science & Engr,439,339,100,232,207
+5603,2008,Engineering,Physics,302,262,40,23,279

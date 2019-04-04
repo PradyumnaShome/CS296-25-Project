@@ -1,10 +1,10 @@
-,Fall,College,Major Name,Total,Male,Female
-70,1980,Business,Accountancy,1529,928,601
-71,1980,Business,Business Administration,1414,831,583
-78,1980,Business,UNASSIGNED,611,341,270
-74,1980,Business,Finance,536,352,184
-72,1980,Business,Computer Science,217,177,40
-73,1980,Business,Economics,160,117,43
-77,1980,Business,Theatre,122,56,66
-75,1980,Business,MARKETING,54,24,30
-76,1980,Business,Teaching of Spanish,30,2,28
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+70,1980,Business,Accountancy,1529,928,601,1454,75
+71,1980,Business,Business Administration,1414,831,583,1285,129
+78,1980,Business,UNASSIGNED,611,341,270,591,20
+74,1980,Business,Finance,536,352,184,506,30
+72,1980,Business,Computer Science,217,177,40,82,135
+73,1980,Business,Economics,160,117,43,86,74
+77,1980,Business,Theatre,122,56,66,84,38
+75,1980,Business,MARKETING,54,24,30,54,0
+76,1980,Business,Teaching of Spanish,30,2,28,27,3

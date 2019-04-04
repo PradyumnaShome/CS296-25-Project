@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-2642,1993,Applied Health Sciences,Kinesiology,381,207,174
-2643,1993,Applied Health Sciences,Leisure Studies,99,51,48
-2641,1993,Applied Health Sciences,HLTH PL AD,95,26,69
-2646,1993,Applied Health Sciences,PROG MANAG,92,43,49
-2637,1993,Applied Health Sciences,Biology,70,40,30
-2647,1993,Applied Health Sciences,Rehabilitation,29,8,21
-2640,1993,Applied Health Sciences,HLTH EDUC,19,3,16
-2650,1993,Applied Health Sciences,THER REC,17,5,12
-2644,1993,Applied Health Sciences,MSPH IN C HLTH,12,1,11
-2638,1993,Applied Health Sciences,CUR INST#1,7,6,1
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+2642,1993,Applied Health Sciences,Kinesiology,381,207,174,316,65
+2643,1993,Applied Health Sciences,Leisure Studies,99,51,48,73,26
+2641,1993,Applied Health Sciences,HLTH PL AD,95,26,69,92,3
+2646,1993,Applied Health Sciences,PROG MANAG,92,43,49,83,9
+2637,1993,Applied Health Sciences,Biology,70,40,30,62,8
+2647,1993,Applied Health Sciences,Rehabilitation,29,8,21,23,6
+2640,1993,Applied Health Sciences,HLTH EDUC,19,3,16,18,1
+2650,1993,Applied Health Sciences,THER REC,17,5,12,14,3
+2644,1993,Applied Health Sciences,MSPH IN C HLTH,12,1,11,7,5
+2638,1993,Applied Health Sciences,CUR INST#1,7,6,1,7,0

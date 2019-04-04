@@ -1,10 +1,10 @@
-,Fall,College,Major Name,Total,Male,Female
-6802,2013,Media,Broadcast Journalism,179,61,118
-6808,2013,Media,News-Editorial,161,50,111
-6807,2013,Media,Media and Cinema Studies,92,42,49
-6804,2013,Media,Communications and Media,27,10,17
-6801,2013,Media,Agricultural Communications,25,5,20
-6809,2013,Media,Nondegree,22,12,10
-6803,2013,Media,Communications,21,6,15
-6805,2013,Media,Journalism,13,5,8
-6806,2013,Media,Media Studies,1,1,0
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+6802,2013,Media,Broadcast Journalism,179,61,118,150,29
+6808,2013,Media,News-Editorial,161,50,111,142,19
+6807,2013,Media,Media and Cinema Studies,92,42,49,67,25
+6804,2013,Media,Communications and Media,27,10,17,3,24
+6801,2013,Media,Agricultural Communications,25,5,20,25,0
+6809,2013,Media,Nondegree,22,12,10,8,14
+6803,2013,Media,Communications,21,6,15,4,17
+6805,2013,Media,Journalism,13,5,8,8,5
+6806,2013,Media,Media Studies,1,1,0,1,0

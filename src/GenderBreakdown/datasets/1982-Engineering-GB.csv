@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-495,1982,Engineering,Electrical Engineering,1512,1353,159
-499,1982,Engineering,Mechanical Engineering,954,868,86
-488,1982,Engineering,Civil Engineering,672,568,104
-490,1982,Engineering,Computer Science,648,466,182
-496,1982,Engineering,GEN ENGR,552,400,152
-484,1982,Engineering,Aero & Astro Engineering,481,443,38
-489,1982,Engineering,Computer Engineering,357,301,56
-500,1982,Engineering,Nuclear Engineering,186,171,15
-497,1982,Engineering,Industrial Engineering,180,124,56
-498,1982,Engineering,METAL ENGR,175,142,33
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+495,1982,Engineering,Electrical Engineering,1512,1353,159,1286,226
+499,1982,Engineering,Mechanical Engineering,954,868,86,879,75
+488,1982,Engineering,Civil Engineering,672,568,104,545,127
+490,1982,Engineering,Computer Science,648,466,182,621,27
+496,1982,Engineering,GEN ENGR,552,400,152,538,14
+484,1982,Engineering,Aero & Astro Engineering,481,443,38,432,49
+489,1982,Engineering,Computer Engineering,357,301,56,331,26
+500,1982,Engineering,Nuclear Engineering,186,171,15,148,38
+497,1982,Engineering,Industrial Engineering,180,124,56,168,12
+498,1982,Engineering,METAL ENGR,175,142,33,123,52

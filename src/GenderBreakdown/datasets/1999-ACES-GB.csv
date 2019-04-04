@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-3814,1999,ACES,Animal Sciences,594,193,401
-3819,1999,ACES,Food Science & Human Nutrition,357,97,260
-3806,1999,ACES,Agr & Consumer Economics,318,205,113
-3843,1999,ACES,Physics,285,261,24
-3848,1999,ACES,Speech & Hearing Science,202,4,198
-3817,1999,ACES,Crop Sciences,153,111,42
-3836,1999,ACES,NRES-BIOL SCI,137,64,73
-3807,1999,ACES,Agr & Environmental Cmc & Educ,127,45,82
-3823,1999,ACES,HDFS-CH&AD DEV,113,3,110
-3839,1999,ACES,Natural Resrcs & Environ Sci,112,69,43
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+3814,1999,ACES,Animal Sciences,594,193,401,541,53
+3819,1999,ACES,Food Science & Human Nutrition,357,97,260,320,37
+3806,1999,ACES,Agr & Consumer Economics,318,205,113,268,50
+3843,1999,ACES,Physics,285,261,24,77,208
+3848,1999,ACES,Speech & Hearing Science,202,4,198,184,18
+3817,1999,ACES,Crop Sciences,153,111,42,138,15
+3836,1999,ACES,NRES-BIOL SCI,137,64,73,132,5
+3807,1999,ACES,Agr & Environmental Cmc & Educ,127,45,82,124,3
+3823,1999,ACES,HDFS-CH&AD DEV,113,3,110,111,2
+3839,1999,ACES,Natural Resrcs & Environ Sci,112,69,43,60,52

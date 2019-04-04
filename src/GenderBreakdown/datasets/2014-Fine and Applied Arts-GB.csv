@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-6906,2014,Fine and Applied Arts,Architectural Studies,436,240,196
-6920,2014,Fine and Applied Arts,Music,342,167,175
-6922,2014,Fine and Applied Arts,Music Education,175,75,100
-6932,2014,Fine and Applied Arts,Theatre,167,81,86
-6907,2014,Fine and Applied Arts,Architecture,158,97,61
-6933,2014,Fine and Applied Arts,Urban Planning,134,61,73
-6919,2014,Fine and Applied Arts,Landscape Architecture,120,46,74
-6909,2014,Fine and Applied Arts,Art Foundation,118,36,82
-6916,2014,Fine and Applied Arts,Industrial Design,113,54,59
-6914,2014,Fine and Applied Arts,Graphic Design,81,19,62
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+6906,2014,Fine and Applied Arts,Architectural Studies,436,240,196,294,142
+6920,2014,Fine and Applied Arts,Music,342,167,175,84,258
+6922,2014,Fine and Applied Arts,Music Education,175,75,100,161,14
+6932,2014,Fine and Applied Arts,Theatre,167,81,86,101,66
+6907,2014,Fine and Applied Arts,Architecture,158,97,61,93,65
+6933,2014,Fine and Applied Arts,Urban Planning,134,61,73,61,73
+6919,2014,Fine and Applied Arts,Landscape Architecture,120,46,74,52,68
+6909,2014,Fine and Applied Arts,Art Foundation,118,36,82,87,31
+6916,2014,Fine and Applied Arts,Industrial Design,113,54,59,67,46
+6914,2014,Fine and Applied Arts,Graphic Design,81,19,62,73,8

@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-2901,1994,Fine and Applied Arts,Architectural Studies,492,326,166
-2905,1994,Fine and Applied Arts,Art and Design,393,182,211
-2917,1994,Fine and Applied Arts,Music Education,263,109,154
-2902,1994,Fine and Applied Arts,Architecture,177,121,56
-2922,1994,Fine and Applied Arts,Urban Planning,150,89,61
-2916,1994,Fine and Applied Arts,Music,147,67,80
-2910,1994,Fine and Applied Arts,Landscape Architecture,142,78,64
-2908,1994,Fine and Applied Arts,Graphic Design,120,56,64
-2904,1994,Fine and Applied Arts,Art History,105,21,84
-2914,1994,Fine and Applied Arts,MUSIC-INST,95,33,62
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+2901,1994,Fine and Applied Arts,Architectural Studies,492,326,166,433,59
+2905,1994,Fine and Applied Arts,Art and Design,393,182,211,331,62
+2917,1994,Fine and Applied Arts,Music Education,263,109,154,209,54
+2902,1994,Fine and Applied Arts,Architecture,177,121,56,130,47
+2922,1994,Fine and Applied Arts,Urban Planning,150,89,61,119,31
+2916,1994,Fine and Applied Arts,Music,147,67,80,49,98
+2910,1994,Fine and Applied Arts,Landscape Architecture,142,78,64,107,35
+2908,1994,Fine and Applied Arts,Graphic Design,120,56,64,110,10
+2904,1994,Fine and Applied Arts,Art History,105,21,84,79,26
+2914,1994,Fine and Applied Arts,MUSIC-INST,95,33,62,64,31

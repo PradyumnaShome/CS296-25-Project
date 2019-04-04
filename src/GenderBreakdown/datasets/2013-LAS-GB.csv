@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-6777,2013,LAS,Psychology,1386,438,947
-6768,2013,LAS,Molecular and Cellular Biology,1175,602,573
-6740,2013,LAS,Economics,1068,726,342
-6730,2013,LAS,Communication,817,343,473
-6727,2013,LAS,Chemistry,800,495,305
-6725,2013,LAS,Chemical Engineering,768,534,234
-6775,2013,LAS,Political Science,716,460,256
-6765,2013,LAS,Mathematics,697,439,258
-6722,2013,LAS,Biology,619,283,336
-6741,2013,LAS,English,534,162,372
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+6777,2013,LAS,Psychology,1386,438,947,1089,297
+6768,2013,LAS,Molecular and Cellular Biology,1175,602,573,1078,97
+6740,2013,LAS,Economics,1068,726,342,436,632
+6730,2013,LAS,Communication,817,343,473,668,149
+6727,2013,LAS,Chemistry,800,495,305,390,410
+6725,2013,LAS,Chemical Engineering,768,534,234,497,271
+6775,2013,LAS,Political Science,716,460,256,609,107
+6765,2013,LAS,Mathematics,697,439,258,262,435
+6722,2013,LAS,Biology,619,283,336,546,73
+6741,2013,LAS,English,534,162,372,425,109

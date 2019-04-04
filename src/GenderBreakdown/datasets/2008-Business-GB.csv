@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-5558,2008,Business,Curric Unassigned,1139,652,487
-5559,2008,Business,Finance,727,496,230
-5556,2008,Business,Business Administration (MBA),355,258,94
-5555,2008,Business,Business Administration,254,120,134
-5562,2008,Business,Marketing,102,39,63
-5561,2008,Business,Management,84,41,43
-5565,2008,Business,Technology Management,49,31,18
-5563,2008,Business,Nondegree,37,24,13
-5560,2008,Business,Information Sys & Info Tech,25,19,6
-5564,2008,Business,Supply Chain Management,24,16,8
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+5558,2008,Business,Curric Unassigned,1139,652,487,957,182
+5559,2008,Business,Finance,727,496,230,534,193
+5556,2008,Business,Business Administration (MBA),355,258,94,230,125
+5555,2008,Business,Business Administration,254,120,134,191,63
+5562,2008,Business,Marketing,102,39,63,94,8
+5561,2008,Business,Management,84,41,43,76,8
+5565,2008,Business,Technology Management,49,31,18,0,49
+5563,2008,Business,Nondegree,37,24,13,2,35
+5560,2008,Business,Information Sys & Info Tech,25,19,6,22,3
+5564,2008,Business,Supply Chain Management,24,16,8,21,3

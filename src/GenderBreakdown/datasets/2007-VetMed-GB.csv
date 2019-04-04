@@ -1,6 +1,6 @@
-,Fall,College,Major Name,Total,Male,Female
-5525,2007,VetMed,Veterinary Medicine,428,87,341
-5523,2007,VetMed,VMS-Veterinary Clinical Medcne,31,12,19
-5522,2007,VetMed,VMS - Veterinary Pathobiology,19,6,13
-5521,2007,VetMed,VMS - Veterinary Biosciences,17,7,10
-5524,2007,VetMed,Veterinary Medical Science,2,1,1
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+5525,2007,VetMed,Veterinary Medicine,428,87,341,357,71
+5523,2007,VetMed,VMS-Veterinary Clinical Medcne,31,12,19,8,23
+5522,2007,VetMed,VMS - Veterinary Pathobiology,19,6,13,8,11
+5521,2007,VetMed,VMS - Veterinary Biosciences,17,7,10,5,12
+5524,2007,VetMed,Veterinary Medical Science,2,1,1,0,2

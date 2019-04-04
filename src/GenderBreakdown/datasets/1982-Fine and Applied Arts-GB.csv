@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-503,1982,Fine and Applied Arts,Architectural Studies,583,412,171
-507,1982,Fine and Applied Arts,Art and Design,360,150,210
-518,1982,Fine and Applied Arts,Music Education,294,130,164
-504,1982,Fine and Applied Arts,Architecture,235,197,38
-517,1982,Fine and Applied Arts,Music,218,110,108
-510,1982,Fine and Applied Arts,Graphic Design,184,43,141
-512,1982,Fine and Applied Arts,Landscape Architecture,146,90,56
-524,1982,Fine and Applied Arts,Urban Planning,134,76,58
-515,1982,Fine and Applied Arts,MUSIC-INST,106,53,53
-511,1982,Fine and Applied Arts,Industrial Design,95,45,50
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+503,1982,Fine and Applied Arts,Architectural Studies,583,412,171,535,48
+507,1982,Fine and Applied Arts,Art and Design,360,150,210,310,50
+518,1982,Fine and Applied Arts,Music Education,294,130,164,260,34
+504,1982,Fine and Applied Arts,Architecture,235,197,38,169,66
+517,1982,Fine and Applied Arts,Music,218,110,108,86,132
+510,1982,Fine and Applied Arts,Graphic Design,184,43,141,180,4
+512,1982,Fine and Applied Arts,Landscape Architecture,146,90,56,122,24
+524,1982,Fine and Applied Arts,Urban Planning,134,76,58,106,28
+515,1982,Fine and Applied Arts,MUSIC-INST,106,53,53,75,31
+511,1982,Fine and Applied Arts,Industrial Design,95,45,50,88,7

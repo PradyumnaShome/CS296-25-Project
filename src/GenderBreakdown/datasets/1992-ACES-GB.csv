@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-2404,1992,ACES,Animal Sciences,433,194,239
-2398,1992,ACES,Agricultural & Applied Econ,405,312,93
-2425,1992,ACES,Physics,365,332,33
-2410,1992,ACES,Food Science & Human Nutrition,228,78,150
-2430,1992,ACES,Speech & Hearing Science,163,10,153
-2414,1992,ACES,H DVL-FAM,155,15,140
-2411,1992,ACES,Forestry,130,83,47
-2403,1992,ACES,Agronomy,123,95,28
-2420,1992,ACES,MKT TEXT&A,102,8,94
-2401,1992,ACES,Agricultural Engineering,98,85,13
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+2404,1992,ACES,Animal Sciences,433,194,239,355,78
+2398,1992,ACES,Agricultural & Applied Econ,405,312,93,321,84
+2425,1992,ACES,Physics,365,332,33,103,262
+2410,1992,ACES,Food Science & Human Nutrition,228,78,150,155,73
+2430,1992,ACES,Speech & Hearing Science,163,10,153,139,24
+2414,1992,ACES,H DVL-FAM,155,15,140,153,2
+2411,1992,ACES,Forestry,130,83,47,109,21
+2403,1992,ACES,Agronomy,123,95,28,75,48
+2420,1992,ACES,MKT TEXT&A,102,8,94,100,2
+2401,1992,ACES,Agricultural Engineering,98,85,13,96,2

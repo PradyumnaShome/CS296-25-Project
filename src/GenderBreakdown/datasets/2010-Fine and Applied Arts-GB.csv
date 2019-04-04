@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-6024,2010,Fine and Applied Arts,Architectural Studies,505,291,214
-6038,2010,Fine and Applied Arts,Music,357,173,184
-6040,2010,Fine and Applied Arts,Music Education,210,104,106
-6025,2010,Fine and Applied Arts,Architecture,190,102,88
-6050,2010,Fine and Applied Arts,Theatre,176,71,104
-6027,2010,Fine and Applied Arts,Art Foundation,150,58,92
-6051,2010,Fine and Applied Arts,Urban Planning,149,85,64
-6037,2010,Fine and Applied Arts,Landscape Architecture,127,64,63
-6034,2010,Fine and Applied Arts,Industrial Design,112,53,59
-6026,2010,Fine and Applied Arts,Art Education,91,18,73
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+6024,2010,Fine and Applied Arts,Architectural Studies,505,291,214,411,94
+6038,2010,Fine and Applied Arts,Music,357,173,184,97,260
+6040,2010,Fine and Applied Arts,Music Education,210,104,106,185,25
+6025,2010,Fine and Applied Arts,Architecture,190,102,88,123,67
+6050,2010,Fine and Applied Arts,Theatre,176,71,104,114,62
+6027,2010,Fine and Applied Arts,Art Foundation,150,58,92,131,19
+6051,2010,Fine and Applied Arts,Urban Planning,149,85,64,104,45
+6037,2010,Fine and Applied Arts,Landscape Architecture,127,64,63,95,32
+6034,2010,Fine and Applied Arts,Industrial Design,112,53,59,85,27
+6026,2010,Fine and Applied Arts,Art Education,91,18,73,80,11

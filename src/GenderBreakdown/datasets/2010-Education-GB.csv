@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-5980,2010,Education,Accountancy,1273,672,601
-5982,2010,Education,Advertising,526,158,368
-5991,2010,Education,Elementary Education,308,19,288
-5981,2010,Education,Actuarial Science,292,169,123
-5994,2010,Education,Pre-Early Chld/Elem Ed/Spec Ed,287,21,266
-5984,2010,Education,Anthropology,201,69,132
-5989,2010,Education,Educational Policy Studies,149,53,96
-5997,2010,Education,Special Education,140,17,123
-5988,2010,Education,Ed Organization and Leadership,136,55,81
-5990,2010,Education,Educational Psychology,93,27,66
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+5980,2010,Education,Accountancy,1273,672,601,841,432
+5982,2010,Education,Advertising,526,158,368,438,88
+5991,2010,Education,Elementary Education,308,19,288,285,23
+5981,2010,Education,Actuarial Science,292,169,123,179,113
+5994,2010,Education,Pre-Early Chld/Elem Ed/Spec Ed,287,21,266,276,11
+5984,2010,Education,Anthropology,201,69,132,152,49
+5989,2010,Education,Educational Policy Studies,149,53,96,75,74
+5997,2010,Education,Special Education,140,17,123,119,21
+5988,2010,Education,Ed Organization and Leadership,136,55,81,125,11
+5990,2010,Education,Educational Psychology,93,27,66,22,71

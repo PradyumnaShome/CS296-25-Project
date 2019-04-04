@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-7072,2015,Business,Curric Unassigned,1026,564,462
-7073,2015,Business,Finance,705,455,250
-7070,2015,Business,Business Administration (MBA),288,203,85
-7076,2015,Business,Marketing,221,91,130
-7080,2015,Business,Technology Management,138,79,59
-7075,2015,Business,Management,100,38,62
-7078,2015,Business,Supply Chain Management,92,38,54
-7069,2015,Business,Business Administration,89,38,51
-7077,2015,Business,Nondegree,78,45,33
-7074,2015,Business,Information Sys & Info Tech,47,28,19
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+7072,2015,Business,Curric Unassigned,1026,564,462,739,287
+7073,2015,Business,Finance,705,455,250,427,278
+7070,2015,Business,Business Administration (MBA),288,203,85,172,116
+7076,2015,Business,Marketing,221,91,130,190,31
+7080,2015,Business,Technology Management,138,79,59,27,111
+7075,2015,Business,Management,100,38,62,82,18
+7078,2015,Business,Supply Chain Management,92,38,54,82,10
+7069,2015,Business,Business Administration,89,38,51,5,84
+7077,2015,Business,Nondegree,78,45,33,1,77
+7074,2015,Business,Information Sys & Info Tech,47,28,19,41,6

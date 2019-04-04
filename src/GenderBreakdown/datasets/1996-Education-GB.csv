@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-3262,1996,Education,Elementary Education,297,19,278
-3257,1996,Education,EDUC GEN,269,68,201
-3259,1996,Education,Ed Organization and Leadership,127,50,77
-3261,1996,Education,Educational Psychology,120,37,83
-3264,1996,Education,Special Education,110,14,96
-3260,1996,Education,Educ Voc Tech,92,33,59
-3255,1996,Education,ED SEC&CON,78,30,48
-3254,1996,Education,ED POL ST,77,25,52
-3256,1996,Education,EDUC ELEMENTARY,77,8,69
-3258,1996,Education,Early Childhood Education,58,1,57
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+3262,1996,Education,Elementary Education,297,19,278,286,11
+3257,1996,Education,EDUC GEN,269,68,201,262,7
+3259,1996,Education,Ed Organization and Leadership,127,50,77,113,14
+3261,1996,Education,Educational Psychology,120,37,83,32,88
+3264,1996,Education,Special Education,110,14,96,83,27
+3260,1996,Education,Educ Voc Tech,92,33,59,71,21
+3255,1996,Education,ED SEC&CON,78,30,48,45,33
+3254,1996,Education,ED POL ST,77,25,52,58,19
+3256,1996,Education,EDUC ELEMENTARY,77,8,69,53,24
+3258,1996,Education,Early Childhood Education,58,1,57,57,1

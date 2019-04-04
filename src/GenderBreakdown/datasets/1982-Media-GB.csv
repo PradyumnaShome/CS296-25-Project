@@ -1,6 +1,6 @@
-,Fall,College,Major Name,Total,Male,Female
-571,1982,Media,Advertising,248,78,170
-575,1982,Media,News-Editorial,125,54,71
-573,1982,Media,Communication,41,18,23
-572,1982,Media,Broadcast Journalism,39,18,21
-574,1982,Media,Journalism,37,16,21
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+571,1982,Media,Advertising,248,78,170,0,227
+575,1982,Media,News-Editorial,125,54,71,0,123
+573,1982,Media,Communication,41,18,23,0,18
+572,1982,Media,Broadcast Journalism,39,18,21,0,39
+574,1982,Media,Journalism,37,16,21,0,30

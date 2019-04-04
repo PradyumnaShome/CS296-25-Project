@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-5606,2008,Fine and Applied Arts,Architectural Studies,581,324,257
-5620,2008,Fine and Applied Arts,Music,348,162,186
-5622,2008,Fine and Applied Arts,Music Education,267,132,135
-5607,2008,Fine and Applied Arts,Architecture,198,124,74
-5632,2008,Fine and Applied Arts,Theatre,188,81,107
-5619,2008,Fine and Applied Arts,Landscape Architecture,155,87,68
-5633,2008,Fine and Applied Arts,Urban Planning,150,87,63
-5609,2008,Fine and Applied Arts,Art Foundation,146,41,105
-5616,2008,Fine and Applied Arts,Industrial Design,107,57,50
-5608,2008,Fine and Applied Arts,Art Education,105,18,87
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+5606,2008,Fine and Applied Arts,Architectural Studies,581,324,257,503,78
+5620,2008,Fine and Applied Arts,Music,348,162,186,91,257
+5622,2008,Fine and Applied Arts,Music Education,267,132,135,240,27
+5607,2008,Fine and Applied Arts,Architecture,198,124,74,119,79
+5632,2008,Fine and Applied Arts,Theatre,188,81,107,123,65
+5619,2008,Fine and Applied Arts,Landscape Architecture,155,87,68,121,34
+5633,2008,Fine and Applied Arts,Urban Planning,150,87,63,118,32
+5609,2008,Fine and Applied Arts,Art Foundation,146,41,105,121,25
+5616,2008,Fine and Applied Arts,Industrial Design,107,57,50,88,19
+5608,2008,Fine and Applied Arts,Art Education,105,18,87,92,13

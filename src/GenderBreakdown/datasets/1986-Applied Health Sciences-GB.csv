@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-1248,1986,Applied Health Sciences,Kinesiology,218,114,104
-1252,1986,Applied Health Sciences,PROG MANAG,153,56,97
-1241,1986,Applied Health Sciences,Biology,88,39,49
-1256,1986,Applied Health Sciences,THER REC,59,10,49
-1249,1986,Applied Health Sciences,Leisure Studies,39,14,25
-1246,1986,Applied Health Sciences,HLTH EDUC,24,2,22
-1247,1986,Applied Health Sciences,HLTH PL AD,23,7,16
-1250,1986,Applied Health Sciences,OUTDR REC,21,11,10
-1242,1986,Applied Health Sciences,CUR INST 2,19,11,8
-1254,1986,Applied Health Sciences,SOC SCI SP,13,7,6
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+1248,1986,Applied Health Sciences,Kinesiology,218,114,104,157,61
+1252,1986,Applied Health Sciences,PROG MANAG,153,56,97,138,15
+1241,1986,Applied Health Sciences,Biology,88,39,49,83,5
+1256,1986,Applied Health Sciences,THER REC,59,10,49,56,3
+1249,1986,Applied Health Sciences,Leisure Studies,39,14,25,19,20
+1246,1986,Applied Health Sciences,HLTH EDUC,24,2,22,22,2
+1247,1986,Applied Health Sciences,HLTH PL AD,23,7,16,22,1
+1250,1986,Applied Health Sciences,OUTDR REC,21,11,10,20,1
+1242,1986,Applied Health Sciences,CUR INST 2,19,11,8,19,0
+1254,1986,Applied Health Sciences,SOC SCI SP,13,7,6,10,3

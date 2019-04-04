@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-3912,1999,Engineering,Electrical Engineering,1282,1125,157
-3918,1999,Engineering,Mechanical Engineering,929,813,116
-3904,1999,Engineering,Civil Engineering,791,616,175
-3905,1999,Engineering,Computer Engineering,783,704,79
-3906,1999,Engineering,Computer Science,777,685,92
-3913,1999,Engineering,GEN ENGR,429,302,127
-3901,1999,Engineering,Aero & Astro Engineering,343,269,74
-3915,1999,Engineering,MATSCI&ENG,193,153,40
-3914,1999,Engineering,Industrial Engineering,148,107,41
-3902,1999,Engineering,Agricultural Engineering,114,84,30
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+3912,1999,Engineering,Electrical Engineering,1282,1125,157,782,500
+3918,1999,Engineering,Mechanical Engineering,929,813,116,671,258
+3904,1999,Engineering,Civil Engineering,791,616,175,555,236
+3905,1999,Engineering,Computer Engineering,783,704,79,633,150
+3906,1999,Engineering,Computer Science,777,685,92,610,167
+3913,1999,Engineering,GEN ENGR,429,302,127,395,34
+3901,1999,Engineering,Aero & Astro Engineering,343,269,74,255,88
+3915,1999,Engineering,MATSCI&ENG,193,153,40,170,23
+3914,1999,Engineering,Industrial Engineering,148,107,41,108,40
+3902,1999,Engineering,Agricultural Engineering,114,84,30,80,34

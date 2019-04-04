@@ -1,9 +1,9 @@
-,Fall,College,Major Name,Total,Male,Female
-2851,1994,Business,Business Administration,1272,789,483
-2850,1994,Business,Accountancy,1150,572,578
-2857,1994,Business,UNASSIGNED,630,327,303
-2854,1994,Business,Finance,589,423,166
-2852,1994,Business,Computer Science,431,364,67
-2853,1994,Business,Economics,264,185,79
-2856,1994,Business,Theatre,137,54,83
-2855,1994,Business,Teaching of Spanish,41,4,37
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+2851,1994,Business,Business Administration,1272,789,483,816,456
+2850,1994,Business,Accountancy,1150,572,578,996,154
+2857,1994,Business,UNASSIGNED,630,327,303,541,89
+2854,1994,Business,Finance,589,423,166,519,70
+2852,1994,Business,Computer Science,431,364,67,105,326
+2853,1994,Business,Economics,264,185,79,68,196
+2856,1994,Business,Theatre,137,54,83,69,68
+2855,1994,Business,Teaching of Spanish,41,4,37,39,2

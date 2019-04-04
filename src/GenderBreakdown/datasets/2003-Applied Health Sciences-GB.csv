@@ -1,10 +1,10 @@
-,Fall,College,Major Name,Total,Male,Female
-4620,2003,Applied Health Sciences,Kinesiology,544,201,343
-4619,2003,Applied Health Sciences,HLTH PL AD,178,46,132
-4621,2003,Applied Health Sciences,Leisure Studies,168,106,62
-4618,2003,Applied Health Sciences,HLTH EDUC,70,6,64
-4625,2003,Applied Health Sciences,"Recreation, Sport, and Tourism ",34,14,20
-4624,2003,Applied Health Sciences,REHAB STUDIES,23,4,19
-4623,2003,Applied Health Sciences,PARK & NR MGMT,8,6,2
-4626,2003,Applied Health Sciences,Rehabilitation,6,1,5
-4622,2003,Applied Health Sciences,MSPH IN C HLTH,5,0,5
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+4620,2003,Applied Health Sciences,Kinesiology,544,201,343,462,82
+4619,2003,Applied Health Sciences,HLTH PL AD,178,46,132,172,6
+4621,2003,Applied Health Sciences,Leisure Studies,168,106,62,133,35
+4618,2003,Applied Health Sciences,HLTH EDUC,70,6,64,65,5
+4625,2003,Applied Health Sciences,"Recreation, Sport, and Tourism ",34,14,20,33,1
+4624,2003,Applied Health Sciences,REHAB STUDIES,23,4,19,23,0
+4623,2003,Applied Health Sciences,PARK & NR MGMT,8,6,2,8,0
+4626,2003,Applied Health Sciences,Rehabilitation,6,1,5,4,2
+4622,2003,Applied Health Sciences,MSPH IN C HLTH,5,0,5,4,1

@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-4677,2003,Fine and Applied Arts,Architectural Studies,529,300,229
-4681,2003,Fine and Applied Arts,Art and Design,297,352,199
-4678,2003,Fine and Applied Arts,Architecture,227,147,80
-4693,2003,Fine and Applied Arts,Music Education,220,84,136
-4699,2003,Fine and Applied Arts,Urban Planning,172,99,73
-4686,2003,Fine and Applied Arts,Landscape Architecture,153,77,76
-4692,2003,Fine and Applied Arts,Music,148,60,88
-4688,2003,Fine and Applied Arts,MUSIC(AMS),116,52,64
-4690,2003,Fine and Applied Arts,MUSIC-INST,104,56,48
-4679,2003,Fine and Applied Arts,Art Education,98,16,82
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+4677,2003,Fine and Applied Arts,Architectural Studies,529,300,229,464,65
+4681,2003,Fine and Applied Arts,Art and Design,297,352,199,248,51
+4678,2003,Fine and Applied Arts,Architecture,227,147,80,128,99
+4693,2003,Fine and Applied Arts,Music Education,220,84,136,190,30
+4699,2003,Fine and Applied Arts,Urban Planning,172,99,73,140,32
+4686,2003,Fine and Applied Arts,Landscape Architecture,153,77,76,121,32
+4692,2003,Fine and Applied Arts,Music,148,60,88,46,102
+4688,2003,Fine and Applied Arts,MUSIC(AMS),116,52,64,26,90
+4690,2003,Fine and Applied Arts,MUSIC-INST,104,56,48,65,39
+4679,2003,Fine and Applied Arts,Art Education,98,16,82,83,15

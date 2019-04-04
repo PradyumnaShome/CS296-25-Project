@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-7220,2015,LAS,Psychology,1480,436,1044
-7183,2015,LAS,Economics,1141,804,337
-7210,2015,LAS,Molecular and Cellular Biology,1041,517,524
-7169,2015,LAS,Chemistry,881,527,354
-7172,2015,LAS,Communication,786,313,473
-7167,2015,LAS,Chemical Engineering,768,549,219
-7207,2015,LAS,Mathematics,759,465,294
-7163,2015,LAS,Biology,730,302,428
-7218,2015,LAS,Political Science,628,370,258
-7184,2015,LAS,English,439,135,304
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+7220,2015,LAS,Psychology,1480,436,1044,1126,354
+7183,2015,LAS,Economics,1141,804,337,511,630
+7210,2015,LAS,Molecular and Cellular Biology,1041,517,524,950,91
+7169,2015,LAS,Chemistry,881,527,354,432,449
+7172,2015,LAS,Communication,786,313,473,639,147
+7167,2015,LAS,Chemical Engineering,768,549,219,474,294
+7207,2015,LAS,Mathematics,759,465,294,246,513
+7163,2015,LAS,Biology,730,302,428,642,88
+7218,2015,LAS,Political Science,628,370,258,530,98
+7184,2015,LAS,English,439,135,304,344,95

@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-7480,2017,ACES,Agr & Consumer Economics,642,440,202
-7487,2017,ACES,Animal Sciences,585,99,485
-7492,2017,ACES,Food Science & Human Nutrition,536,135,401
-7491,2017,ACES,Crop Sciences,249,146,103
-7498,2017,ACES,Natural Resrcs & Environ Sci,228,98,130
-7495,2017,ACES,Human Development & Family St,224,19,204
-7497,2017,ACES,Natural Res & Env Sciences,120,55,65
-7499,2017,ACES,Nondegree,96,49,47
-7482,2017,ACES,Agricultural & Applied Econ,79,47,32
-7483,2017,ACES,Agricultural & Biological Engr,77,51,26
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+7480,2017,ACES,Agr & Consumer Economics,642,440,202,553,89
+7487,2017,ACES,Animal Sciences,585,99,485,476,109
+7492,2017,ACES,Food Science & Human Nutrition,536,135,401,322,214
+7491,2017,ACES,Crop Sciences,249,146,103,172,77
+7498,2017,ACES,Natural Resrcs & Environ Sci,228,98,130,187,41
+7495,2017,ACES,Human Development & Family St,224,19,204,215,9
+7497,2017,ACES,Natural Res & Env Sciences,120,55,65,42,78
+7499,2017,ACES,Nondegree,96,49,47,70,26
+7482,2017,ACES,Agricultural & Applied Econ,79,47,32,10,69
+7483,2017,ACES,Agricultural & Biological Engr,77,51,26,54,23

@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-3872,1999,Business,Business Administration,1355,767,588
-3877,1999,Business,Finance,946,612,334
-3871,1999,Business,Accountancy,887,454,433
-3883,1999,Business,UNASSIGNED,577,302,275
-3874,1999,Business,Computer Science,384,306,78
-3875,1999,Business,Economics,252,178,74
-3882,1999,Business,Theatre,108,54,54
-3881,1999,Business,Technical Systems Management,74,66,8
-3876,1999,Business,Executive MBA Program,54,45,9
-3879,1999,Business,Leisure Studies,42,10,32
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+3872,1999,Business,Business Administration,1355,767,588,997,358
+3877,1999,Business,Finance,946,612,334,808,138
+3871,1999,Business,Accountancy,887,454,433,728,159
+3883,1999,Business,UNASSIGNED,577,302,275,555,22
+3874,1999,Business,Computer Science,384,306,78,48,336
+3875,1999,Business,Economics,252,178,74,61,191
+3882,1999,Business,Theatre,108,54,54,55,53
+3881,1999,Business,Technical Systems Management,74,66,8,73,1
+3876,1999,Business,Executive MBA Program,54,45,9,52,2
+3879,1999,Business,Leisure Studies,42,10,32,39,3

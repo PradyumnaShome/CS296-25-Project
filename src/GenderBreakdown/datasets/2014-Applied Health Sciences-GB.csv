@@ -1,10 +1,10 @@
-,Fall,College,Major Name,Total,Male,Female
-6839,2014,Applied Health Sciences,Community Health,644,166,478
-6842,2014,Applied Health Sciences,Kinesiology,635,267,368
-6845,2014,Applied Health Sciences,"Recreation, Sport, and Tourism ",345,218,127
-6846,2014,Applied Health Sciences,Speech & Hearing Science,342,11,331
-6841,2014,Applied Health Sciences,Interdisciplinary Health Sci,202,45,157
-6844,2014,Applied Health Sciences,Public Health,28,8,20
-6840,2014,Applied Health Sciences,Health,27,9,18
-6838,2014,Applied Health Sciences,Audiology,25,4,21
-6843,2014,Applied Health Sciences,Nondegree,6,4,2
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+6839,2014,Applied Health Sciences,Community Health,644,166,478,604,40
+6842,2014,Applied Health Sciences,Kinesiology,635,267,368,549,86
+6845,2014,Applied Health Sciences,"Recreation, Sport, and Tourism ",345,218,127,282,63
+6846,2014,Applied Health Sciences,Speech & Hearing Science,342,11,331,319,23
+6841,2014,Applied Health Sciences,Interdisciplinary Health Sci,202,45,157,194,8
+6844,2014,Applied Health Sciences,Public Health,28,8,20,24,4
+6840,2014,Applied Health Sciences,Health,27,9,18,26,1
+6838,2014,Applied Health Sciences,Audiology,25,4,21,17,8
+6843,2014,Applied Health Sciences,Nondegree,6,4,2,2,4

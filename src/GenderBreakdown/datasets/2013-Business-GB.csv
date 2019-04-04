@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-6629,2013,Business,Curric Unassigned,983,542,441
-6630,2013,Business,Finance,605,387,218
-6627,2013,Business,Business Administration (MBA),352,244,108
-6633,2013,Business,Marketing,207,70,137
-6637,2013,Business,Technology Management,125,85,39
-6632,2013,Business,Management,109,47,62
-6634,2013,Business,Nondegree,72,43,29
-6635,2013,Business,Supply Chain Management,70,38,32
-6626,2013,Business,Business Administration,69,33,36
-6631,2013,Business,Information Sys & Info Tech,48,37,11
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+6629,2013,Business,Curric Unassigned,983,542,441,739,244
+6630,2013,Business,Finance,605,387,218,363,242
+6627,2013,Business,Business Administration (MBA),352,244,108,234,118
+6633,2013,Business,Marketing,207,70,137,182,25
+6637,2013,Business,Technology Management,125,85,39,11,114
+6632,2013,Business,Management,109,47,62,99,10
+6634,2013,Business,Nondegree,72,43,29,0,72
+6635,2013,Business,Supply Chain Management,70,38,32,65,5
+6626,2013,Business,Business Administration,69,33,36,2,67
+6631,2013,Business,Information Sys & Info Tech,48,37,11,41,7

@@ -1,4 +1,4 @@
-,Fall,College,Major Name,Total,Male,Female
-7479,2016,iSchool,Library & Information Science,262,61,200
-7478,2016,iSchool,Information Management,42,20,22
-7477,2016,iSchool,Bioinformatics,1,0,1
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+7479,2016,iSchool,Library & Information Science,262,61,200,133,129
+7478,2016,iSchool,Information Management,42,20,22,5,37
+7477,2016,iSchool,Bioinformatics,1,0,1,0,1

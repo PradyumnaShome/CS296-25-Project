@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-7039,2015,ACES,Agr & Consumer Economics,670,445,225
-7047,2015,ACES,Animal Sciences,620,123,497
-7051,2015,ACES,Food Science & Human Nutrition,493,119,374
-7050,2015,ACES,Crop Sciences,264,152,112
-7056,2015,ACES,Natural Resrcs & Environ Sci,235,124,111
-7054,2015,ACES,Human Development & Family St,198,24,174
-7057,2015,ACES,Nondegree,119,68,51
-7043,2015,ACES,Agricultural & Biological Engr,98,64,34
-7042,2015,ACES,Agricultural & Applied Econ,83,47,36
-7055,2015,ACES,Natural Res & Env Sciences,83,46,37
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+7039,2015,ACES,Agr & Consumer Economics,670,445,225,565,105
+7047,2015,ACES,Animal Sciences,620,123,497,511,109
+7051,2015,ACES,Food Science & Human Nutrition,493,119,374,351,142
+7050,2015,ACES,Crop Sciences,264,152,112,184,80
+7056,2015,ACES,Natural Resrcs & Environ Sci,235,124,111,182,53
+7054,2015,ACES,Human Development & Family St,198,24,174,186,12
+7057,2015,ACES,Nondegree,119,68,51,76,43
+7043,2015,ACES,Agricultural & Biological Engr,98,64,34,61,37
+7042,2015,ACES,Agricultural & Applied Econ,83,47,36,13,70
+7055,2015,ACES,Natural Res & Env Sciences,83,46,37,34,49

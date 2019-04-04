@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-6861,2014,Education,Accountancy,1490,732,758
-6863,2014,Education,Advertising,603,182,421
-6862,2014,Education,Actuarial Science,385,218,167
-6875,2014,Education,Pre-Early Chld/Elem Ed/Spec Ed,241,18,223
-6872,2014,Education,Elementary Education,216,16,200
-6865,2014,Education,Anthropology,177,46,131
-6870,2014,Education,Educational Policy Studies,155,64,91
-6878,2014,Education,Special Education,144,19,125
-6867,2014,Education,Curriculum and Instruction,112,22,90
-6869,2014,Education,Ed Organization and Leadership,101,35,66
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+6861,2014,Education,Accountancy,1490,732,758,839,651
+6863,2014,Education,Advertising,603,182,421,505,98
+6862,2014,Education,Actuarial Science,385,218,167,219,166
+6875,2014,Education,Pre-Early Chld/Elem Ed/Spec Ed,241,18,223,231,10
+6872,2014,Education,Elementary Education,216,16,200,211,5
+6865,2014,Education,Anthropology,177,46,131,123,54
+6870,2014,Education,Educational Policy Studies,155,64,91,83,72
+6878,2014,Education,Special Education,144,19,125,130,14
+6867,2014,Education,Curriculum and Instruction,112,22,90,69,43
+6869,2014,Education,Ed Organization and Leadership,101,35,66,87,14

@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-5013,2005,Engineering,Electrical Engineering,1406,1223,183
-5012,2005,Engineering,Computer Science,1064,943,119
-5021,2005,Engineering,Mechanical Engineering,1055,931,121
-5010,2005,Engineering,Civil Engineering,795,641,154
-5018,2005,Engineering,General Engineering,624,509,115
-5011,2005,Engineering,Computer Engineering,563,520,42
-5020,2005,Engineering,Materials Science & Engr,383,288,95
-5007,2005,Engineering,Aerospace Engineering,381,326,55
-5024,2005,Engineering,Physics,296,258,38
-5023,2005,Engineering,Nuclear Engineering,159,136,23
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+5013,2005,Engineering,Electrical Engineering,1406,1223,183,624,782
+5012,2005,Engineering,Computer Science,1064,943,119,529,535
+5021,2005,Engineering,Mechanical Engineering,1055,931,121,768,287
+5010,2005,Engineering,Civil Engineering,795,641,154,508,287
+5018,2005,Engineering,General Engineering,624,509,115,550,74
+5011,2005,Engineering,Computer Engineering,563,520,42,399,164
+5020,2005,Engineering,Materials Science & Engr,383,288,95,183,200
+5007,2005,Engineering,Aerospace Engineering,381,326,55,310,71
+5024,2005,Engineering,Physics,296,258,38,27,269
+5023,2005,Engineering,Nuclear Engineering,159,136,23,101,58

@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-1078,1985,Education,Elementary Education,347,13,334
-1073,1985,Education,EDUC GEN,185,44,141
-1077,1985,Education,Educational Psychology,138,58,80
-1072,1985,Education,EDUC ELEMENTARY,117,16,101
-1071,1985,Education,ED SEC&CON,114,44,70
-1076,1985,Education,Educ Voc Tech,113,63,50
-1075,1985,Education,Ed Organization and Leadership,95,44,51
-1074,1985,Education,Early Childhood Education,71,2,69
-1079,1985,Education,Special Education,70,9,61
-1070,1985,Education,ED POL ST,45,20,25
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+1078,1985,Education,Elementary Education,347,13,334,344,3
+1073,1985,Education,EDUC GEN,185,44,141,180,5
+1077,1985,Education,Educational Psychology,138,58,80,83,55
+1072,1985,Education,EDUC ELEMENTARY,117,16,101,82,35
+1071,1985,Education,ED SEC&CON,114,44,70,75,39
+1076,1985,Education,Educ Voc Tech,113,63,50,75,38
+1075,1985,Education,Ed Organization and Leadership,95,44,51,85,10
+1074,1985,Education,Early Childhood Education,71,2,69,69,2
+1079,1985,Education,Special Education,70,9,61,51,19
+1070,1985,Education,ED POL ST,45,20,25,21,24

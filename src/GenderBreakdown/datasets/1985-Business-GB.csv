@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-1059,1985,Business,Accountancy,1212,586,626
-1060,1985,Business,Business Administration,983,519,464
-1063,1985,Business,Finance,622,358,264
-1068,1985,Business,UNASSIGNED,602,265,337
-1061,1985,Business,Computer Science,370,301,69
-1064,1985,Business,MARKETING,218,76,142
-1062,1985,Business,Economics,192,155,37
-1067,1985,Business,Theatre,100,52,48
-1066,1985,Business,Teaching of Spanish,14,3,11
-1065,1985,Business,SEC TRAINING,1,0,1
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+1059,1985,Business,Accountancy,1212,586,626,1141,71
+1060,1985,Business,Business Administration,983,519,464,822,161
+1063,1985,Business,Finance,622,358,264,586,36
+1068,1985,Business,UNASSIGNED,602,265,337,578,24
+1061,1985,Business,Computer Science,370,301,69,152,218
+1064,1985,Business,MARKETING,218,76,142,215,3
+1062,1985,Business,Economics,192,155,37,59,133
+1067,1985,Business,Theatre,100,52,48,59,41
+1066,1985,Business,Teaching of Spanish,14,3,11,11,3
+1065,1985,Business,SEC TRAINING,1,0,1,1,0

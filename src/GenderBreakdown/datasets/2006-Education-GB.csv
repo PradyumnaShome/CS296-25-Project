@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-5176,2006,Education,Accountancy,1222,665,553
-5188,2006,Education,Elementary Education,389,30,358
-5178,2006,Education,Advertising,365,98,267
-5177,2006,Education,Actuarial Science,281,189,92
-5179,2006,Education,Anthropology,222,69,153
-5190,2006,Education,Pre-Early Chld/Elem Ed/Spec Ed,188,22,166
-5182,2006,Education,Ed Organization and Leadership,179,62,117
-5192,2006,Education,Special Education,154,17,137
-5187,2006,Education,Educational Psychology,132,36,96
-5186,2006,Education,Educational Policy Studies,129,46,83
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+5176,2006,Education,Accountancy,1222,665,553,939,283
+5188,2006,Education,Elementary Education,389,30,358,348,41
+5178,2006,Education,Advertising,365,98,267,326,39
+5177,2006,Education,Actuarial Science,281,189,92,220,61
+5179,2006,Education,Anthropology,222,69,153,170,52
+5190,2006,Education,Pre-Early Chld/Elem Ed/Spec Ed,188,22,166,183,5
+5182,2006,Education,Ed Organization and Leadership,179,62,117,171,8
+5192,2006,Education,Special Education,154,17,137,127,27
+5187,2006,Education,Educational Psychology,132,36,96,34,98
+5186,2006,Education,Educational Policy Studies,129,46,83,65,64

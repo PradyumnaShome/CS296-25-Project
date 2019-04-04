@@ -1,10 +1,10 @@
-,Fall,College,Major Name,Total,Male,Female
-3246,1996,Business,Business Administration,1456,848,608
-3245,1996,Business,Accountancy,1093,551,542
-3249,1996,Business,Finance,664,450,214
-3253,1996,Business,UNASSIGNED,567,330,237
-3247,1996,Business,Computer Science,352,287,65
-3248,1996,Business,Economics,258,180,78
-3252,1996,Business,Theatre,133,60,73
-3251,1996,Business,Teaching of Spanish,27,1,26
-3250,1996,Business,Leisure Studies,8,3,5
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+3246,1996,Business,Business Administration,1456,848,608,932,524
+3245,1996,Business,Accountancy,1093,551,542,913,180
+3249,1996,Business,Finance,664,450,214,567,97
+3253,1996,Business,UNASSIGNED,567,330,237,488,79
+3247,1996,Business,Computer Science,352,287,65,72,280
+3248,1996,Business,Economics,258,180,78,73,185
+3252,1996,Business,Theatre,133,60,73,73,60
+3251,1996,Business,Teaching of Spanish,27,1,26,26,1
+3250,1996,Business,Leisure Studies,8,3,5,8,0

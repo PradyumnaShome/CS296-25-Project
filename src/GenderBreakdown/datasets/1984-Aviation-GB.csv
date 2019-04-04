@@ -1,4 +1,4 @@
-,Fall,College,Major Name,Total,Male,Female
-854,1984,Aviation,Air Systems,90,79,11
-856,1984,Aviation,Professional Pilot,35,30,5
-855,1984,Aviation,Avionics,11,10,1
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+854,1984,Aviation,Air Systems,90,79,11,0,86
+856,1984,Aviation,Professional Pilot,35,30,5,0,34
+855,1984,Aviation,Avionics,11,10,1,0,10

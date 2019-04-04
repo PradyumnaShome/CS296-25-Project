@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-4990,2005,Education,Accountancy,1261,687,572
-5002,2005,Education,Elementary Education,408,36,372
-4999,2005,Education,Education General,285,32,252
-4992,2005,Education,Advertising,263,67,196
-4991,2005,Education,Actuarial Science,249,167,82
-4993,2005,Education,Anthropology,207,72,135
-5005,2005,Education,Special Education,157,15,142
-5000,2005,Education,Educational Policy Studies,135,41,94
-4996,2005,Education,Ed Organization and Leadership,127,47,80
-5001,2005,Education,Educational Psychology,124,34,90
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+4990,2005,Education,Accountancy,1261,687,572,974,287
+5002,2005,Education,Elementary Education,408,36,372,360,48
+4999,2005,Education,Education General,285,32,252,280,5
+4992,2005,Education,Advertising,263,67,196,225,38
+4991,2005,Education,Actuarial Science,249,167,82,203,46
+4993,2005,Education,Anthropology,207,72,135,147,60
+5005,2005,Education,Special Education,157,15,142,133,24
+5000,2005,Education,Educational Policy Studies,135,41,94,69,66
+4996,2005,Education,Ed Organization and Leadership,127,47,80,117,10
+5001,2005,Education,Educational Psychology,124,34,90,31,93

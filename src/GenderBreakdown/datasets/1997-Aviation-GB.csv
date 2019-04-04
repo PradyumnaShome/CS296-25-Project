@@ -1,5 +1,5 @@
-,Fall,College,Major Name,Total,Male,Female
-3455,1997,Aviation,Professional Pilot,139,113,26
-3453,1997,Aviation,Nondegree,12,12,0
-3454,1997,Aviation,PP/AS,5,5,0
-3452,1997,Aviation,Air Systems,1,1,0
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+3455,1997,Aviation,Professional Pilot,139,113,26,128,11
+3453,1997,Aviation,Nondegree,12,12,0,12,0
+3454,1997,Aviation,PP/AS,5,5,0,5,0
+3452,1997,Aviation,Air Systems,1,1,0,1,0

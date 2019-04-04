@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-475,1982,Education,Elementary Education,382,21,361
-474,1982,Education,Educational Psychology,172,69,103
-468,1982,Education,EDUC ELEMENTARY,145,16,129
-469,1982,Education,EDUC GEN,135,27,108
-472,1982,Education,Ed Organization and Leadership,130,55,75
-467,1982,Education,ED SEC&CON,117,44,73
-473,1982,Education,Educ Voc Tech,113,55,58
-476,1982,Education,Special Education,106,15,91
-466,1982,Education,ED POL ST,66,33,33
-482,1982,Education,TECH ED SP,62,39,23
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+475,1982,Education,Elementary Education,382,21,361,376,6
+474,1982,Education,Educational Psychology,172,69,103,122,50
+468,1982,Education,EDUC ELEMENTARY,145,16,129,102,43
+469,1982,Education,EDUC GEN,135,27,108,133,2
+472,1982,Education,Ed Organization and Leadership,130,55,75,115,15
+467,1982,Education,ED SEC&CON,117,44,73,73,44
+473,1982,Education,Educ Voc Tech,113,55,58,84,29
+476,1982,Education,Special Education,106,15,91,81,25
+466,1982,Education,ED POL ST,66,33,33,31,35
+482,1982,Education,TECH ED SP,62,39,23,54,8

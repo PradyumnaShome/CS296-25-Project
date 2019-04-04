@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-6177,2011,Applied Health Sciences,Kinesiology,648,270,377
-6175,2011,Applied Health Sciences,Community Health,605,155,448
-6180,2011,Applied Health Sciences,"Recreation, Sport, and Tourism ",374,242,132
-6182,2011,Applied Health Sciences,Speech & Hearing Science,362,15,347
-6176,2011,Applied Health Sciences,Health,139,33,106
-6179,2011,Applied Health Sciences,Public Health,30,8,22
-6174,2011,Applied Health Sciences,Audiology,18,5,13
-6173,2011,Applied Health Sciences,Athletic Training,17,5,12
-6178,2011,Applied Health Sciences,Nondegree,12,7,5
-6181,2011,Applied Health Sciences,Rehabilitation,10,3,7
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+6177,2011,Applied Health Sciences,Kinesiology,648,270,377,572,76
+6175,2011,Applied Health Sciences,Community Health,605,155,448,572,33
+6180,2011,Applied Health Sciences,"Recreation, Sport, and Tourism ",374,242,132,309,65
+6182,2011,Applied Health Sciences,Speech & Hearing Science,362,15,347,342,20
+6176,2011,Applied Health Sciences,Health,139,33,106,135,4
+6179,2011,Applied Health Sciences,Public Health,30,8,22,22,8
+6174,2011,Applied Health Sciences,Audiology,18,5,13,16,2
+6173,2011,Applied Health Sciences,Athletic Training,17,5,12,17,0
+6178,2011,Applied Health Sciences,Nondegree,12,7,5,11,1
+6181,2011,Applied Health Sciences,Rehabilitation,10,3,7,8,2

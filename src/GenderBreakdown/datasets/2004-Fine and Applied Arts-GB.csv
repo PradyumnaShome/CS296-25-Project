@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-4836,2004,Fine and Applied Arts,Architectural Studies,547,308,238
-4850,2004,Fine and Applied Arts,Music,249,102,147
-4852,2004,Fine and Applied Arts,Music Education,208,82,126
-4837,2004,Fine and Applied Arts,Architecture,202,125,77
-4861,2004,Fine and Applied Arts,Theatre,202,97,105
-4862,2004,Fine and Applied Arts,Urban Planning,174,89,85
-4849,2004,Fine and Applied Arts,Landscape Architecture,166,82,84
-4844,2004,Fine and Applied Arts,General Curriculum,147,45,101
-4848,2004,Fine and Applied Arts,Instrumental Music,112,55,57
-4838,2004,Fine and Applied Arts,Art Education,106,18,88
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+4836,2004,Fine and Applied Arts,Architectural Studies,547,308,238,482,65
+4850,2004,Fine and Applied Arts,Music,249,102,147,66,183
+4852,2004,Fine and Applied Arts,Music Education,208,82,126,179,29
+4837,2004,Fine and Applied Arts,Architecture,202,125,77,128,74
+4861,2004,Fine and Applied Arts,Theatre,202,97,105,139,63
+4862,2004,Fine and Applied Arts,Urban Planning,174,89,85,140,34
+4849,2004,Fine and Applied Arts,Landscape Architecture,166,82,84,136,30
+4844,2004,Fine and Applied Arts,General Curriculum,147,45,101,133,14
+4848,2004,Fine and Applied Arts,Instrumental Music,112,55,57,73,39
+4838,2004,Fine and Applied Arts,Art Education,106,18,88,89,17

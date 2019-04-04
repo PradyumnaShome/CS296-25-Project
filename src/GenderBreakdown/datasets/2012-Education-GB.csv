@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-6420,2012,Education,Accountancy,1366,689,677
-6422,2012,Education,Advertising,641,180,461
-6421,2012,Education,Actuarial Science,288,169,119
-6433,2012,Education,Elementary Education,270,22,248
-6436,2012,Education,Pre-Early Chld/Elem Ed/Spec Ed,260,15,245
-6424,2012,Education,Anthropology,226,69,157
-6428,2012,Education,Ed Organization and Leadership,170,61,109
-6431,2012,Education,Educational Policy Studies,161,66,95
-6439,2012,Education,Special Education,147,17,130
-6426,2012,Education,Curriculum and Instruction,113,24,89
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+6420,2012,Education,Accountancy,1366,689,677,880,486
+6422,2012,Education,Advertising,641,180,461,526,115
+6421,2012,Education,Actuarial Science,288,169,119,179,109
+6433,2012,Education,Elementary Education,270,22,248,253,17
+6436,2012,Education,Pre-Early Chld/Elem Ed/Spec Ed,260,15,245,251,9
+6424,2012,Education,Anthropology,226,69,157,166,60
+6428,2012,Education,Ed Organization and Leadership,170,61,109,155,15
+6431,2012,Education,Educational Policy Studies,161,66,95,92,69
+6439,2012,Education,Special Education,147,17,130,126,21
+6426,2012,Education,Curriculum and Instruction,113,24,89,72,41

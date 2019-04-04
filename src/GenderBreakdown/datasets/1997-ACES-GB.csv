@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-3394,1997,ACES,Animal Sciences,549,205,344
-3424,1997,ACES,Physics,302,278,24
-3402,1997,ACES,Food Science & Human Nutrition,278,85,193
-3388,1997,ACES,Agricultural & Applied Econ,246,185,61
-3429,1997,ACES,Speech & Hearing Science,246,7,239
-3385,1997,ACES,Agr & Consumer Economics,181,130,51
-3403,1997,ACES,Forestry,126,68,58
-3404,1997,ACES,H DVL-FAM,111,5,106
-3393,1997,ACES,Agronomy,108,76,32
-3411,1997,ACES,Horticulture,106,65,41
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+3394,1997,ACES,Animal Sciences,549,205,344,490,59
+3424,1997,ACES,Physics,302,278,24,97,205
+3402,1997,ACES,Food Science & Human Nutrition,278,85,193,237,41
+3388,1997,ACES,Agricultural & Applied Econ,246,185,61,167,79
+3429,1997,ACES,Speech & Hearing Science,246,7,239,217,29
+3385,1997,ACES,Agr & Consumer Economics,181,130,51,178,3
+3403,1997,ACES,Forestry,126,68,58,120,6
+3404,1997,ACES,H DVL-FAM,111,5,106,108,3
+3393,1997,ACES,Agronomy,108,76,32,71,37
+3411,1997,ACES,Horticulture,106,65,41,59,47

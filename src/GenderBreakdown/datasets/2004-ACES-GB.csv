@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-4771,2004,ACES,Animal Sciences,594,161,433
-4774,2004,ACES,Food Science & Human Nutrition,413,95,318
-4768,2004,ACES,"Agribusiness, Farm & Financial ",286,197,87
-4781,2004,ACES,Natural Resrcs & Environ Sci,202,114,88
-4778,2004,ACES,Human Development & Family St,193,10,183
-4779,2004,ACES,"Intl, Resource, Consumer Econ ",176,114,62
-4773,2004,ACES,Crop Sciences,154,105,48
-4780,2004,ACES,Natural Res & Env Sciences,115,61,54
-4766,2004,ACES,Agr & Environmental Cmc & Educ,112,37,75
-4772,2004,ACES,Consumer and Textile Marketing,99,3,96
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+4771,2004,ACES,Animal Sciences,594,161,433,544,50
+4774,2004,ACES,Food Science & Human Nutrition,413,95,318,364,49
+4768,2004,ACES,"Agribusiness, Farm & Financial ",286,197,87,279,7
+4781,2004,ACES,Natural Resrcs & Environ Sci,202,114,88,195,7
+4778,2004,ACES,Human Development & Family St,193,10,183,190,3
+4779,2004,ACES,"Intl, Resource, Consumer Econ ",176,114,62,172,4
+4773,2004,ACES,Crop Sciences,154,105,48,107,47
+4780,2004,ACES,Natural Res & Env Sciences,115,61,54,53,62
+4766,2004,ACES,Agr & Environmental Cmc & Educ,112,37,75,110,2
+4772,2004,ACES,Consumer and Textile Marketing,99,3,96,94,5

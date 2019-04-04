@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-5792,2009,Engineering,Civil Engineering,1090,816,272
-5804,2009,Engineering,Mechanical Engineering,1052,936,114
-5794,2009,Engineering,Computer Science,1035,914,121
-5796,2009,Engineering,Electrical Engineering,945,837,107
-5795,2009,Engineering,Electrical & Computer Engr,513,446,67
-5787,2009,Engineering,Aerospace Engineering,507,443,64
-5793,2009,Engineering,Computer Engineering,469,423,45
-5803,2009,Engineering,Materials Science & Engr,463,344,119
-5801,2009,Engineering,General Engineering,454,349,104
-5808,2009,Engineering,Physics,275,238,37
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+5792,2009,Engineering,Civil Engineering,1090,816,272,732,358
+5804,2009,Engineering,Mechanical Engineering,1052,936,114,685,367
+5794,2009,Engineering,Computer Science,1035,914,121,450,585
+5796,2009,Engineering,Electrical Engineering,945,837,107,512,433
+5795,2009,Engineering,Electrical & Computer Engr,513,446,67,91,422
+5787,2009,Engineering,Aerospace Engineering,507,443,64,356,151
+5793,2009,Engineering,Computer Engineering,469,423,45,305,164
+5803,2009,Engineering,Materials Science & Engr,463,344,119,238,225
+5801,2009,Engineering,General Engineering,454,349,104,392,62
+5808,2009,Engineering,Physics,275,238,37,24,251

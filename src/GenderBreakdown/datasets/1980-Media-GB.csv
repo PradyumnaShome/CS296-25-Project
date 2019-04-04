@@ -1,4 +1,4 @@
-,Fall,College,Major Name,Total,Male,Female
-183,1980,Media,Advertising,240,77,163
-185,1980,Media,Journalism,203,75,128
-184,1980,Media,Communication,27,12,15
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+183,1980,Media,Advertising,240,77,163,0,216
+185,1980,Media,Journalism,203,75,128,0,195
+184,1980,Media,Communication,27,12,15,0,10

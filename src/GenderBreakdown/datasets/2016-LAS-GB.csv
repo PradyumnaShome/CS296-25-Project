@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-7441,2016,LAS,Psychology,1556,412,1144
-7407,2016,LAS,Economics,1195,830,365
-7433,2016,LAS,Molecular and Cellular Biology,997,453,544
-7392,2016,LAS,Chemistry,836,501,335
-7390,2016,LAS,Chemical Engineering,794,563,231
-7430,2016,LAS,Mathematics,784,485,299
-7395,2016,LAS,Communication,750,279,471
-7386,2016,LAS,Biology,723,278,445
-7440,2016,LAS,Political Science,615,342,273
-7408,2016,LAS,English,435,124,311
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+7441,2016,LAS,Psychology,1556,412,1144,1203,353
+7407,2016,LAS,Economics,1195,830,365,577,618
+7433,2016,LAS,Molecular and Cellular Biology,997,453,544,892,105
+7392,2016,LAS,Chemistry,836,501,335,409,427
+7390,2016,LAS,Chemical Engineering,794,563,231,480,314
+7430,2016,LAS,Mathematics,784,485,299,236,548
+7395,2016,LAS,Communication,750,279,471,614,136
+7386,2016,LAS,Biology,723,278,445,659,64
+7440,2016,LAS,Political Science,615,342,273,522,93
+7408,2016,LAS,English,435,124,311,342,93

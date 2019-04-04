@@ -1,5 +1,5 @@
-,Fall,College,Major Name,Total,Male,Female
-1995,1989,VetMed,Veterinary Medicine,320,130,190
-1992,1989,VetMed,VMS - Veterinary Biosciences,34,19,15
-1993,1989,VetMed,VMS - Veterinary Pathobiology,26,18,8
-1994,1989,VetMed,VMS-Veterinary Clinical Medcne,25,16,9
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+1995,1989,VetMed,Veterinary Medicine,320,130,190,301,19
+1992,1989,VetMed,VMS - Veterinary Biosciences,34,19,15,10,24
+1993,1989,VetMed,VMS - Veterinary Pathobiology,26,18,8,15,11
+1994,1989,VetMed,VMS-Veterinary Clinical Medcne,25,16,9,7,18

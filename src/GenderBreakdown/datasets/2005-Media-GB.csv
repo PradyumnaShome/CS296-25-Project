@@ -1,7 +1,7 @@
-,Fall,College,Major Name,Total,Male,Female
-5133,2005,Media,News-Editorial,125,48,77
-5132,2005,Media,Media Studies,122,34,88
-5129,2005,Media,Broadcast Journalism,79,30,49
-5130,2005,Media,Communications,51,22,29
-5131,2005,Media,Journalism,31,11,20
-5134,2005,Media,Nondegree,2,1,1
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+5133,2005,Media,News-Editorial,125,48,77,115,10
+5132,2005,Media,Media Studies,122,34,88,114,8
+5129,2005,Media,Broadcast Journalism,79,30,49,74,5
+5130,2005,Media,Communications,51,22,29,10,41
+5131,2005,Media,Journalism,31,11,20,23,8
+5134,2005,Media,Nondegree,2,1,1,1,1

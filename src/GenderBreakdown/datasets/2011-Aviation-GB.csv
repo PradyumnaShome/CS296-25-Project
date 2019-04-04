@@ -1,5 +1,5 @@
-,Fall,College,Major Name,Total,Male,Female
-6183,2011,Aviation,Aviation Human Factors,70,65,5
-6186,2011,Aviation,Professional Pilot,26,25,1
-6184,2011,Aviation,Human Factors,1,1,0
-6185,2011,Aviation,Nondegree,1,1,0
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+6183,2011,Aviation,Aviation Human Factors,70,65,5,63,7
+6186,2011,Aviation,Professional Pilot,26,25,1,23,3
+6184,2011,Aviation,Human Factors,1,1,0,0,1
+6185,2011,Aviation,Nondegree,1,1,0,1,0

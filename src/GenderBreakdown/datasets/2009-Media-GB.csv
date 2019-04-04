@@ -1,9 +1,9 @@
-,Fall,College,Major Name,Total,Male,Female
-5926,2009,Media,News-Editorial,215,64,151
-5920,2009,Media,Broadcast Journalism,154,42,112
-5924,2009,Media,Media Studies,110,31,79
-5921,2009,Media,Communications,50,23,27
-5922,2009,Media,General Curriculum,40,12,28
-5923,2009,Media,Journalism,25,8,17
-5927,2009,Media,Nondegree,6,1,5
-5925,2009,Media,Media and Cinema Studies,1,1,0
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+5926,2009,Media,News-Editorial,215,64,151,202,13
+5920,2009,Media,Broadcast Journalism,154,42,112,136,18
+5924,2009,Media,Media Studies,110,31,79,93,17
+5921,2009,Media,Communications,50,23,27,11,39
+5922,2009,Media,General Curriculum,40,12,28,33,7
+5923,2009,Media,Journalism,25,8,17,18,7
+5927,2009,Media,Nondegree,6,1,5,2,4
+5925,2009,Media,Media and Cinema Studies,1,1,0,1,0

@@ -1,10 +1,10 @@
-,Fall,College,Major Name,Total,Male,Female
-5365,2007,Business,Curric Unassigned,1006,578,428
-5367,2007,Business,Finance,692,484,207
-5362,2007,Business,Business Administration,509,254,254
-5363,2007,Business,Business Administration (MBA),371,275,96
-5370,2007,Business,Nondegree,26,18,8
-5369,2007,Business,Marketing,3,1,2
-5364,2007,Business,Business Process Management,2,1,1
-5366,2007,Business,Economics,1,1,0
-5368,2007,Business,Management,1,0,1
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+5365,2007,Business,Curric Unassigned,1006,578,428,872,134
+5367,2007,Business,Finance,692,484,207,486,206
+5362,2007,Business,Business Administration,509,254,254,376,133
+5363,2007,Business,Business Administration (MBA),371,275,96,228,143
+5370,2007,Business,Nondegree,26,18,8,0,26
+5369,2007,Business,Marketing,3,1,2,2,1
+5364,2007,Business,Business Process Management,2,1,1,2,0
+5366,2007,Business,Economics,1,1,0,1,0
+5368,2007,Business,Management,1,0,1,1,0

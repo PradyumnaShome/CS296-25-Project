@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-3718,1998,Fine and Applied Arts,Architectural Studies,532,324,208
-3722,1998,Fine and Applied Arts,Art and Design,336,412,178
-3734,1998,Fine and Applied Arts,Music Education,294,119,175
-3719,1998,Fine and Applied Arts,Architecture,153,100,53
-3740,1998,Fine and Applied Arts,Urban Planning,151,94,57
-3733,1998,Fine and Applied Arts,Music,142,66,76
-3727,1998,Fine and Applied Arts,Landscape Architecture,141,86,55
-3731,1998,Fine and Applied Arts,MUSIC-INST,117,39,78
-3725,1998,Fine and Applied Arts,Graphic Design,112,45,67
-3720,1998,Fine and Applied Arts,Art Education,101,25,76
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+3718,1998,Fine and Applied Arts,Architectural Studies,532,324,208,469,63
+3722,1998,Fine and Applied Arts,Art and Design,336,412,178,284,55
+3734,1998,Fine and Applied Arts,Music Education,294,119,175,247,47
+3719,1998,Fine and Applied Arts,Architecture,153,100,53,106,47
+3740,1998,Fine and Applied Arts,Urban Planning,151,94,57,118,33
+3733,1998,Fine and Applied Arts,Music,142,66,76,42,100
+3727,1998,Fine and Applied Arts,Landscape Architecture,141,86,55,122,19
+3731,1998,Fine and Applied Arts,MUSIC-INST,117,39,78,80,37
+3725,1998,Fine and Applied Arts,Graphic Design,112,45,67,101,11
+3720,1998,Fine and Applied Arts,Art Education,101,25,76,81,20

@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-7575,2017,Fine and Applied Arts,Architectural Studies,433,250,183
-7589,2017,Fine and Applied Arts,Music,350,197,153
-7600,2017,Fine and Applied Arts,Theatre,208,82,126
-7585,2017,Fine and Applied Arts,Industrial Design,206,96,110
-7576,2017,Fine and Applied Arts,Architecture,179,86,93
-7583,2017,Fine and Applied Arts,Graphic Design,167,41,126
-7591,2017,Fine and Applied Arts,Music Education,166,71,95
-7588,2017,Fine and Applied Arts,Landscape Architecture,111,28,83
-7586,2017,Fine and Applied Arts,Instrumental Music,75,32,43
-7602,2017,Fine and Applied Arts,Urban Studies & Planning,75,44,31
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+7575,2017,Fine and Applied Arts,Architectural Studies,433,250,183,326,107
+7589,2017,Fine and Applied Arts,Music,350,197,153,108,242
+7600,2017,Fine and Applied Arts,Theatre,208,82,126,140,68
+7585,2017,Fine and Applied Arts,Industrial Design,206,96,110,108,98
+7576,2017,Fine and Applied Arts,Architecture,179,86,93,73,106
+7583,2017,Fine and Applied Arts,Graphic Design,167,41,126,132,35
+7591,2017,Fine and Applied Arts,Music Education,166,71,95,151,15
+7588,2017,Fine and Applied Arts,Landscape Architecture,111,28,83,42,69
+7586,2017,Fine and Applied Arts,Instrumental Music,75,32,43,54,21
+7602,2017,Fine and Applied Arts,Urban Studies & Planning,75,44,31,47,28

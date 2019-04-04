@@ -1,9 +1,9 @@
-,Fall,College,Major Name,Total,Male,Female
-7023,2014,Media,Broadcast Journalism,144,51,93
-7028,2014,Media,News-Editorial,120,34,86
-7027,2014,Media,Media and Cinema Studies,98,44,54
-7026,2014,Media,Journalism,90,27,63
-7022,2014,Media,Agricultural Communications,39,8,31
-7025,2014,Media,Communications and Media,32,11,21
-7029,2014,Media,Nondegree,20,10,10
-7024,2014,Media,Communications,9,2,7
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+7023,2014,Media,Broadcast Journalism,144,51,93,122,22
+7028,2014,Media,News-Editorial,120,34,86,107,13
+7027,2014,Media,Media and Cinema Studies,98,44,54,68,30
+7026,2014,Media,Journalism,90,27,63,68,22
+7022,2014,Media,Agricultural Communications,39,8,31,38,1
+7025,2014,Media,Communications and Media,32,11,21,3,29
+7029,2014,Media,Nondegree,20,10,10,8,12
+7024,2014,Media,Communications,9,2,7,1,8

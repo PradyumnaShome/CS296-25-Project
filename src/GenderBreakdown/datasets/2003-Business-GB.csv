@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-4631,2003,Business,Accountancy,1231,630,601
-4633,2003,Business,Business Administration,1152,630,522
-4637,2003,Business,Finance,925,640,285
-4634,2003,Business,Computer Science,477,392,85
-4643,2003,Business,UNASSIGNED,432,260,172
-4635,2003,Business,Economics,223,160,63
-4642,2003,Business,Theatre,128,64,64
-4641,2003,Business,Technical Systems Management,88,81,7
-4632,2003,Business,BUS NON-DEGREE,46,25,21
-4636,2003,Business,Executive MBA Program,45,35,10
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+4631,2003,Business,Accountancy,1231,630,601,942,289
+4633,2003,Business,Business Administration,1152,630,522,827,325
+4637,2003,Business,Finance,925,640,285,738,187
+4634,2003,Business,Computer Science,477,392,85,80,397
+4643,2003,Business,UNASSIGNED,432,260,172,383,49
+4635,2003,Business,Economics,223,160,63,63,160
+4642,2003,Business,Theatre,128,64,64,75,53
+4641,2003,Business,Technical Systems Management,88,81,7,86,2
+4632,2003,Business,BUS NON-DEGREE,46,25,21,3,43
+4636,2003,Business,Executive MBA Program,45,35,10,41,4

@@ -1,7 +1,7 @@
-,Fall,College,Major Name,Total,Male,Female
-1582,1987,Media,Advertising,266,71,195
-1587,1987,Media,News-Editorial,113,45,68
-1583,1987,Media,Broadcast Journalism,46,10,36
-1584,1987,Media,Communication,40,20,20
-1585,1987,Media,Journalism,34,13,21
-1586,1987,Media,Media Studies,27,7,20
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+1582,1987,Media,Advertising,266,71,195,247,19
+1587,1987,Media,News-Editorial,113,45,68,110,3
+1583,1987,Media,Broadcast Journalism,46,10,36,45,1
+1584,1987,Media,Communication,40,20,20,16,24
+1585,1987,Media,Journalism,34,13,21,22,12
+1586,1987,Media,Media Studies,27,7,20,27,0

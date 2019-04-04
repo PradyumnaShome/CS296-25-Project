@@ -1,8 +1,8 @@
-,Fall,College,Major Name,Total,Male,Female
-4800,2004,Business,Finance,893,591,302
-4795,2004,Business,Business Administration,860,434,426
-4797,2004,Business,Curric Unassigned,385,241,144
-4796,2004,Business,Business Administration (MBA),305,225,80
-4801,2004,Business,Nondegree,33,21,12
-4798,2004,Business,Economics,30,20,10
-4799,2004,Business,Executive MBA Program,1,1,0
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+4800,2004,Business,Finance,893,591,302,692,201
+4795,2004,Business,Business Administration,860,434,426,680,180
+4797,2004,Business,Curric Unassigned,385,241,144,326,59
+4796,2004,Business,Business Administration (MBA),305,225,80,143,162
+4801,2004,Business,Nondegree,33,21,12,3,30
+4798,2004,Business,Economics,30,20,10,26,4
+4799,2004,Business,Executive MBA Program,1,1,0,1,0

@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-5811,2009,Fine and Applied Arts,Architectural Studies,554,319,235
-5825,2009,Fine and Applied Arts,Music,345,168,177
-5827,2009,Fine and Applied Arts,Music Education,243,118,125
-5812,2009,Fine and Applied Arts,Architecture,194,115,79
-5837,2009,Fine and Applied Arts,Theatre,180,79,101
-5838,2009,Fine and Applied Arts,Urban Planning,159,98,61
-5814,2009,Fine and Applied Arts,Art Foundation,140,47,93
-5824,2009,Fine and Applied Arts,Landscape Architecture,139,76,63
-5821,2009,Fine and Applied Arts,Industrial Design,117,56,61
-5822,2009,Fine and Applied Arts,Instrumental Music,94,43,51
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+5811,2009,Fine and Applied Arts,Architectural Studies,554,319,235,479,75
+5825,2009,Fine and Applied Arts,Music,345,168,177,94,251
+5827,2009,Fine and Applied Arts,Music Education,243,118,125,219,24
+5812,2009,Fine and Applied Arts,Architecture,194,115,79,123,71
+5837,2009,Fine and Applied Arts,Theatre,180,79,101,116,64
+5838,2009,Fine and Applied Arts,Urban Planning,159,98,61,108,51
+5814,2009,Fine and Applied Arts,Art Foundation,140,47,93,126,14
+5824,2009,Fine and Applied Arts,Landscape Architecture,139,76,63,99,40
+5821,2009,Fine and Applied Arts,Industrial Design,117,56,61,90,27
+5822,2009,Fine and Applied Arts,Instrumental Music,94,43,51,72,22

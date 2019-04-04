@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-6244,2011,Fine and Applied Arts,Architectural Studies,507,286,221
-6258,2011,Fine and Applied Arts,Music,346,167,177
-6245,2011,Fine and Applied Arts,Architecture,219,131,88
-6260,2011,Fine and Applied Arts,Music Education,189,90,99
-6270,2011,Fine and Applied Arts,Theatre,175,78,97
-6271,2011,Fine and Applied Arts,Urban Planning,155,90,65
-6257,2011,Fine and Applied Arts,Landscape Architecture,118,53,65
-6254,2011,Fine and Applied Arts,Industrial Design,117,54,63
-6247,2011,Fine and Applied Arts,Art Foundation,108,34,74
-6255,2011,Fine and Applied Arts,Instrumental Music,89,40,49
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+6244,2011,Fine and Applied Arts,Architectural Studies,507,286,221,389,118
+6258,2011,Fine and Applied Arts,Music,346,167,177,95,251
+6245,2011,Fine and Applied Arts,Architecture,219,131,88,126,93
+6260,2011,Fine and Applied Arts,Music Education,189,90,99,170,19
+6270,2011,Fine and Applied Arts,Theatre,175,78,97,119,56
+6271,2011,Fine and Applied Arts,Urban Planning,155,90,65,100,55
+6257,2011,Fine and Applied Arts,Landscape Architecture,118,53,65,76,42
+6254,2011,Fine and Applied Arts,Industrial Design,117,54,63,85,32
+6247,2011,Fine and Applied Arts,Art Foundation,108,34,74,93,15
+6255,2011,Fine and Applied Arts,Instrumental Music,89,40,49,62,27

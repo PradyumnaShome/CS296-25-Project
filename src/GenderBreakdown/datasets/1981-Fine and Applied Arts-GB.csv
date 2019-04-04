@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-307,1981,Fine and Applied Arts,Architectural Studies,597,434,163
-311,1981,Fine and Applied Arts,Art and Design,415,156,259
-321,1981,Fine and Applied Arts,Music Education,305,134,171
-320,1981,Fine and Applied Arts,Music,241,142,99
-308,1981,Fine and Applied Arts,Architecture,213,176,37
-314,1981,Fine and Applied Arts,Graphic Design,165,37,128
-316,1981,Fine and Applied Arts,Landscape Architecture,159,97,62
-327,1981,Fine and Applied Arts,Urban Planning,109,57,52
-319,1981,Fine and Applied Arts,MUSIC-INST,105,50,55
-315,1981,Fine and Applied Arts,Industrial Design,83,48,35
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+307,1981,Fine and Applied Arts,Architectural Studies,597,434,163,543,54
+311,1981,Fine and Applied Arts,Art and Design,415,156,259,366,49
+321,1981,Fine and Applied Arts,Music Education,305,134,171,248,57
+320,1981,Fine and Applied Arts,Music,241,142,99,98,143
+308,1981,Fine and Applied Arts,Architecture,213,176,37,140,73
+314,1981,Fine and Applied Arts,Graphic Design,165,37,128,157,8
+316,1981,Fine and Applied Arts,Landscape Architecture,159,97,62,134,25
+327,1981,Fine and Applied Arts,Urban Planning,109,57,52,77,32
+319,1981,Fine and Applied Arts,MUSIC-INST,105,50,55,70,35
+315,1981,Fine and Applied Arts,Industrial Design,83,48,35,82,1

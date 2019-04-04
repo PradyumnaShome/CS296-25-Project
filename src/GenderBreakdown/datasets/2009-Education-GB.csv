@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-5769,2009,Education,Accountancy,1189,652,537
-5771,2009,Education,Advertising,442,146,295
-5783,2009,Education,Pre-Early Chld/Elem Ed/Spec Ed,328,21,306
-5780,2009,Education,Elementary Education,311,20,291
-5770,2009,Education,Actuarial Science,286,174,112
-5773,2009,Education,Anthropology,217,67,150
-5777,2009,Education,Ed Organization and Leadership,155,59,95
-5778,2009,Education,Educational Policy Studies,149,53,96
-5786,2009,Education,Special Education,141,22,119
-5779,2009,Education,Educational Psychology,98,29,69
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+5769,2009,Education,Accountancy,1189,652,537,826,363
+5771,2009,Education,Advertising,442,146,295,388,54
+5783,2009,Education,Pre-Early Chld/Elem Ed/Spec Ed,328,21,306,314,14
+5780,2009,Education,Elementary Education,311,20,291,286,25
+5770,2009,Education,Actuarial Science,286,174,112,191,95
+5773,2009,Education,Anthropology,217,67,150,162,55
+5777,2009,Education,Ed Organization and Leadership,155,59,95,139,16
+5778,2009,Education,Educational Policy Studies,149,53,96,69,80
+5786,2009,Education,Special Education,141,22,119,120,21
+5779,2009,Education,Educational Psychology,98,29,69,26,72

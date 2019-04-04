@@ -1,8 +1,8 @@
-,Fall,College,Major Name,Total,Male,Female
-7919,2018,Media,Journalism,228,90,138
-7920,2018,Media,Media and Cinema Studies,116,50,66
-7922,2018,Media,Strategic Brand Communication,68,17,51
-7918,2018,Media,Communications and Media,47,14,33
-7921,2018,Media,Nondegree,26,13,13
-7916,2018,Media,Agricultural Communications,2,1,1
-7917,2018,Media,Broadcast Journalism,1,0,1
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+7919,2018,Media,Journalism,228,90,138,201,27
+7920,2018,Media,Media and Cinema Studies,116,50,66,92,24
+7922,2018,Media,Strategic Brand Communication,68,17,51,38,30
+7918,2018,Media,Communications and Media,47,14,33,6,41
+7921,2018,Media,Nondegree,26,13,13,11,15
+7916,2018,Media,Agricultural Communications,2,1,1,2,0
+7917,2018,Media,Broadcast Journalism,1,0,1,1,0

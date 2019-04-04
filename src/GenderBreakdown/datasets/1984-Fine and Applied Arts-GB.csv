@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-903,1984,Fine and Applied Arts,Architectural Studies,581,415,166
-907,1984,Fine and Applied Arts,Art and Design,403,186,217
-917,1984,Fine and Applied Arts,Music Education,238,103,135
-904,1984,Fine and Applied Arts,Architecture,211,171,40
-916,1984,Fine and Applied Arts,Music,201,95,106
-910,1984,Fine and Applied Arts,Graphic Design,166,55,111
-923,1984,Fine and Applied Arts,Urban Planning,145,91,54
-912,1984,Fine and Applied Arts,Landscape Architecture,134,90,44
-911,1984,Fine and Applied Arts,Industrial Design,116,52,64
-915,1984,Fine and Applied Arts,MUSIC-INST,100,40,60
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+903,1984,Fine and Applied Arts,Architectural Studies,581,415,166,535,46
+907,1984,Fine and Applied Arts,Art and Design,403,186,217,354,49
+917,1984,Fine and Applied Arts,Music Education,238,103,135,184,54
+904,1984,Fine and Applied Arts,Architecture,211,171,40,165,46
+916,1984,Fine and Applied Arts,Music,201,95,106,85,116
+910,1984,Fine and Applied Arts,Graphic Design,166,55,111,159,7
+923,1984,Fine and Applied Arts,Urban Planning,145,91,54,119,26
+912,1984,Fine and Applied Arts,Landscape Architecture,134,90,44,121,13
+911,1984,Fine and Applied Arts,Industrial Design,116,52,64,110,6
+915,1984,Fine and Applied Arts,MUSIC-INST,100,40,60,70,30

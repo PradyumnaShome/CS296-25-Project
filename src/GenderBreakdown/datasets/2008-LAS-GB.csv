@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-5687,2008,LAS,Psychology,1437,406,1031
-5660,2008,LAS,General Curriculum,1387,676,711
-5685,2008,LAS,Political Science,1062,638,424
-5678,2008,LAS,Molecular and Cellular Biology,1009,499,508
-5656,2008,LAS,English,934,288,645
-5641,2008,LAS,Biology,876,389,487
-5655,2008,LAS,Economics,836,613,220
-5696,2008,LAS,Speech Communication,762,319,443
-5647,2008,LAS,Chemistry,723,437,286
-5665,2008,LAS,History,658,424,233
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+5687,2008,LAS,Psychology,1437,406,1031,1194,243
+5660,2008,LAS,General Curriculum,1387,676,711,1264,123
+5685,2008,LAS,Political Science,1062,638,424,957,105
+5678,2008,LAS,Molecular and Cellular Biology,1009,499,508,943,66
+5656,2008,LAS,English,934,288,645,811,123
+5641,2008,LAS,Biology,876,389,487,761,115
+5655,2008,LAS,Economics,836,613,220,521,315
+5696,2008,LAS,Speech Communication,762,319,443,685,77
+5647,2008,LAS,Chemistry,723,437,286,423,300
+5665,2008,LAS,History,658,424,233,537,121

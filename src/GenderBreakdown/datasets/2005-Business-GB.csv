@@ -1,7 +1,7 @@
-,Fall,College,Major Name,Total,Male,Female
-4984,2005,Business,Business Administration,952,490,462
-4988,2005,Business,Finance,896,622,271
-4986,2005,Business,Curric Unassigned,363,220,142
-4985,2005,Business,Business Administration (MBA),238,171,67
-4989,2005,Business,Nondegree,34,18,16
-4987,2005,Business,Economics,16,12,4
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+4984,2005,Business,Business Administration,952,490,462,736,216
+4988,2005,Business,Finance,896,622,271,711,185
+4986,2005,Business,Curric Unassigned,363,220,142,322,41
+4985,2005,Business,Business Administration (MBA),238,171,67,117,121
+4989,2005,Business,Nondegree,34,18,16,1,33
+4987,2005,Business,Economics,16,12,4,13,3

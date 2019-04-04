@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-2113,1990,Fine and Applied Arts,Architectural Studies,585,403,182
-2117,1990,Fine and Applied Arts,Art and Design,332,161,171
-2129,1990,Fine and Applied Arts,Music Education,231,92,139
-2114,1990,Fine and Applied Arts,Architecture,199,137,62
-2135,1990,Fine and Applied Arts,Urban Planning,156,104,52
-2128,1990,Fine and Applied Arts,Music,144,72,72
-2122,1990,Fine and Applied Arts,Landscape Architecture,140,89,51
-2120,1990,Fine and Applied Arts,Graphic Design,124,53,71
-2126,1990,Fine and Applied Arts,MUSIC-INST,83,35,48
-2116,1990,Fine and Applied Arts,Art History,81,13,68
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+2113,1990,Fine and Applied Arts,Architectural Studies,585,403,182,511,74
+2117,1990,Fine and Applied Arts,Art and Design,332,161,171,280,52
+2129,1990,Fine and Applied Arts,Music Education,231,92,139,190,41
+2114,1990,Fine and Applied Arts,Architecture,199,137,62,147,52
+2135,1990,Fine and Applied Arts,Urban Planning,156,104,52,138,18
+2128,1990,Fine and Applied Arts,Music,144,72,72,46,98
+2122,1990,Fine and Applied Arts,Landscape Architecture,140,89,51,115,25
+2120,1990,Fine and Applied Arts,Graphic Design,124,53,71,119,5
+2126,1990,Fine and Applied Arts,MUSIC-INST,83,35,48,53,30
+2116,1990,Fine and Applied Arts,Art History,81,13,68,56,25

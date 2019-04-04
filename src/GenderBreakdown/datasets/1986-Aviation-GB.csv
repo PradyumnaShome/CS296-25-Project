@@ -1,5 +1,5 @@
-,Fall,College,Major Name,Total,Male,Female
-1260,1986,Aviation,PP/AS,107,95,12
-1261,1986,Aviation,Professional Pilot,67,58,9
-1258,1986,Aviation,Air Systems,25,23,2
-1259,1986,Aviation,Avionics,9,9,0
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+1260,1986,Aviation,PP/AS,107,95,12,100,7
+1261,1986,Aviation,Professional Pilot,67,58,9,65,2
+1258,1986,Aviation,Air Systems,25,23,2,24,1
+1259,1986,Aviation,Avionics,9,9,0,9,0

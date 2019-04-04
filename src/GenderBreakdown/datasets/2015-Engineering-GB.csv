@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-7109,2015,Engineering,Computer Science,1640,1310,330
-7107,2015,Engineering,Civil Engineering,1319,976,343
-7122,2015,Engineering,Mechanical Engineering,1251,1069,182
-7111,2015,Engineering,Electrical Engineering,1146,1002,144
-7108,2015,Engineering,Computer Engineering,1062,952,109
-7102,2015,Engineering,Aerospace Engineering,657,588,69
-7121,2015,Engineering,Materials Science & Engr,586,418,168
-7110,2015,Engineering,Electrical & Computer Engr,503,429,74
-7120,2015,Engineering,Industrial Engineering,337,247,90
-7104,2015,Engineering,Bioengineering,318,167,151
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+7109,2015,Engineering,Computer Science,1640,1310,330,539,1101
+7107,2015,Engineering,Civil Engineering,1319,976,343,559,760
+7122,2015,Engineering,Mechanical Engineering,1251,1069,182,647,604
+7111,2015,Engineering,Electrical Engineering,1146,1002,144,509,637
+7108,2015,Engineering,Computer Engineering,1062,952,109,517,545
+7102,2015,Engineering,Aerospace Engineering,657,588,69,383,274
+7121,2015,Engineering,Materials Science & Engr,586,418,168,232,354
+7110,2015,Engineering,Electrical & Computer Engr,503,429,74,63,440
+7120,2015,Engineering,Industrial Engineering,337,247,90,151,186
+7104,2015,Engineering,Bioengineering,318,167,151,231,87

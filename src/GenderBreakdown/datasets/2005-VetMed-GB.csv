@@ -1,5 +1,5 @@
-,Fall,College,Major Name,Total,Male,Female
-5139,2005,VetMed,Veterinary Medicine,404,92,312
-5138,2005,VetMed,VMS-Veterinary Clinical Medcne,27,12,15
-5137,2005,VetMed,VMS - Veterinary Pathobiology,24,6,18
-5136,2005,VetMed,VMS - Veterinary Biosciences,18,6,12
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+5139,2005,VetMed,Veterinary Medicine,404,92,312,340,64
+5138,2005,VetMed,VMS-Veterinary Clinical Medcne,27,12,15,9,18
+5137,2005,VetMed,VMS - Veterinary Pathobiology,24,6,18,6,18
+5136,2005,VetMed,VMS - Veterinary Biosciences,18,6,12,6,12

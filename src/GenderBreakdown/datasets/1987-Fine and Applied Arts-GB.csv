@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-1508,1987,Fine and Applied Arts,Architectural Studies,617,447,170
-1512,1987,Fine and Applied Arts,Art and Design,383,188,195
-1523,1987,Fine and Applied Arts,Music Education,290,123,167
-1509,1987,Fine and Applied Arts,Architecture,222,170,52
-1522,1987,Fine and Applied Arts,Music,158,69,89
-1529,1987,Fine and Applied Arts,Urban Planning,150,82,68
-1517,1987,Fine and Applied Arts,Landscape Architecture,138,98,40
-1515,1987,Fine and Applied Arts,Graphic Design,120,46,74
-1516,1987,Fine and Applied Arts,Industrial Design,96,64,32
-1521,1987,Fine and Applied Arts,MUSIC-INST,81,34,47
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+1508,1987,Fine and Applied Arts,Architectural Studies,617,447,170,559,58
+1512,1987,Fine and Applied Arts,Art and Design,383,188,195,319,64
+1523,1987,Fine and Applied Arts,Music Education,290,123,167,227,63
+1509,1987,Fine and Applied Arts,Architecture,222,170,52,149,73
+1522,1987,Fine and Applied Arts,Music,158,69,89,64,94
+1529,1987,Fine and Applied Arts,Urban Planning,150,82,68,127,23
+1517,1987,Fine and Applied Arts,Landscape Architecture,138,98,40,119,19
+1515,1987,Fine and Applied Arts,Graphic Design,120,46,74,117,3
+1516,1987,Fine and Applied Arts,Industrial Design,96,64,32,90,6
+1521,1987,Fine and Applied Arts,MUSIC-INST,81,34,47,58,23

@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-6153,2011,ACES,Agr & Consumer Economics,601,402,199
-6160,2011,ACES,Animal Sciences,560,130,429
-6164,2011,ACES,Food Science & Human Nutrition,493,107,386
-6169,2011,ACES,Natural Resrcs & Environ Sci,235,122,113
-6167,2011,ACES,Human Development & Family St,218,16,202
-6163,2011,ACES,Crop Sciences,198,147,51
-6170,2011,ACES,Nondegree,87,51,36
-6154,2011,ACES,Agr & Environmental Cmc & Educ,78,19,59
-6168,2011,ACES,Natural Res & Env Sciences,78,45,33
-6171,2011,ACES,Nutritional Sciences,49,14,35
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+6153,2011,ACES,Agr & Consumer Economics,601,402,199,494,107
+6160,2011,ACES,Animal Sciences,560,130,429,492,68
+6164,2011,ACES,Food Science & Human Nutrition,493,107,386,366,127
+6169,2011,ACES,Natural Resrcs & Environ Sci,235,122,113,210,25
+6167,2011,ACES,Human Development & Family St,218,16,202,203,15
+6163,2011,ACES,Crop Sciences,198,147,51,134,64
+6170,2011,ACES,Nondegree,87,51,36,61,26
+6154,2011,ACES,Agr & Environmental Cmc & Educ,78,19,59,75,3
+6168,2011,ACES,Natural Res & Env Sciences,78,45,33,27,51
+6171,2011,ACES,Nutritional Sciences,49,14,35,20,29

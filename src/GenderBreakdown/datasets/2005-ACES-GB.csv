@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-4959,2005,ACES,Animal Sciences,598,163,435
-4962,2005,ACES,Food Science & Human Nutrition,440,109,331
-4956,2005,ACES,"Agribusiness, Farm & Financial ",317,232,83
-4966,2005,ACES,Human Development & Family St,216,13,202
-4969,2005,ACES,Natural Resrcs & Environ Sci,196,122,74
-4967,2005,ACES,"Intl, Resource, Consumer Econ ",174,105,69
-4961,2005,ACES,Crop Sciences,149,97,51
-4954,2005,ACES,Agr & Environmental Cmc & Educ,103,30,73
-4968,2005,ACES,Natural Res & Env Sciences,94,48,46
-4953,2005,ACES,Agr & Consumer Economics,83,49,34
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+4959,2005,ACES,Animal Sciences,598,163,435,546,52
+4962,2005,ACES,Food Science & Human Nutrition,440,109,331,385,55
+4956,2005,ACES,"Agribusiness, Farm & Financial ",317,232,83,310,7
+4966,2005,ACES,Human Development & Family St,216,13,202,212,4
+4969,2005,ACES,Natural Resrcs & Environ Sci,196,122,74,190,6
+4967,2005,ACES,"Intl, Resource, Consumer Econ ",174,105,69,171,3
+4961,2005,ACES,Crop Sciences,149,97,51,109,40
+4954,2005,ACES,Agr & Environmental Cmc & Educ,103,30,73,102,1
+4968,2005,ACES,Natural Res & Env Sciences,94,48,46,45,49
+4953,2005,ACES,Agr & Consumer Economics,83,49,34,15,68

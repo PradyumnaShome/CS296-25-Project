@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Total,Male,Female
-6364,2011,Media,News-Editorial,169,46,123
-6357,2011,Media,Broadcast Journalism,157,55,102
-6363,2011,Media,Media and Cinema Studies,118,59,59
-6358,2011,Media,Communications,38,16,22
-6359,2011,Media,Communications and Media,15,5,10
-6361,2011,Media,Journalism,13,4,9
-6362,2011,Media,Media Studies,12,2,10
-6356,2011,Media,Agricultural Communications,7,0,7
-6365,2011,Media,Nondegree,4,3,1
-6360,2011,Media,General Curriculum,3,2,1
+,Fall,College,Major Name,Total,Male,Female,Illinois,Non-Illinois
+6364,2011,Media,News-Editorial,169,46,123,152,17
+6357,2011,Media,Broadcast Journalism,157,55,102,132,25
+6363,2011,Media,Media and Cinema Studies,118,59,59,102,16
+6358,2011,Media,Communications,38,16,22,9,29
+6359,2011,Media,Communications and Media,15,5,10,2,13
+6361,2011,Media,Journalism,13,4,9,6,7
+6362,2011,Media,Media Studies,12,2,10,9,3
+6356,2011,Media,Agricultural Communications,7,0,7,7,0
+6365,2011,Media,Nondegree,4,3,1,1,3
+6360,2011,Media,General Curriculum,3,2,1,3,0
