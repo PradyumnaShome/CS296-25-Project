@@ -1,0 +1,60 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>Project 1 - Illinois Students By Curriculum</title>
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    
+    <link rel="stylesheet" href="css/main.css"/>
+
+    <!-- jQuery and lodash -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.11/lodash.min.js"></script>
+
+    <!-- d3.js -->
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+
+    <!-- <script src="//cdnjs.cloudflare.com/ajax/libs/lodash.js/3.10.1/lodash.min.js" charset="utf-8"></script> -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.min.js"></script>
+
+
+    <!-- Our visualization code -->
+    <script src="visualization.js"></script>
+</head>
+
+<body>
+    <div id="buttons">
+        <button onClick="chooseCollege('ACES')">ACES</button>
+        <button onClick="chooseCollege('Applied Health Sciences')">Applied Health Science</button>
+        <button onClick="chooseCollege('Applied Life Sciences')">Applied Life Sciences</button>
+        <button onClick="chooseCollege('Aviation')">Aviation</button>
+        <button onClick="chooseCollege('Business')">Business</button>
+        <button onClick="chooseCollege('DGS')">DGS</button>
+        <button onClick="chooseCollege('Education')">Education</button>
+        <button onClick="chooseCollege('Engineering')">Engineering</button>
+        <button onClick="chooseCollege('Fine and Applied Arts')">Fine and Applied Arts</button>
+        <button onClick="chooseCollege('Graduate')">Graduate</button>
+        <button onClick="chooseCollege('iSchool')">iSchool</button>
+        <button onClick="chooseCollege('Labor and Industrial Relations')">Labor and Industrial Relations</button>
+        <button onClick="chooseCollege('LAS')">LAS</button>
+        <button onClick="chooseCollege('Law')">Law</button>
+        <button onClick="chooseCollege('LM')">LM</button>
+        <button onClick="chooseCollege('LN')">LN</button>
+        <button onClick="chooseCollege('Media')">Media</button>
+        <button onClick="chooseCollege('Medicine')">Medicine</button>
+        <button onClick="chooseCollege('NB')">NB</button>
+        <button onClick="chooseCollege('Social Work')">Social Work</button>
+        <button onClick="chooseCollege('VetMed')">VetMed</button>
+    </div>
+    <!-- Our d3.js visualization will appear in #chart -->
+    <div id="chart"></div>
+    </div>
+    
+</body>
+
+</html>
