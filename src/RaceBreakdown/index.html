@@ -14,7 +14,7 @@ var svg = d3.select("svg"),
     margin = {top: 20, right: 20, bottom: 30, left: 40},
     width = +svg.attr("width") - margin.left - margin.right,
     height = +svg.attr("height") - margin.top - margin.bottom,
-    g = svg.append("g").attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+    g = svg.append("g").attr("transform", "translate(" + margin.left +"," + margin.top + ")");
 
 var y = d3.scaleBand()			// x = d3.scaleBand()
     .rangeRound([0, height])	// .rangeRound([0, width])
@@ -25,9 +25,9 @@ var x = d3.scaleLinear()		// y = d3.scaleLinear()
     .rangeRound([0, width]);	// .rangeRound([height, 0]);
 
 var z = d3.scaleOrdinal()
-    .range(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56", "#d0743c", "#ff8c00", "#000"]);
+    .range(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56", "#d0743c", "#ff8c00", "#F5B814", "#F8D414", "#FFFF00", "#c0ff3e", "#00ff7f"]);
 
-d3.csv("data.csv", function(d, i, columns) {
+d3.csv("datasets/1980-ACES-rb.csv", function(d, i, columns) {
   for (i = 1, t = 0; i < columns.length; ++i) t += d[columns[i]] = +d[columns[i]];
   d.total = t;
   return d;
@@ -37,7 +37,7 @@ d3.csv("data.csv", function(d, i, columns) {
   var keys = data.columns.slice(1);
 
   data.sort(function(a, b) { return b.total - a.total; });
-  y.domain(data.map(function(d) { return d.State; }));					// x.domain...
+  y.domain(data.map(function(d) { return d["Major Name"]; }));					// x.domain...
   x.domain([0, d3.max(data, function(d) { return d.total; })]).nice();	// y.domain...
   z.domain(keys);
 
@@ -49,7 +49,7 @@ d3.csv("data.csv", function(d, i, columns) {
     .selectAll("rect")
     .data(function(d) { return d; })
     .enter().append("rect")
-      .attr("y", function(d) { return y(d.data.State); })	    //.attr("x", function(d) { return x(d.data.State); })
+      .attr("y", function(d) { return y(d.data["Major Name"]); })	    //.attr("x", function(d) { return x(d.data.State); })
       .attr("x", function(d) { return x(d[0]); })			    //.attr("y", function(d) { return y(d[1]); })
       .attr("width", function(d) { return x(d[1]) - x(d[0]); })	//.attr("height", function(d) { return y(d[0]) - y(d[1]); })
       .attr("height", y.bandwidth());						    //.attr("width", x.bandwidth());
