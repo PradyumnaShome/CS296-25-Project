@@ -1,15 +1,11 @@
-,Fall,College,Major Name,Male,Female
-438,1982,Applied Health Sciences,Biology,9,21
-439,1982,Applied Health Sciences,HEALTH&SAF,9,5
-440,1982,Applied Health Sciences,HLTH EDUC,8,64
-441,1982,Applied Health Sciences,HLTH PL AD,3,11
-442,1982,Applied Health Sciences,Kinesiology,120,133
-443,1982,Applied Health Sciences,Leisure Studies,23,25
-444,1982,Applied Health Sciences,MOTOR DEV,2,21
-445,1982,Applied Health Sciences,MOTOR P&SP,9,9
-446,1982,Applied Health Sciences,OUTDR REC,20,29
-447,1982,Applied Health Sciences,PROG MANAG,39,65
-448,1982,Applied Health Sciences,SCH HEALTH,5,9
-449,1982,Applied Health Sciences,SOC SCI SP,3,5
-450,1982,Applied Health Sciences,TCH KINES,4,3
-451,1982,Applied Health Sciences,THER REC,6,82
+,Fall,College,Major Name,Total,Male,Female
+442,1982,Applied Health Sciences,Kinesiology,253,120,133
+447,1982,Applied Health Sciences,PROG MANAG,104,39,65
+451,1982,Applied Health Sciences,THER REC,88,6,82
+440,1982,Applied Health Sciences,HLTH EDUC,72,8,64
+446,1982,Applied Health Sciences,OUTDR REC,49,20,29
+443,1982,Applied Health Sciences,Leisure Studies,48,23,25
+438,1982,Applied Health Sciences,Biology,30,9,21
+444,1982,Applied Health Sciences,MOTOR DEV,23,2,21
+445,1982,Applied Health Sciences,MOTOR P&SP,18,9,9
+439,1982,Applied Health Sciences,HEALTH&SAF,14,9,5

@@ -1,19 +1,11 @@
-,Fall,College,Major Name,Male,Female
-835,1984,Applied Health Sciences,Biology,26,33
-836,1984,Applied Health Sciences,CUR INST 2,6,19
-837,1984,Applied Health Sciences,CUR INST#1,4,1
-838,1984,Applied Health Sciences,CUR INST#3,6,4
-839,1984,Applied Health Sciences,HEALTH&SAF,5,1
-840,1984,Applied Health Sciences,HLTH EDUC,4,24
-841,1984,Applied Health Sciences,HLTH PL AD,7,22
-842,1984,Applied Health Sciences,Kinesiology,120,131
-843,1984,Applied Health Sciences,Leisure Studies,19,26
-844,1984,Applied Health Sciences,MOTOR DEV,0,2
-845,1984,Applied Health Sciences,MOTOR P&SP,1,2
-846,1984,Applied Health Sciences,OUTDR REC,24,17
-847,1984,Applied Health Sciences,PHYS ED,1,0
-848,1984,Applied Health Sciences,PROG MANAG,49,98
-849,1984,Applied Health Sciences,SCH HEALTH,1,0
-850,1984,Applied Health Sciences,SOC SCI SP,6,3
-851,1984,Applied Health Sciences,TCH KINES,1,0
-852,1984,Applied Health Sciences,THER REC,8,68
+,Fall,College,Major Name,Total,Male,Female
+842,1984,Applied Health Sciences,Kinesiology,251,120,131
+848,1984,Applied Health Sciences,PROG MANAG,147,49,98
+852,1984,Applied Health Sciences,THER REC,76,8,68
+835,1984,Applied Health Sciences,Biology,59,26,33
+843,1984,Applied Health Sciences,Leisure Studies,45,19,26
+846,1984,Applied Health Sciences,OUTDR REC,41,24,17
+841,1984,Applied Health Sciences,HLTH PL AD,29,7,22
+840,1984,Applied Health Sciences,HLTH EDUC,28,4,24
+836,1984,Applied Health Sciences,CUR INST 2,25,6,19
+838,1984,Applied Health Sciences,CUR INST#3,10,6,4

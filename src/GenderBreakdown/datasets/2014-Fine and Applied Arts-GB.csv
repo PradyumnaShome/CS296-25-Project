@@ -1,30 +1,11 @@
-,Fall,College,Major Name,Male,Female
-6906,2014,Fine and Applied Arts,Architectural Studies,240,196
-6907,2014,Fine and Applied Arts,Architecture,97,61
-6908,2014,Fine and Applied Arts,Art Education,13,36
-6909,2014,Fine and Applied Arts,Art Foundation,36,82
-6910,2014,Fine and Applied Arts,Art History,0,19
-6911,2014,Fine and Applied Arts,Art and Design,11,26
-6912,2014,Fine and Applied Arts,Crafts,0,16
-6913,2014,Fine and Applied Arts,Dance,15,55
-6914,2014,Fine and Applied Arts,Graphic Design,19,62
-6915,2014,Fine and Applied Arts,History of Art,0,4
-6916,2014,Fine and Applied Arts,Industrial Design,54,59
-6917,2014,Fine and Applied Arts,Instrumental Music,33,38
-6918,2014,Fine and Applied Arts,Jazz Performance,24,3
-6919,2014,Fine and Applied Arts,Landscape Architecture,46,74
-6920,2014,Fine and Applied Arts,Music,167,175
-6921,2014,Fine and Applied Arts,Music Composition,7,1
-6922,2014,Fine and Applied Arts,Music Education,75,100
-6923,2014,Fine and Applied Arts,Music History,0,3
-6924,2014,Fine and Applied Arts,Musicology,10,5
-6925,2014,Fine and Applied Arts,New Media,11,6
-6926,2014,Fine and Applied Arts,Nondegree,9,15
-6927,2014,Fine and Applied Arts,Open Studies,0,3
-6928,2014,Fine and Applied Arts,Painting,4,17
-6929,2014,Fine and Applied Arts,Photography,3,13
-6930,2014,Fine and Applied Arts,Regional Planning,14,5
-6931,2014,Fine and Applied Arts,Sculpture,2,1
-6932,2014,Fine and Applied Arts,Theatre,81,86
-6933,2014,Fine and Applied Arts,Urban Planning,61,73
-6934,2014,Fine and Applied Arts,Voice,6,18
+,Fall,College,Major Name,Total,Male,Female
+6906,2014,Fine and Applied Arts,Architectural Studies,436,240,196
+6920,2014,Fine and Applied Arts,Music,342,167,175
+6922,2014,Fine and Applied Arts,Music Education,175,75,100
+6932,2014,Fine and Applied Arts,Theatre,167,81,86
+6907,2014,Fine and Applied Arts,Architecture,158,97,61
+6933,2014,Fine and Applied Arts,Urban Planning,134,61,73
+6919,2014,Fine and Applied Arts,Landscape Architecture,120,46,74
+6909,2014,Fine and Applied Arts,Art Foundation,118,36,82
+6916,2014,Fine and Applied Arts,Industrial Design,113,54,59
+6914,2014,Fine and Applied Arts,Graphic Design,81,19,62

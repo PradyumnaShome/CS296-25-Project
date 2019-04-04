@@ -1,22 +1,11 @@
-,Fall,College,Major Name,Male,Female
-7708,2018,ACES,Agr & Consumer Economics,452,195
-7709,2018,ACES,Agric Leadership & Sci Educ,17,38
-7710,2018,ACES,Agricultural & Applied Econ,48,38
-7711,2018,ACES,Agricultural & Biological Engr,47,37
-7712,2018,ACES,Agricultural Communications,11,27
-7713,2018,ACES,Agricultural Education,10,22
-7714,2018,ACES,Agricultural Production,1,5
-7715,2018,ACES,Animal Sciences,128,496
-7716,2018,ACES,Bioinformatics,3,1
-7717,2018,ACES,Bioprocessing and Bioenergy,6,4
-7718,2018,ACES,Computer Science&Crop Sciences,4,0
-7719,2018,ACES,Crop Sciences,136,102
-7720,2018,ACES,Food Science & Human Nutrition,130,350
-7721,2018,ACES,Horticulture,1,2
-7722,2018,ACES,Human & Community Development,0,1
-7723,2018,ACES,Human Development & Family St,22,230
-7724,2018,ACES,Human Dvlpmt & Family Studies,1,23
-7725,2018,ACES,Natural Res & Env Sciences,58,60
-7726,2018,ACES,Natural Resrcs & Environ Sci,98,143
-7727,2018,ACES,Nondegree,40,41
-7728,2018,ACES,Nutritional Sciences,10,31
+,Fall,College,Major Name,Total,Male,Female
+7708,2018,ACES,Agr & Consumer Economics,647,452,195
+7715,2018,ACES,Animal Sciences,626,128,496
+7720,2018,ACES,Food Science & Human Nutrition,480,130,350
+7723,2018,ACES,Human Development & Family St,253,22,230
+7726,2018,ACES,Natural Resrcs & Environ Sci,241,98,143
+7719,2018,ACES,Crop Sciences,238,136,102
+7725,2018,ACES,Natural Res & Env Sciences,118,58,60
+7710,2018,ACES,Agricultural & Applied Econ,86,48,38
+7711,2018,ACES,Agricultural & Biological Engr,84,47,37
+7727,2018,ACES,Nondegree,81,40,41

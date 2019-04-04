@@ -1,7 +1,7 @@
-,Fall,College,Major Name,Male,Female
-6367,2011,VetMed,VMS - Comparative Biosciences,1,1
-6368,2011,VetMed,VMS - Pathobiology,4,5
-6369,2011,VetMed,VMS - Veterinary Biosciences,5,8
-6370,2011,VetMed,VMS - Veterinary Pathobiology,7,4
-6371,2011,VetMed,VMS-Veterinary Clinical Medcne,7,23
-6372,2011,VetMed,Veterinary Medicine,99,393
+,Fall,College,Major Name,Total,Male,Female
+6372,2011,VetMed,Veterinary Medicine,493,99,393
+6371,2011,VetMed,VMS-Veterinary Clinical Medcne,30,7,23
+6369,2011,VetMed,VMS - Veterinary Biosciences,13,5,8
+6370,2011,VetMed,VMS - Veterinary Pathobiology,11,7,4
+6368,2011,VetMed,VMS - Pathobiology,9,4,5
+6367,2011,VetMed,VMS - Comparative Biosciences,2,1,1

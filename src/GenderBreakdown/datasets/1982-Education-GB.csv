@@ -1,20 +1,11 @@
-,Fall,College,Major Name,Male,Female
-465,1982,Education,BUS EDUC,5,26
-466,1982,Education,ED POL ST,33,33
-467,1982,Education,ED SEC&CON,44,73
-468,1982,Education,EDUC ELEMENTARY,16,129
-469,1982,Education,EDUC GEN,27,108
-470,1982,Education,EDUC IDISC,5,3
-471,1982,Education,Early Childhood Education,0,38
-472,1982,Education,Ed Organization and Leadership,55,75
-473,1982,Education,Educ Voc Tech,55,58
-474,1982,Education,Educational Psychology,69,103
-475,1982,Education,Elementary Education,21,361
-476,1982,Education,Special Education,15,91
-477,1982,Education,TCH ENGL,3,18
-478,1982,Education,TCH GEN SCIENCE,3,3
-479,1982,Education,TCH LIFE SCI,2,4
-480,1982,Education,TCH PHYS SCI,2,2
-481,1982,Education,TCH SOC ST,15,8
-482,1982,Education,TECH ED SP,39,23
-483,1982,Education,UG NON-DEG,0,18
+,Fall,College,Major Name,Total,Male,Female
+475,1982,Education,Elementary Education,382,21,361
+474,1982,Education,Educational Psychology,172,69,103
+468,1982,Education,EDUC ELEMENTARY,145,16,129
+469,1982,Education,EDUC GEN,135,27,108
+472,1982,Education,Ed Organization and Leadership,130,55,75
+467,1982,Education,ED SEC&CON,117,44,73
+473,1982,Education,Educ Voc Tech,113,55,58
+476,1982,Education,Special Education,106,15,91
+466,1982,Education,ED POL ST,66,33,33
+482,1982,Education,TECH ED SP,62,39,23

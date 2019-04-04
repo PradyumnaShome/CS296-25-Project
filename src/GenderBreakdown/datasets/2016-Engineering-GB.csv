@@ -1,29 +1,11 @@
-,Fall,College,Major Name,Male,Female
-7323,2016,Engineering,Aerospace Engineering,583,89
-7324,2016,Engineering,Agricultural & Biological Engr,80,41
-7325,2016,Engineering,Bioengineering,190,159
-7326,2016,Engineering,Bioinformatics,4,1
-7327,2016,Engineering,Bioinstrumentation,10,6
-7328,2016,Engineering,Civil Engineering,972,357
-7329,2016,Engineering,Computer Engineering,1063,132
-7330,2016,Engineering,Computer Science,1328,420
-7331,2016,Engineering,Electrical & Computer Engr,488,97
-7332,2016,Engineering,Electrical Engineering,1003,148
-7333,2016,Engineering,Engineering,21,4
-7334,2016,Engineering,Engineering Mechanics,117,20
-7335,2016,Engineering,Engineering Physics,197,29
-7336,2016,Engineering,Engineering Undeclared,45,30
-7337,2016,Engineering,Environ Engr in Civil Engr,52,66
-7338,2016,Engineering,Environ Science in Civil Engr,0,1
-7339,2016,Engineering,Financial Engineering,84,37
-7340,2016,Engineering,General Engineering,169,50
-7341,2016,Engineering,Industrial Engineering,251,102
-7342,2016,Engineering,Materials Science & Engr,397,169
-7343,2016,Engineering,Mechanical Engineering,1050,219
-7344,2016,Engineering,Nondegree,155,39
-7345,2016,Engineering,Nuclear Engineering,2,0
-7346,2016,Engineering,"Nuclear, Plasma, Radiolgc Engr ",200,31
-7347,2016,Engineering,Physics,219,67
-7348,2016,Engineering,Systems & Entrepreneurial Engr,17,3
-7349,2016,Engineering,Systems Engineering and Design,4,0
-7350,2016,Engineering,Theoretical & Applied Mechans,43,8
+,Fall,College,Major Name,Total,Male,Female
+7330,2016,Engineering,Computer Science,1748,1328,420
+7328,2016,Engineering,Civil Engineering,1329,972,357
+7343,2016,Engineering,Mechanical Engineering,1269,1050,219
+7329,2016,Engineering,Computer Engineering,1195,1063,132
+7332,2016,Engineering,Electrical Engineering,1151,1003,148
+7323,2016,Engineering,Aerospace Engineering,672,583,89
+7331,2016,Engineering,Electrical & Computer Engr,585,488,97
+7342,2016,Engineering,Materials Science & Engr,566,397,169
+7341,2016,Engineering,Industrial Engineering,353,251,102
+7325,2016,Engineering,Bioengineering,349,190,159

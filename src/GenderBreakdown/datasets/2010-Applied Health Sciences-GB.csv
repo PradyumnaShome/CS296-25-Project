@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Male,Female
-5953,2010,Applied Health Sciences,Athletic Training,9,25
-5954,2010,Applied Health Sciences,Audiology,5,16
-5955,2010,Applied Health Sciences,Community Health,126,424
-5956,2010,Applied Health Sciences,Health,20,59
-5957,2010,Applied Health Sciences,Kinesiology,279,372
-5958,2010,Applied Health Sciences,Nondegree,3,5
-5959,2010,Applied Health Sciences,Public Health,5,8
-5960,2010,Applied Health Sciences,"Recreation, Sport, and Tourism ",237,139
-5961,2010,Applied Health Sciences,Rehabilitation,2,4
-5962,2010,Applied Health Sciences,Speech & Hearing Science,14,322
+,Fall,College,Major Name,Total,Male,Female
+5957,2010,Applied Health Sciences,Kinesiology,652,279,372
+5955,2010,Applied Health Sciences,Community Health,551,126,424
+5960,2010,Applied Health Sciences,"Recreation, Sport, and Tourism ",377,237,139
+5962,2010,Applied Health Sciences,Speech & Hearing Science,336,14,322
+5956,2010,Applied Health Sciences,Health,79,20,59
+5953,2010,Applied Health Sciences,Athletic Training,34,9,25
+5954,2010,Applied Health Sciences,Audiology,21,5,16
+5959,2010,Applied Health Sciences,Public Health,13,5,8
+5958,2010,Applied Health Sciences,Nondegree,8,3,5
+5961,2010,Applied Health Sciences,Rehabilitation,6,2,4

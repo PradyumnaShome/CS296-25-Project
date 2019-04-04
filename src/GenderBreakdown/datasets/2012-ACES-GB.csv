@@ -1,21 +1,11 @@
-,Fall,College,Major Name,Male,Female
-6375,2012,ACES,Agr & Consumer Economics,426,218
-6376,2012,ACES,Agr & Environmental Cmc & Educ,4,15
-6377,2012,ACES,Agr Engineering & Agr Science,3,1
-6378,2012,ACES,Agric Leadership & Sci Educ,22,21
-6379,2012,ACES,Agricultural & Applied Econ,25,29
-6380,2012,ACES,Agricultural & Biological Engr,56,19
-6381,2012,ACES,Agricultural Education,1,4
-6382,2012,ACES,Agricultural Production,5,4
-6383,2012,ACES,Animal Sciences,143,444
-6384,2012,ACES,Bioenergy,7,2
-6385,2012,ACES,Bioinformatics,3,4
-6386,2012,ACES,Crop Sciences,164,64
-6387,2012,ACES,Food Science & Human Nutrition,121,397
-6388,2012,ACES,Horticulture,21,13
-6389,2012,ACES,Human & Community Development,5,20
-6390,2012,ACES,Human Development & Family St,20,205
-6391,2012,ACES,Natural Res & Env Sciences,53,27
-6392,2012,ACES,Natural Resrcs & Environ Sci,126,115
-6393,2012,ACES,Nondegree,74,50
-6394,2012,ACES,Nutritional Sciences,11,27
+,Fall,College,Major Name,Total,Male,Female
+6375,2012,ACES,Agr & Consumer Economics,644,426,218
+6383,2012,ACES,Animal Sciences,587,143,444
+6387,2012,ACES,Food Science & Human Nutrition,518,121,397
+6392,2012,ACES,Natural Resrcs & Environ Sci,241,126,115
+6386,2012,ACES,Crop Sciences,228,164,64
+6390,2012,ACES,Human Development & Family St,225,20,205
+6393,2012,ACES,Nondegree,124,74,50
+6391,2012,ACES,Natural Res & Env Sciences,80,53,27
+6380,2012,ACES,Agricultural & Biological Engr,75,56,19
+6379,2012,ACES,Agricultural & Applied Econ,54,25,29

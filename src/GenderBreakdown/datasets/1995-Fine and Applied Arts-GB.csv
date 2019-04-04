@@ -1,24 +1,11 @@
-,Fall,College,Major Name,Male,Female
-3099,1995,Fine and Applied Arts,Architectural Studies,324,185
-3100,1995,Fine and Applied Arts,Architecture,125,62
-3101,1995,Fine and Applied Arts,Art Education,29,97
-3102,1995,Fine and Applied Arts,Art History,23,60
-3103,1995,Fine and Applied Arts,Art and Design,160,180
-3104,1995,Fine and Applied Arts,Crafts,10,31
-3105,1995,Fine and Applied Arts,Dance,5,50
-3106,1995,Fine and Applied Arts,Graphic Design,39,70
-3107,1995,Fine and Applied Arts,Industrial Design,57,20
-3108,1995,Fine and Applied Arts,Landscape Architecture,91,68
-3109,1995,Fine and Applied Arts,MUS-VOICE,19,38
-3110,1995,Fine and Applied Arts,MUSIC(AMS),48,42
-3111,1995,Fine and Applied Arts,MUSIC-COMP,16,1
-3112,1995,Fine and Applied Arts,MUSIC-INST,41,65
-3113,1995,Fine and Applied Arts,MUSIC-OPEN,3,0
-3114,1995,Fine and Applied Arts,Music,59,89
-3115,1995,Fine and Applied Arts,Music Education,123,167
-3116,1995,Fine and Applied Arts,Music History,1,1
-3117,1995,Fine and Applied Arts,PERFORM ST,5,4
-3118,1995,Fine and Applied Arts,Regional Planning,17,8
-3119,1995,Fine and Applied Arts,Theatre,16,11
-3120,1995,Fine and Applied Arts,UNCLASS,21,29
-3121,1995,Fine and Applied Arts,Urban Planning,82,62
+,Fall,College,Major Name,Total,Male,Female
+3099,1995,Fine and Applied Arts,Architectural Studies,509,324,185
+3103,1995,Fine and Applied Arts,Art and Design,340,160,180
+3115,1995,Fine and Applied Arts,Music Education,290,123,167
+3100,1995,Fine and Applied Arts,Architecture,187,125,62
+3108,1995,Fine and Applied Arts,Landscape Architecture,159,91,68
+3114,1995,Fine and Applied Arts,Music,148,59,89
+3121,1995,Fine and Applied Arts,Urban Planning,144,82,62
+3101,1995,Fine and Applied Arts,Art Education,126,29,97
+3106,1995,Fine and Applied Arts,Graphic Design,109,39,70
+3112,1995,Fine and Applied Arts,MUSIC-INST,106,41,65

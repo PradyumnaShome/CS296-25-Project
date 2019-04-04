@@ -1,19 +1,11 @@
-,Fall,College,Major Name,Male,Female
-1271,1986,Education,BUS EDUC,3,18
-1272,1986,Education,ED POL ST,22,27
-1273,1986,Education,ED SEC&CON,51,78
-1274,1986,Education,EDUC ELEMENTARY,22,102
-1275,1986,Education,EDUC GEN,43,144
-1276,1986,Education,Early Childhood Education,0,87
-1277,1986,Education,Ed Organization and Leadership,72,71
-1278,1986,Education,Educ Voc Tech,52,55
-1279,1986,Education,Educational Psychology,55,80
-1280,1986,Education,Elementary Education,17,371
-1281,1986,Education,Special Education,11,62
-1282,1986,Education,TCH ENGL,10,23
-1283,1986,Education,TCH GEN SCIENCE,1,5
-1284,1986,Education,TCH LIFE SCI,5,8
-1285,1986,Education,TCH PHYS SCI,2,2
-1286,1986,Education,TCH SOC ST,24,15
-1287,1986,Education,TECH ED SP,19,7
-1288,1986,Education,UG NON-DEG,4,11
+,Fall,College,Major Name,Total,Male,Female
+1280,1986,Education,Elementary Education,388,17,371
+1275,1986,Education,EDUC GEN,187,43,144
+1277,1986,Education,Ed Organization and Leadership,143,72,71
+1279,1986,Education,Educational Psychology,135,55,80
+1273,1986,Education,ED SEC&CON,129,51,78
+1274,1986,Education,EDUC ELEMENTARY,124,22,102
+1278,1986,Education,Educ Voc Tech,107,52,55
+1276,1986,Education,Early Childhood Education,87,0,87
+1281,1986,Education,Special Education,73,11,62
+1272,1986,Education,ED POL ST,49,22,27

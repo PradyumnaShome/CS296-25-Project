@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Male,Female
-6395,2012,Applied Health Sciences,Athletic Training,0,1
-6396,2012,Applied Health Sciences,Audiology,3,13
-6397,2012,Applied Health Sciences,Community Health,187,487
-6398,2012,Applied Health Sciences,Health,41,112
-6399,2012,Applied Health Sciences,Kinesiology,272,361
-6400,2012,Applied Health Sciences,Nondegree,2,5
-6401,2012,Applied Health Sciences,Public Health,8,24
-6402,2012,Applied Health Sciences,"Recreation, Sport, and Tourism ",225,144
-6403,2012,Applied Health Sciences,Rehabilitation,1,4
-6404,2012,Applied Health Sciences,Speech & Hearing Science,12,369
+,Fall,College,Major Name,Total,Male,Female
+6397,2012,Applied Health Sciences,Community Health,674,187,487
+6399,2012,Applied Health Sciences,Kinesiology,633,272,361
+6404,2012,Applied Health Sciences,Speech & Hearing Science,381,12,369
+6402,2012,Applied Health Sciences,"Recreation, Sport, and Tourism ",369,225,144
+6398,2012,Applied Health Sciences,Health,153,41,112
+6401,2012,Applied Health Sciences,Public Health,32,8,24
+6396,2012,Applied Health Sciences,Audiology,16,3,13
+6400,2012,Applied Health Sciences,Nondegree,7,2,5
+6403,2012,Applied Health Sciences,Rehabilitation,5,1,4
+6395,2012,Applied Health Sciences,Athletic Training,1,0,1

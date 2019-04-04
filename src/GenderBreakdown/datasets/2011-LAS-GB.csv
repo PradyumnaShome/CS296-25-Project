@@ -1,79 +1,11 @@
-,Fall,College,Major Name,Male,Female
-6274,2011,LAS,African Studies,5,1
-6275,2011,LAS,Asian Studies,5,3
-6276,2011,LAS,Astronomy,38,26
-6277,2011,LAS,Atmospheric Sciences,75,52
-6278,2011,LAS,Biochemistry,116,92
-6279,2011,LAS,Biology,347,469
-6280,2011,LAS,Biophysics & Computnl Biology,55,15
-6281,2011,LAS,Cell and Developmental Biology,18,20
-6282,2011,LAS,Cell and Structural Biology,2,0
-6283,2011,LAS,Chemical Engineering,431,213
-6284,2011,LAS,Chemical Physics,8,2
-6285,2011,LAS,Chemistry,459,294
-6286,2011,LAS,Classical Philology,5,3
-6287,2011,LAS,Classics,15,11
-6288,2011,LAS,Communication,354,511
-6289,2011,LAS,Comparative Literature,10,20
-6290,2011,LAS,Creative Writing,7,9
-6291,2011,LAS,E Asian Languages & Cultures,35,68
-6292,2011,LAS,"Earth Systems, Env, & Society ",55,53
-6293,2011,LAS,"Earth, Society, & Environment ",16,9
-6294,2011,LAS,"Ecol, Evol, Conservation Biol ",10,13
-6295,2011,LAS,Economics,623,305
-6296,2011,LAS,English,214,482
-6297,2011,LAS,Entomology,15,20
-6298,2011,LAS,European Union Studies,2,6
-6299,2011,LAS,French,23,54
-6300,2011,LAS,Gender and Women's Studies,3,13
-6301,2011,LAS,General Curriculum,12,12
-6302,2011,LAS,Geography,44,19
-6303,2011,LAS,Geology,38,27
-6304,2011,LAS,German,7,9
-6305,2011,LAS,Germanic Lang & Lit,4,10
-6306,2011,LAS,Global Studies,76,187
-6307,2011,LAS,Health Communication,0,1
-6308,2011,LAS,History,336,192
-6309,2011,LAS,History of Art,1,32
-6310,2011,LAS,Individual Plans of Study,4,1
-6311,2011,LAS,Integrative Biology,194,245
-6312,2011,LAS,Interdisciplinary,6,4
-6313,2011,LAS,International Studies,12,34
-6314,2011,LAS,Italian,3,3
-6315,2011,LAS,LAS - Undeclared,69,108
-6316,2011,LAS,Latin American Studies,6,6
-6317,2011,LAS,Latina/Latino Studies,3,5
-6318,2011,LAS,Linguistics,41,62
-6319,2011,LAS,Math & Computer Science,64,8
-6320,2011,LAS,Mathematics,390,254
-6321,2011,LAS,Microbiology,21,39
-6322,2011,LAS,Molecular & Integrative Physi,15,16
-6323,2011,LAS,Molecular and Cellular Biology,555,496
-6324,2011,LAS,Molecular&Cell Bio-undeclared,23,15
-6325,2011,LAS,Neuroscience,27,33
-6326,2011,LAS,Nondegree,84,92
-6327,2011,LAS,Philosophy,99,30
-6328,2011,LAS,Physics,209,33
-6329,2011,LAS,Plant Biology,16,25
-6330,2011,LAS,Political Science,504,322
-6331,2011,LAS,Portuguese,2,2
-6332,2011,LAS,Psychology,457,986
-6333,2011,LAS,Religion,12,7
-6334,2011,LAS,Religious Studies,1,4
-6335,2011,LAS,Rhetoric,49,58
-6336,2011,LAS,Russian & E European Studies,1,1
-6337,2011,LAS,Russian Lang & Literature,1,2
-6338,2011,LAS,"Russian, E Eur, Eurasian St ",3,3
-6339,2011,LAS,Slavic Languages & Literature,2,13
-6340,2011,LAS,Sociology,129,199
-6341,2011,LAS,Spanish,50,154
-6342,2011,LAS,Speech Communication,6,7
-6343,2011,LAS,Statistics,126,94
-6344,2011,LAS,Statistics & Computer Science,11,5
-6345,2011,LAS,Teaching of Biological Science,1,0
-6346,2011,LAS,Teaching of English Sec Lang,8,41
-6347,2011,LAS,Teaching of French,0,2
-6348,2011,LAS,Teaching of German,0,1
-6349,2011,LAS,Teaching of Latin,0,2
-6350,2011,LAS,Teaching of Mathematics,5,1
-6351,2011,LAS,Teaching of Spanish,3,23
+,Fall,College,Major Name,Total,Male,Female
+6332,2011,LAS,Psychology,1446,457,986
+6323,2011,LAS,Molecular and Cellular Biology,1051,555,496
+6295,2011,LAS,Economics,928,623,305
+6288,2011,LAS,Communication,866,354,511
+6330,2011,LAS,Political Science,826,504,322
+6279,2011,LAS,Biology,816,347,469
+6285,2011,LAS,Chemistry,753,459,294
+6296,2011,LAS,English,697,214,482
+6283,2011,LAS,Chemical Engineering,644,431,213
+6320,2011,LAS,Mathematics,644,390,254

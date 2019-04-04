@@ -1,14 +1,11 @@
-,Fall,College,Major Name,Male,Female
-3456,1997,Business,Accountancy,511,485
-3457,1997,Business,Business Administration,824,627
-3458,1997,Business,CBA NON-DEGREE,6,6
-3459,1997,Business,Computer Science,295,68
-3460,1997,Business,Economics,153,82
-3461,1997,Business,Executive MBA Program,24,9
-3462,1997,Business,Finance,522,239
-3463,1997,Business,INT'L MSBA,2,0
-3464,1997,Business,Leisure Studies,9,21
-3465,1997,Business,Teaching of Spanish,0,25
-3466,1997,Business,Technical Systems Management,46,3
-3467,1997,Business,Theatre,63,85
-3468,1997,Business,UNASSIGNED,338,260
+,Fall,College,Major Name,Total,Male,Female
+3457,1997,Business,Business Administration,1451,824,627
+3456,1997,Business,Accountancy,996,511,485
+3462,1997,Business,Finance,761,522,239
+3468,1997,Business,UNASSIGNED,598,338,260
+3459,1997,Business,Computer Science,363,295,68
+3460,1997,Business,Economics,235,153,82
+3467,1997,Business,Theatre,148,63,85
+3466,1997,Business,Technical Systems Management,49,46,3
+3461,1997,Business,Executive MBA Program,33,24,9
+3464,1997,Business,Leisure Studies,30,9,21

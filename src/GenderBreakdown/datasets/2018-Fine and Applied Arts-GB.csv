@@ -1,32 +1,11 @@
-,Fall,College,Major Name,Male,Female
-7797,2018,Fine and Applied Arts,Architectural Studies,251,167
-7798,2018,Fine and Applied Arts,Architecture,99,99
-7799,2018,Fine and Applied Arts,Art Education,3,51
-7800,2018,Fine and Applied Arts,Art Foundation,3,12
-7801,2018,Fine and Applied Arts,Art History,2,12
-7802,2018,Fine and Applied Arts,Art and Design,18,29
-7803,2018,Fine and Applied Arts,Computer Science and Music,1,0
-7804,2018,Fine and Applied Arts,Crafts,0,4
-7805,2018,Fine and Applied Arts,Dance,9,59
-7806,2018,Fine and Applied Arts,Graphic Design,58,127
-7807,2018,Fine and Applied Arts,History of Art,3,5
-7808,2018,Fine and Applied Arts,Industrial Design,99,102
-7809,2018,Fine and Applied Arts,Instrumental Music,30,47
-7810,2018,Fine and Applied Arts,Jazz Performance,25,6
-7811,2018,Fine and Applied Arts,Landscape Architecture,32,76
-7812,2018,Fine and Applied Arts,Lyric Theatre,2,10
-7813,2018,Fine and Applied Arts,Music,178,160
-7814,2018,Fine and Applied Arts,Music Composition,10,0
-7815,2018,Fine and Applied Arts,Music Education,72,80
-7816,2018,Fine and Applied Arts,Musicology,11,8
-7817,2018,Fine and Applied Arts,New Media,7,22
-7818,2018,Fine and Applied Arts,Nondegree,17,21
-7819,2018,Fine and Applied Arts,Open Studies,2,3
-7820,2018,Fine and Applied Arts,Painting,4,32
-7821,2018,Fine and Applied Arts,Photography,8,24
-7822,2018,Fine and Applied Arts,Regional Planning,10,6
-7823,2018,Fine and Applied Arts,Sculpture,2,1
-7824,2018,Fine and Applied Arts,Theatre,85,115
-7825,2018,Fine and Applied Arts,Urban Planning,26,27
-7826,2018,Fine and Applied Arts,Urban Studies & Planning,49,31
-7827,2018,Fine and Applied Arts,Voice,8,17
+,Fall,College,Major Name,Total,Male,Female
+7797,2018,Fine and Applied Arts,Architectural Studies,418,251,167
+7813,2018,Fine and Applied Arts,Music,338,178,160
+7808,2018,Fine and Applied Arts,Industrial Design,201,99,102
+7824,2018,Fine and Applied Arts,Theatre,201,85,115
+7798,2018,Fine and Applied Arts,Architecture,199,99,99
+7806,2018,Fine and Applied Arts,Graphic Design,185,58,127
+7815,2018,Fine and Applied Arts,Music Education,152,72,80
+7811,2018,Fine and Applied Arts,Landscape Architecture,108,32,76
+7826,2018,Fine and Applied Arts,Urban Studies & Planning,80,49,31
+7809,2018,Fine and Applied Arts,Instrumental Music,77,30,47

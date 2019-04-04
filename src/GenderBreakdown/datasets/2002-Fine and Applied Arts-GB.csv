@@ -1,24 +1,11 @@
-,Fall,College,Major Name,Male,Female
-4490,2002,Fine and Applied Arts,Architectural Studies,305,208
-4491,2002,Fine and Applied Arts,Architecture,135,77
-4492,2002,Fine and Applied Arts,Art Education,14,84
-4493,2002,Fine and Applied Arts,Art History,8,41
-4494,2002,Fine and Applied Arts,Art and Design,102,195
-4495,2002,Fine and Applied Arts,Crafts,7,24
-4496,2002,Fine and Applied Arts,Dance,7,61
-4497,2002,Fine and Applied Arts,Graphic Design,31,59
-4498,2002,Fine and Applied Arts,Industrial Design,39,36
-4499,2002,Fine and Applied Arts,Landscape Architecture,85,69
-4500,2002,Fine and Applied Arts,MUS-VOICE,3,22
-4501,2002,Fine and Applied Arts,MUSIC(AMS),46,62
-4502,2002,Fine and Applied Arts,MUSIC-COMP,15,2
-4503,2002,Fine and Applied Arts,MUSIC-INST,51,35
-4504,2002,Fine and Applied Arts,MUSIC-OPEN,2,3
-4505,2002,Fine and Applied Arts,Music,60,81
-4506,2002,Fine and Applied Arts,Music Education,95,153
-4507,2002,Fine and Applied Arts,Music History,0,5
-4508,2002,Fine and Applied Arts,PERFORM ST,11,19
-4509,2002,Fine and Applied Arts,Regional Planning,11,9
-4510,2002,Fine and Applied Arts,Theatre,21,25
-4511,2002,Fine and Applied Arts,UNCLASS,12,20
-4512,2002,Fine and Applied Arts,Urban Planning,98,64
+,Fall,College,Major Name,Total,Male,Female
+4490,2002,Fine and Applied Arts,Architectural Studies,513,305,208
+4494,2002,Fine and Applied Arts,Art and Design,297,102,195
+4506,2002,Fine and Applied Arts,Music Education,248,95,153
+4491,2002,Fine and Applied Arts,Architecture,212,135,77
+4512,2002,Fine and Applied Arts,Urban Planning,162,98,64
+4499,2002,Fine and Applied Arts,Landscape Architecture,154,85,69
+4505,2002,Fine and Applied Arts,Music,141,60,81
+4501,2002,Fine and Applied Arts,MUSIC(AMS),108,46,62
+4492,2002,Fine and Applied Arts,Art Education,98,14,84
+4497,2002,Fine and Applied Arts,Graphic Design,90,31,59

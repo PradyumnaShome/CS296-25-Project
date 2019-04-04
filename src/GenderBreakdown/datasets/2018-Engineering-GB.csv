@@ -1,25 +1,11 @@
-,Fall,College,Major Name,Male,Female
-7773,2018,Engineering,Aerospace Engineering,581,105
-7774,2018,Engineering,Agricultural & Biological Engr,88,53
-7775,2018,Engineering,Bioengineering,194,189
-7776,2018,Engineering,Bioinformatics,4,2
-7777,2018,Engineering,Civil Engineering,901,324
-7778,2018,Engineering,Computer Engineering,1032,152
-7779,2018,Engineering,Computer Science,1757,559
-7780,2018,Engineering,Electrical & Computer Engr,545,112
-7781,2018,Engineering,Electrical Engineering,786,127
-7782,2018,Engineering,Engineering,25,9
-7783,2018,Engineering,Engineering Mechanics,96,16
-7784,2018,Engineering,Engineering Physics,228,47
-7785,2018,Engineering,Engineering Undeclared,94,57
-7786,2018,Engineering,Environ Engr in Civil Engr,55,44
-7787,2018,Engineering,Financial Engineering,89,38
-7788,2018,Engineering,Industrial Engineering,262,105
-7789,2018,Engineering,Materials Science & Engr,357,147
-7790,2018,Engineering,Mechanical Engineering,1037,248
-7791,2018,Engineering,Nondegree,132,49
-7792,2018,Engineering,"Nuclear, Plasma, Radiolgc Engr ",190,28
-7793,2018,Engineering,Physics,211,79
-7794,2018,Engineering,Systems & Entrepreneurial Engr,22,0
-7795,2018,Engineering,Systems Engineering and Design,180,68
-7796,2018,Engineering,Theoretical & Applied Mechans,29,7
+,Fall,College,Major Name,Total,Male,Female
+7779,2018,Engineering,Computer Science,2318,1757,559
+7790,2018,Engineering,Mechanical Engineering,1285,1037,248
+7777,2018,Engineering,Civil Engineering,1225,901,324
+7778,2018,Engineering,Computer Engineering,1184,1032,152
+7781,2018,Engineering,Electrical Engineering,913,786,127
+7773,2018,Engineering,Aerospace Engineering,686,581,105
+7780,2018,Engineering,Electrical & Computer Engr,657,545,112
+7789,2018,Engineering,Materials Science & Engr,504,357,147
+7775,2018,Engineering,Bioengineering,383,194,189
+7788,2018,Engineering,Industrial Engineering,367,262,105

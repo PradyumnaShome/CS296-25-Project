@@ -1,73 +1,11 @@
-,Fall,College,Major Name,Male,Female
-4865,2004,LAS,African Studies,4,6
-4866,2004,LAS,Asian Studies,2,8
-4867,2004,LAS,Astronomy,36,34
-4868,2004,LAS,Atmospheric Sciences,28,13
-4869,2004,LAS,Biochemistry,162,166
-4870,2004,LAS,Bioengineering,10,4
-4871,2004,LAS,Biology,528,679
-4872,2004,LAS,Biophysics,1,0
-4873,2004,LAS,Biophysics & Computnl Biology,49,22
-4874,2004,LAS,Cell and Structural Biology,50,40
-4875,2004,LAS,Chemical Engineering,282,135
-4876,2004,LAS,Chemical Physics,5,1
-4877,2004,LAS,Chemistry,387,307
-4878,2004,LAS,Classical Philology,5,2
-4879,2004,LAS,Classics,14,21
-4880,2004,LAS,Comparative Literature,14,34
-4881,2004,LAS,Creative Writing,14,10
-4882,2004,LAS,E Asian Languages & Cultures,22,34
-4883,2004,LAS,"Ecology, Ethology, & Evolution ",1,2
-4884,2004,LAS,Economics,551,191
-4885,2004,LAS,English,336,683
-4886,2004,LAS,Entomology,17,15
-4887,2004,LAS,Finance,158,59
-4888,2004,LAS,French,22,73
-4889,2004,LAS,General Curriculum,1549,1985
-4890,2004,LAS,Geography,48,27
-4891,2004,LAS,Geology,49,29
-4892,2004,LAS,German,8,11
-4893,2004,LAS,Germanic Lang & Lit,7,9
-4894,2004,LAS,History,422,249
-4895,2004,LAS,History of Art,5,33
-4896,2004,LAS,Humanities,6,10
-4897,2004,LAS,Individual Plans of Study,0,4
-4898,2004,LAS,Integrative Biology,82,106
-4899,2004,LAS,Interdisciplinary,12,14
-4900,2004,LAS,International Studies,93,162
-4901,2004,LAS,Italian,2,8
-4902,2004,LAS,Latin American Studies,7,8
-4903,2004,LAS,Linguistics,37,60
-4904,2004,LAS,Math & Computer Science,138,20
-4905,2004,LAS,Mathematics,402,222
-4906,2004,LAS,Microbiology,31,46
-4907,2004,LAS,Molecular & Integrative Physi,27,16
-4908,2004,LAS,Molecular and Cellular Biology,293,397
-4909,2004,LAS,Molecular&Cell Bio-undeclared,7,5
-4910,2004,LAS,Music,14,6
-4911,2004,LAS,Neuroscience,30,31
-4912,2004,LAS,Nondegree,55,83
-4913,2004,LAS,Philosophy,106,31
-4914,2004,LAS,Physics,145,45
-4915,2004,LAS,Plant Biology,9,10
-4916,2004,LAS,Political Science,558,380
-4917,2004,LAS,Portuguese,1,1
-4918,2004,LAS,Psychology,373,988
-4919,2004,LAS,Religious Studies,11,10
-4920,2004,LAS,Rhetoric,72,66
-4921,2004,LAS,Russian & E European Studies,5,6
-4922,2004,LAS,Russian Lang & Literature,2,1
-4923,2004,LAS,Slavic Languages & Literature,1,1
-4924,2004,LAS,Sociology,114,227
-4925,2004,LAS,Spanish,92,201
-4926,2004,LAS,Speech Communication,199,264
-4927,2004,LAS,Statistics,35,29
-4928,2004,LAS,Statistics & Computer Science,12,3
-4929,2004,LAS,Teaching of Biological Science,0,2
-4930,2004,LAS,Teaching of Chemistry,2,6
-4931,2004,LAS,Teaching of English Sec Lang,13,43
-4932,2004,LAS,Teaching of French,1,5
-4933,2004,LAS,Teaching of German,0,1
-4934,2004,LAS,Teaching of Latin,3,1
-4935,2004,LAS,Teaching of Mathematics,1,0
-4936,2004,LAS,Teaching of Spanish,4,22
+,Fall,College,Major Name,Total,Male,Female
+4889,2004,LAS,General Curriculum,3539,1549,1985
+4918,2004,LAS,Psychology,1361,373,988
+4871,2004,LAS,Biology,1209,528,679
+4885,2004,LAS,English,1019,336,683
+4916,2004,LAS,Political Science,939,558,380
+4884,2004,LAS,Economics,742,551,191
+4877,2004,LAS,Chemistry,694,387,307
+4908,2004,LAS,Molecular and Cellular Biology,690,293,397
+4894,2004,LAS,History,671,422,249
+4905,2004,LAS,Mathematics,624,402,222

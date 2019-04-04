@@ -1,44 +1,11 @@
-,Fall,College,Major Name,Male,Female
-4389,2002,ACES,Agr & Consumer Economics,243,109
-4390,2002,ACES,Agr & Environmental Cmc & Educ,52,102
-4391,2002,ACES,Agr Engineering & Agr Science,40,3
-4392,2002,ACES,Agricultural & Applied Econ,2,2
-4393,2002,ACES,Agricultural Education,0,2
-4394,2002,ACES,Animal Sciences,166,429
-4395,2002,ACES,CFTM-CNSMR&TXTL,2,51
-4396,2002,ACES,CFTM-MKT&PRICE,2,1
-4397,2002,ACES,"CMDTY,FD,TXTL M",9,70
-4398,2002,ACES,Crop Sciences,92,61
-4399,2002,ACES,Food Science & Human Nutrition,95,281
-4400,2002,ACES,Forestry,20,3
-4401,2002,ACES,HDFS-CH&AD DEV,5,128
-4402,2002,ACES,HDFS-FS,8,61
-4403,2002,ACES,HORT -- P&M,25,40
-4404,2002,ACES,HORT--HORT SCI,4,3
-4405,2002,ACES,HU DEV&FAM,0,2
-4406,2002,ACES,Horticulture,2,1
-4407,2002,ACES,Human & Community Development,5,23
-4408,2002,ACES,IRCE-CONS EC&F,48,41
-4409,2002,ACES,IRCE-E&NR MGMT,4,2
-4410,2002,ACES,IRCE-INDCURRIC,5,5
-4411,2002,ACES,"IRCE-POL,TRD,DV",22,11
-4412,2002,ACES,NRES-BIOL SCI,48,35
-4413,2002,ACES,NRES-ENV S W,15,12
-4414,2002,ACES,NRES-F & W CONS,28,13
-4415,2002,ACES,NRES-SOC SCI,28,37
-4416,2002,ACES,Natural Res & Env Sciences,2,1
-4417,2002,ACES,Natural Resrcs & Environ Sci,78,65
-4418,2002,ACES,Nondegree,7,6
-4419,2002,ACES,Nutritional Sciences,8,27
-4420,2002,ACES,Physics,268,42
-4421,2002,ACES,"Recreation, Sport, and Tourism ",126,40
-4422,2002,ACES,Spanish,23,41
-4423,2002,ACES,Speech & Hearing Science,13,267
-4424,2002,ACES,Statistics,9,18
-4425,2002,ACES,Teaching of Biological Science,0,3
-4426,2002,ACES,Teaching of Chemistry,3,9
-4427,2002,ACES,Teaching of English Sec Lang,11,42
-4428,2002,ACES,Teaching of French,0,4
-4429,2002,ACES,Teaching of Latin,2,1
-4430,2002,ACES,Teaching of Mathematics,0,1
-4431,2002,ACES,Teaching of Physics,0,1
+,Fall,College,Major Name,Total,Male,Female
+4394,2002,ACES,Animal Sciences,595,166,429
+4399,2002,ACES,Food Science & Human Nutrition,376,95,281
+4389,2002,ACES,Agr & Consumer Economics,352,243,109
+4420,2002,ACES,Physics,310,268,42
+4423,2002,ACES,Speech & Hearing Science,280,13,267
+4421,2002,ACES,"Recreation, Sport, and Tourism ",166,126,40
+4390,2002,ACES,Agr & Environmental Cmc & Educ,154,52,102
+4398,2002,ACES,Crop Sciences,153,92,61
+4417,2002,ACES,Natural Resrcs & Environ Sci,143,78,65
+4401,2002,ACES,HDFS-CH&AD DEV,133,5,128

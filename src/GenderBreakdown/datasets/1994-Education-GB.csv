@@ -1,23 +1,11 @@
-,Fall,College,Major Name,Male,Female
-2858,1994,Education,BUSINESS ED ACT,1,1
-2859,1994,Education,BUSINESS ED MKT,2,0
-2860,1994,Education,ED POL ST,18,52
-2861,1994,Education,ED SEC&CON,44,58
-2862,1994,Education,EDUC ELEMENTARY,16,108
-2863,1994,Education,EDUC GEN,61,114
-2864,1994,Education,Early Childhood Education,2,74
-2865,1994,Education,Ed Organization and Leadership,39,47
-2866,1994,Education,Educ Voc Tech,33,35
-2867,1994,Education,Educational Psychology,45,91
-2868,1994,Education,Elementary Education,32,376
-2869,1994,Education,Special Education,17,108
-2870,1994,Education,TCH ENGL IN MN,4,11
-2871,1994,Education,TCH ENGL OUT MN,11,41
-2872,1994,Education,TCH GEN SCIENCE,0,1
-2873,1994,Education,TCH LIFE SCI,2,7
-2874,1994,Education,TCH PS CHEM,1,2
-2875,1994,Education,TCH PS PHYSICS,2,0
-2876,1994,Education,TCH SOC ST IN,20,12
-2877,1994,Education,TCH SOC ST OUT,12,14
-2878,1994,Education,TECH ED INDUST,2,1
-2879,1994,Education,TECH ED SP,4,0
+,Fall,College,Major Name,Total,Male,Female
+2868,1994,Education,Elementary Education,408,32,376
+2863,1994,Education,EDUC GEN,175,61,114
+2867,1994,Education,Educational Psychology,136,45,91
+2869,1994,Education,Special Education,125,17,108
+2862,1994,Education,EDUC ELEMENTARY,124,16,108
+2861,1994,Education,ED SEC&CON,102,44,58
+2865,1994,Education,Ed Organization and Leadership,86,39,47
+2864,1994,Education,Early Childhood Education,76,2,74
+2860,1994,Education,ED POL ST,70,18,52
+2866,1994,Education,Educ Voc Tech,68,33,35

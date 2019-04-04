@@ -1,24 +1,11 @@
-,Fall,College,Major Name,Male,Female
-3510,1997,Fine and Applied Arts,Architectural Studies,319,196
-3511,1997,Fine and Applied Arts,Architecture,118,69
-3512,1997,Fine and Applied Arts,Art Education,23,87
-3513,1997,Fine and Applied Arts,Art History,15,51
-3514,1997,Fine and Applied Arts,Art and Design,422,166
-3515,1997,Fine and Applied Arts,Crafts,16,24
-3516,1997,Fine and Applied Arts,Dance,7,61
-3517,1997,Fine and Applied Arts,Graphic Design,47,80
-3518,1997,Fine and Applied Arts,Industrial Design,57,25
-3519,1997,Fine and Applied Arts,Landscape Architecture,83,52
-3520,1997,Fine and Applied Arts,MUS-VOICE,10,35
-3521,1997,Fine and Applied Arts,MUSIC(AMS),50,50
-3522,1997,Fine and Applied Arts,MUSIC-COMP,10,0
-3523,1997,Fine and Applied Arts,MUSIC-INST,41,66
-3524,1997,Fine and Applied Arts,MUSIC-OPEN,1,0
-3525,1997,Fine and Applied Arts,Music,56,83
-3526,1997,Fine and Applied Arts,Music Education,141,199
-3527,1997,Fine and Applied Arts,Music History,4,3
-3528,1997,Fine and Applied Arts,PERFORM ST,12,12
-3529,1997,Fine and Applied Arts,Regional Planning,8,2
-3530,1997,Fine and Applied Arts,Theatre,16,21
-3531,1997,Fine and Applied Arts,UNCLASS,17,23
-3532,1997,Fine and Applied Arts,Urban Planning,81,67
+,Fall,College,Major Name,Total,Male,Female
+3510,1997,Fine and Applied Arts,Architectural Studies,515,319,196
+3526,1997,Fine and Applied Arts,Music Education,340,141,199
+3514,1997,Fine and Applied Arts,Art and Design,334,422,166
+3511,1997,Fine and Applied Arts,Architecture,187,118,69
+3532,1997,Fine and Applied Arts,Urban Planning,148,81,67
+3525,1997,Fine and Applied Arts,Music,139,56,83
+3519,1997,Fine and Applied Arts,Landscape Architecture,135,83,52
+3517,1997,Fine and Applied Arts,Graphic Design,127,47,80
+3512,1997,Fine and Applied Arts,Art Education,110,23,87
+3523,1997,Fine and Applied Arts,MUSIC-INST,107,41,66

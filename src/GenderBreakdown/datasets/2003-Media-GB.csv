@@ -1,7 +1,7 @@
-,Fall,College,Major Name,Male,Female
-4753,2003,Media,Advertising,79,234
-4754,2003,Media,Broadcast Journalism,22,41
-4755,2003,Media,Communication,23,31
-4756,2003,Media,Journalism,8,21
-4757,2003,Media,Media Studies,30,64
-4758,2003,Media,News-Editorial,36,74
+,Fall,College,Major Name,Total,Male,Female
+4753,2003,Media,Advertising,313,79,234
+4758,2003,Media,News-Editorial,110,36,74
+4757,2003,Media,Media Studies,94,30,64
+4754,2003,Media,Broadcast Journalism,63,22,41
+4755,2003,Media,Communication,54,23,31
+4756,2003,Media,Journalism,29,8,21

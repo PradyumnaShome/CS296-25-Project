@@ -1,21 +1,11 @@
-,Fall,College,Major Name,Male,Female
-7303,2016,Education,Accountancy,618,712
-7304,2016,Education,Actuarial Science,206,137
-7305,2016,Education,Advertising,193,394
-7306,2016,Education,African American Studies,5,10
-7307,2016,Education,Anthropology,51,97
-7308,2016,Education,Applied Mathematics,28,18
-7309,2016,Education,Curriculum and Instruction,25,76
-7310,2016,Education,Early Childhood Education,2,58
-7311,2016,Education,Ed Organization and Leadership,10,18
-7312,2016,Education,"Educ Policy, Orgzn & Leadrshp ",74,127
-7313,2016,Education,Educational Policy Studies,38,54
-7314,2016,Education,Educational Psychology,13,37
-7315,2016,Education,Elementary Education,24,316
-7316,2016,Education,Human Resource Education,12,18
-7317,2016,Education,Learning and Education Studies,9,37
-7318,2016,Education,Middle Grades Education,8,29
-7319,2016,Education,Nondegree,1,6
-7320,2016,Education,Pre-Early Chld/Elem Ed/Spec Ed,3,10
-7321,2016,Education,Secondary Education,12,10
-7322,2016,Education,Special Education,21,153
+,Fall,College,Major Name,Total,Male,Female
+7303,2016,Education,Accountancy,1330,618,712
+7305,2016,Education,Advertising,587,193,394
+7304,2016,Education,Actuarial Science,343,206,137
+7315,2016,Education,Elementary Education,340,24,316
+7312,2016,Education,"Educ Policy, Orgzn & Leadrshp ",201,74,127
+7322,2016,Education,Special Education,174,21,153
+7307,2016,Education,Anthropology,148,51,97
+7309,2016,Education,Curriculum and Instruction,101,25,76
+7313,2016,Education,Educational Policy Studies,92,38,54
+7310,2016,Education,Early Childhood Education,60,2,58

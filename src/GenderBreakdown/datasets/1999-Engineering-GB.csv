@@ -1,21 +1,11 @@
-,Fall,College,Major Name,Male,Female
-3901,1999,Engineering,Aero & Astro Engineering,269,74
-3902,1999,Engineering,Agricultural Engineering,84,30
-3903,1999,Engineering,CER ENGR,2,0
-3904,1999,Engineering,Civil Engineering,616,175
-3905,1999,Engineering,Computer Engineering,704,79
-3906,1999,Engineering,Computer Science,685,92
-3907,1999,Engineering,ENGR MECH,16,4
-3908,1999,Engineering,ENGR NONDEGREE,2,2
-3909,1999,Engineering,ENGR PHYS,53,10
-3910,1999,Engineering,ENV ENGR,42,22
-3911,1999,Engineering,ENV SCI,6,6
-3912,1999,Engineering,Electrical Engineering,1125,157
-3913,1999,Engineering,GEN ENGR,302,127
-3914,1999,Engineering,Industrial Engineering,107,41
-3915,1999,Engineering,MATSCI&ENG,153,40
-3916,1999,Engineering,METAL ENGR,1,1
-3917,1999,Engineering,Materials Science & Engr,76,29
-3918,1999,Engineering,Mechanical Engineering,813,116
-3919,1999,Engineering,Nuclear Engineering,71,13
-3920,1999,Engineering,Theoretical & Applied Mechans,53,8
+,Fall,College,Major Name,Total,Male,Female
+3912,1999,Engineering,Electrical Engineering,1282,1125,157
+3918,1999,Engineering,Mechanical Engineering,929,813,116
+3904,1999,Engineering,Civil Engineering,791,616,175
+3905,1999,Engineering,Computer Engineering,783,704,79
+3906,1999,Engineering,Computer Science,777,685,92
+3913,1999,Engineering,GEN ENGR,429,302,127
+3901,1999,Engineering,Aero & Astro Engineering,343,269,74
+3915,1999,Engineering,MATSCI&ENG,193,153,40
+3914,1999,Engineering,Industrial Engineering,148,107,41
+3902,1999,Engineering,Agricultural Engineering,114,84,30

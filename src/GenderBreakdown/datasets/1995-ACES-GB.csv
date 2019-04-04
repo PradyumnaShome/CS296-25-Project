@@ -1,42 +1,11 @@
-,Fall,College,Major Name,Male,Female
-2988,1995,ACES,Agr & Environmental Cmc & Educ,6,4
-2989,1995,ACES,Agricultural & Applied Econ,347,104
-2990,1995,ACES,Agricultural Communications,36,52
-2991,1995,ACES,Agricultural Education,10,9
-2992,1995,ACES,Agricultural Engineering,81,10
-2993,1995,ACES,Agricultural Sciences,23,17
-2994,1995,ACES,Agronomy,107,55
-2995,1995,ACES,Animal Sciences,225,299
-2996,1995,ACES,CONSM ECON,18,15
-2997,1995,ACES,CORE CURR,29,16
-2998,1995,ACES,DIETETICS,2,70
-2999,1995,ACES,EXT EDUC,0,6
-3000,1995,ACES,FAM&CON EC,3,3
-3001,1995,ACES,Food Science & Human Nutrition,62,136
-3002,1995,ACES,Forestry,120,98
-3003,1995,ACES,H DVL-FAM,20,156
-3004,1995,ACES,HR&FS A&ID,2,13
-3005,1995,ACES,HU DEV&FAM,5,29
-3006,1995,ACES,Horticulture,36,30
-3007,1995,ACES,MKT TEXT&A,4,68
-3008,1995,ACES,Mechanical Agriculture,63,0
-3009,1995,ACES,Nutritional Sciences,15,28
-3010,1995,ACES,ORN HORT,49,35
-3011,1995,ACES,PLANT PATH,17,6
-3012,1995,ACES,Physics,290,22
-3013,1995,ACES,REST MGMT,18,31
-3014,1995,ACES,SOIL SCI,2,0
-3015,1995,ACES,Secondary Education,13,11
-3016,1995,ACES,Spanish,19,28
-3017,1995,ACES,Speech & Hearing Science,8,210
-3018,1995,ACES,Statistics,14,6
-3019,1995,ACES,TEXT-APPRL,1,10
-3020,1995,ACES,Teaching of Biological Science,4,8
-3021,1995,ACES,Teaching of Chemistry,7,5
-3022,1995,ACES,Teaching of Earth Science,0,4
-3023,1995,ACES,Teaching of English Sec Lang,23,62
-3024,1995,ACES,Teaching of French,0,9
-3025,1995,ACES,Teaching of German,1,1
-3026,1995,ACES,Teaching of Latin,2,1
-3027,1995,ACES,Teaching of Mathematics,12,12
-3028,1995,ACES,Teaching of Physics,1,1
+,Fall,College,Major Name,Total,Male,Female
+2995,1995,ACES,Animal Sciences,524,225,299
+2989,1995,ACES,Agricultural & Applied Econ,451,347,104
+3012,1995,ACES,Physics,312,290,22
+3002,1995,ACES,Forestry,218,120,98
+3017,1995,ACES,Speech & Hearing Science,218,8,210
+3001,1995,ACES,Food Science & Human Nutrition,198,62,136
+3003,1995,ACES,H DVL-FAM,176,20,156
+2994,1995,ACES,Agronomy,162,107,55
+2992,1995,ACES,Agricultural Engineering,91,81,10
+2990,1995,ACES,Agricultural Communications,88,36,52

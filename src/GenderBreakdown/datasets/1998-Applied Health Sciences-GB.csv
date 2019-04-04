@@ -1,10 +1,10 @@
-,Fall,College,Major Name,Male,Female
-3654,1998,Applied Health Sciences,HLTH EDUC,7,65
-3655,1998,Applied Health Sciences,HLTH PL AD,30,85
-3656,1998,Applied Health Sciences,Kinesiology,210,289
-3657,1998,Applied Health Sciences,Leisure Studies,64,51
-3658,1998,Applied Health Sciences,MSPH IN C HLTH,2,5
-3659,1998,Applied Health Sciences,PARK & NR MGMT,9,3
-3660,1998,Applied Health Sciences,PROG MANAG,4,4
-3661,1998,Applied Health Sciences,"Recreation, Sport, and Tourism ",20,19
-3662,1998,Applied Health Sciences,Rehabilitation,3,13
+,Fall,College,Major Name,Total,Male,Female
+3656,1998,Applied Health Sciences,Kinesiology,499,210,289
+3655,1998,Applied Health Sciences,HLTH PL AD,115,30,85
+3657,1998,Applied Health Sciences,Leisure Studies,115,64,51
+3654,1998,Applied Health Sciences,HLTH EDUC,72,7,65
+3661,1998,Applied Health Sciences,"Recreation, Sport, and Tourism ",39,20,19
+3662,1998,Applied Health Sciences,Rehabilitation,16,3,13
+3659,1998,Applied Health Sciences,PARK & NR MGMT,12,9,3
+3660,1998,Applied Health Sciences,PROG MANAG,8,4,4
+3658,1998,Applied Health Sciences,MSPH IN C HLTH,7,2,5

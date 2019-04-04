@@ -1,19 +1,11 @@
-,Fall,College,Major Name,Male,Female
-6861,2014,Education,Accountancy,732,758
-6862,2014,Education,Actuarial Science,218,167
-6863,2014,Education,Advertising,182,421
-6864,2014,Education,African American Studies,4,5
-6865,2014,Education,Anthropology,46,131
-6866,2014,Education,Applied Mathematics,17,17
-6867,2014,Education,Curriculum and Instruction,22,90
-6868,2014,Education,Early Childhood Education,0,23
-6869,2014,Education,Ed Organization and Leadership,35,66
-6870,2014,Education,Educational Policy Studies,64,91
-6871,2014,Education,Educational Psychology,17,45
-6872,2014,Education,Elementary Education,16,200
-6873,2014,Education,Human Resource Education,18,37
-6874,2014,Education,Nondegree,2,8
-6875,2014,Education,Pre-Early Chld/Elem Ed/Spec Ed,18,223
-6876,2014,Education,Secondary & Continuing Educ,0,2
-6877,2014,Education,Secondary Education,6,5
-6878,2014,Education,Special Education,19,125
+,Fall,College,Major Name,Total,Male,Female
+6861,2014,Education,Accountancy,1490,732,758
+6863,2014,Education,Advertising,603,182,421
+6862,2014,Education,Actuarial Science,385,218,167
+6875,2014,Education,Pre-Early Chld/Elem Ed/Spec Ed,241,18,223
+6872,2014,Education,Elementary Education,216,16,200
+6865,2014,Education,Anthropology,177,46,131
+6870,2014,Education,Educational Policy Studies,155,64,91
+6878,2014,Education,Special Education,144,19,125
+6867,2014,Education,Curriculum and Instruction,112,22,90
+6869,2014,Education,Ed Organization and Leadership,101,35,66

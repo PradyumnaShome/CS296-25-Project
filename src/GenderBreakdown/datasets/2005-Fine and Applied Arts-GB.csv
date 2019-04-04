@@ -1,29 +1,11 @@
-,Fall,College,Major Name,Male,Female
-5027,2005,Fine and Applied Arts,Architectural Studies,308,226
-5028,2005,Fine and Applied Arts,Architecture,114,88
-5029,2005,Fine and Applied Arts,Art Education,17,89
-5030,2005,Fine and Applied Arts,Art History,3,28
-5031,2005,Fine and Applied Arts,Art and Design,25,23
-5032,2005,Fine and Applied Arts,Crafts,7,15
-5033,2005,Fine and Applied Arts,Creative Writing,0,3
-5034,2005,Fine and Applied Arts,Dance,8,58
-5035,2005,Fine and Applied Arts,General Curriculum,67,109
-5036,2005,Fine and Applied Arts,Graphic Design,21,54
-5037,2005,Fine and Applied Arts,History of Art,3,19
-5038,2005,Fine and Applied Arts,Industrial Design,47,51
-5039,2005,Fine and Applied Arts,Instrumental Music,52,70
-5040,2005,Fine and Applied Arts,Landscape Architecture,93,65
-5041,2005,Fine and Applied Arts,Music,123,154
-5042,2005,Fine and Applied Arts,Music Composition,8,1
-5043,2005,Fine and Applied Arts,Music Education,101,126
-5044,2005,Fine and Applied Arts,Music History,0,1
-5045,2005,Fine and Applied Arts,Musicology,5,5
-5046,2005,Fine and Applied Arts,Nondegree,16,13
-5047,2005,Fine and Applied Arts,Open Studies,15,5
-5048,2005,Fine and Applied Arts,Painting,16,32
-5049,2005,Fine and Applied Arts,Photography,11,22
-5050,2005,Fine and Applied Arts,Regional Planning,16,12
-5051,2005,Fine and Applied Arts,Sculpture,8,7
-5052,2005,Fine and Applied Arts,Theatre,94,105
-5053,2005,Fine and Applied Arts,Urban Planning,98,93
-5054,2005,Fine and Applied Arts,Voice,3,16
+,Fall,College,Major Name,Total,Male,Female
+5027,2005,Fine and Applied Arts,Architectural Studies,534,308,226
+5041,2005,Fine and Applied Arts,Music,277,123,154
+5043,2005,Fine and Applied Arts,Music Education,227,101,126
+5028,2005,Fine and Applied Arts,Architecture,203,114,88
+5052,2005,Fine and Applied Arts,Theatre,199,94,105
+5053,2005,Fine and Applied Arts,Urban Planning,191,98,93
+5035,2005,Fine and Applied Arts,General Curriculum,176,67,109
+5040,2005,Fine and Applied Arts,Landscape Architecture,158,93,65
+5039,2005,Fine and Applied Arts,Instrumental Music,122,52,70
+5029,2005,Fine and Applied Arts,Art Education,106,17,89

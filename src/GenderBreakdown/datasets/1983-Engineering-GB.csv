@@ -1,20 +1,11 @@
-,Fall,College,Major Name,Male,Female
-684,1983,Engineering,Aero & Astro Engineering,428,45
-685,1983,Engineering,Agricultural Engineering,90,5
-686,1983,Engineering,CER ENGR,121,34
-687,1983,Engineering,CERAMICS,0,1
-688,1983,Engineering,Civil Engineering,517,94
-689,1983,Engineering,Computer Engineering,348,78
-690,1983,Engineering,Computer Science,482,202
-691,1983,Engineering,ENGR MECH,40,10
-692,1983,Engineering,ENGR PHYS,71,10
-693,1983,Engineering,ENV ENGR,23,8
-694,1983,Engineering,ENV SCI,10,3
-695,1983,Engineering,Electrical Engineering,1475,182
-696,1983,Engineering,GEN ENGR,324,146
-697,1983,Engineering,Industrial Engineering,102,52
-698,1983,Engineering,METAL ENGR,153,32
-699,1983,Engineering,Mechanical Engineering,789,78
-700,1983,Engineering,Nuclear Engineering,138,10
-701,1983,Engineering,TCH CS,2,2
-702,1983,Engineering,Theoretical & Applied Mechans,42,4
+,Fall,College,Major Name,Total,Male,Female
+695,1983,Engineering,Electrical Engineering,1657,1475,182
+699,1983,Engineering,Mechanical Engineering,867,789,78
+690,1983,Engineering,Computer Science,684,482,202
+688,1983,Engineering,Civil Engineering,611,517,94
+684,1983,Engineering,Aero & Astro Engineering,473,428,45
+696,1983,Engineering,GEN ENGR,470,324,146
+689,1983,Engineering,Computer Engineering,426,348,78
+698,1983,Engineering,METAL ENGR,185,153,32
+686,1983,Engineering,CER ENGR,155,121,34
+697,1983,Engineering,Industrial Engineering,154,102,52

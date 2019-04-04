@@ -1,7 +1,7 @@
-,Fall,College,Major Name,Male,Female
-1380,1986,Media,Advertising,75,181
-1381,1986,Media,Broadcast Journalism,10,40
-1382,1986,Media,Communication,21,22
-1383,1986,Media,Journalism,14,19
-1384,1986,Media,Media Studies,3,19
-1385,1986,Media,News-Editorial,50,86
+,Fall,College,Major Name,Total,Male,Female
+1380,1986,Media,Advertising,256,75,181
+1385,1986,Media,News-Editorial,136,50,86
+1381,1986,Media,Broadcast Journalism,50,10,40
+1382,1986,Media,Communication,43,21,22
+1383,1986,Media,Journalism,33,14,19
+1384,1986,Media,Media Studies,22,3,19

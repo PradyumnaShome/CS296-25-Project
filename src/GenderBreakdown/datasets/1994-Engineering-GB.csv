@@ -1,22 +1,11 @@
-,Fall,College,Major Name,Male,Female
-2880,1994,Engineering,Aero & Astro Engineering,280,40
-2881,1994,Engineering,Agricultural Engineering,68,25
-2882,1994,Engineering,CER ENGR,117,19
-2883,1994,Engineering,CERAMIC ENG,7,0
-2884,1994,Engineering,CERAMICS,4,0
-2885,1994,Engineering,Civil Engineering,939,201
-2886,1994,Engineering,Computer Engineering,393,37
-2887,1994,Engineering,Computer Science,477,63
-2888,1994,Engineering,ENGR MECH,47,9
-2889,1994,Engineering,ENGR PHYS,55,16
-2890,1994,Engineering,ENV ENGR,54,12
-2891,1994,Engineering,ENV SCI,10,2
-2892,1994,Engineering,Electrical Engineering,1364,169
-2893,1994,Engineering,GEN ENGR,462,132
-2894,1994,Engineering,Industrial Engineering,109,46
-2895,1994,Engineering,METAL ENGR,67,10
-2896,1994,Engineering,Materials Science & Engr,96,25
-2897,1994,Engineering,Mechanical Engineering,925,111
-2898,1994,Engineering,Nuclear Engineering,105,20
-2899,1994,Engineering,TCH CS,2,0
-2900,1994,Engineering,Theoretical & Applied Mechans,38,4
+,Fall,College,Major Name,Total,Male,Female
+2892,1994,Engineering,Electrical Engineering,1533,1364,169
+2885,1994,Engineering,Civil Engineering,1140,939,201
+2897,1994,Engineering,Mechanical Engineering,1036,925,111
+2893,1994,Engineering,GEN ENGR,594,462,132
+2887,1994,Engineering,Computer Science,540,477,63
+2886,1994,Engineering,Computer Engineering,430,393,37
+2880,1994,Engineering,Aero & Astro Engineering,320,280,40
+2894,1994,Engineering,Industrial Engineering,155,109,46
+2882,1994,Engineering,CER ENGR,136,117,19
+2898,1994,Engineering,Nuclear Engineering,125,105,20

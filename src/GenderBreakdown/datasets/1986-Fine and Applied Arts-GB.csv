@@ -1,23 +1,11 @@
-,Fall,College,Major Name,Male,Female
-1307,1986,Fine and Applied Arts,Architectural Studies,423,175
-1308,1986,Fine and Applied Arts,Architecture,156,50
-1309,1986,Fine and Applied Arts,Art Education,20,50
-1310,1986,Fine and Applied Arts,Art History,19,53
-1311,1986,Fine and Applied Arts,Art and Design,161,199
-1312,1986,Fine and Applied Arts,Crafts,8,10
-1313,1986,Fine and Applied Arts,Dance,10,35
-1314,1986,Fine and Applied Arts,Graphic Design,54,81
-1315,1986,Fine and Applied Arts,Industrial Design,71,46
-1316,1986,Fine and Applied Arts,Landscape Architecture,84,51
-1317,1986,Fine and Applied Arts,MUS-VOICE,14,38
-1318,1986,Fine and Applied Arts,MUSIC(AMS),40,34
-1319,1986,Fine and Applied Arts,MUSIC-COMP,4,1
-1320,1986,Fine and Applied Arts,MUSIC-INST,32,47
-1321,1986,Fine and Applied Arts,Music,69,82
-1322,1986,Fine and Applied Arts,Music Education,117,160
-1323,1986,Fine and Applied Arts,Music History,0,1
-1324,1986,Fine and Applied Arts,PERFORM ST,5,6
-1325,1986,Fine and Applied Arts,Regional Planning,9,1
-1326,1986,Fine and Applied Arts,Theatre,21,21
-1327,1986,Fine and Applied Arts,UNCLASS,19,41
-1328,1986,Fine and Applied Arts,Urban Planning,88,72
+,Fall,College,Major Name,Total,Male,Female
+1307,1986,Fine and Applied Arts,Architectural Studies,598,423,175
+1311,1986,Fine and Applied Arts,Art and Design,360,161,199
+1322,1986,Fine and Applied Arts,Music Education,277,117,160
+1308,1986,Fine and Applied Arts,Architecture,206,156,50
+1328,1986,Fine and Applied Arts,Urban Planning,160,88,72
+1321,1986,Fine and Applied Arts,Music,151,69,82
+1314,1986,Fine and Applied Arts,Graphic Design,135,54,81
+1316,1986,Fine and Applied Arts,Landscape Architecture,135,84,51
+1315,1986,Fine and Applied Arts,Industrial Design,117,71,46
+1320,1986,Fine and Applied Arts,MUSIC-INST,79,32,47

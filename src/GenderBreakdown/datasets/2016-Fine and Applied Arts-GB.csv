@@ -1,30 +1,11 @@
-,Fall,College,Major Name,Male,Female
-7351,2016,Fine and Applied Arts,Architectural Studies,241,176
-7352,2016,Fine and Applied Arts,Architecture,83,76
-7353,2016,Fine and Applied Arts,Art Education,4,35
-7354,2016,Fine and Applied Arts,Art Foundation,7,22
-7355,2016,Fine and Applied Arts,Art History,1,18
-7356,2016,Fine and Applied Arts,Art and Design,15,28
-7357,2016,Fine and Applied Arts,Crafts,1,9
-7358,2016,Fine and Applied Arts,Dance,9,64
-7359,2016,Fine and Applied Arts,Graphic Design,44,115
-7360,2016,Fine and Applied Arts,History of Art,0,6
-7361,2016,Fine and Applied Arts,Industrial Design,80,106
-7362,2016,Fine and Applied Arts,Instrumental Music,30,48
-7363,2016,Fine and Applied Arts,Jazz Performance,32,5
-7364,2016,Fine and Applied Arts,Landscape Architecture,44,88
-7365,2016,Fine and Applied Arts,Music,193,155
-7366,2016,Fine and Applied Arts,Music Composition,8,0
-7367,2016,Fine and Applied Arts,Music Education,75,106
-7368,2016,Fine and Applied Arts,Musicology,9,13
-7369,2016,Fine and Applied Arts,New Media,9,10
-7370,2016,Fine and Applied Arts,Nondegree,16,16
-7371,2016,Fine and Applied Arts,Open Studies,0,3
-7372,2016,Fine and Applied Arts,Painting,6,24
-7373,2016,Fine and Applied Arts,Photography,3,18
-7374,2016,Fine and Applied Arts,Regional Planning,10,7
-7375,2016,Fine and Applied Arts,Sculpture,0,2
-7376,2016,Fine and Applied Arts,Theatre,79,102
-7377,2016,Fine and Applied Arts,Urban Planning,46,55
-7378,2016,Fine and Applied Arts,Urban Studies & Planning,24,19
-7379,2016,Fine and Applied Arts,Voice,10,16
+,Fall,College,Major Name,Total,Male,Female
+7351,2016,Fine and Applied Arts,Architectural Studies,417,241,176
+7365,2016,Fine and Applied Arts,Music,348,193,155
+7361,2016,Fine and Applied Arts,Industrial Design,186,80,106
+7367,2016,Fine and Applied Arts,Music Education,181,75,106
+7376,2016,Fine and Applied Arts,Theatre,181,79,102
+7352,2016,Fine and Applied Arts,Architecture,159,83,76
+7359,2016,Fine and Applied Arts,Graphic Design,159,44,115
+7364,2016,Fine and Applied Arts,Landscape Architecture,132,44,88
+7377,2016,Fine and Applied Arts,Urban Planning,101,46,55
+7362,2016,Fine and Applied Arts,Instrumental Music,78,30,48

@@ -1,20 +1,11 @@
-,Fall,College,Major Name,Male,Female
-4658,2003,Engineering,Aero & Astro Engineering,343,74
-4659,2003,Engineering,Agricultural Engineering,79,16
-4660,2003,Engineering,Civil Engineering,626,169
-4661,2003,Engineering,Computer Engineering,683,73
-4662,2003,Engineering,Computer Science,696,84
-4663,2003,Engineering,ENGR MECH,55,10
-4664,2003,Engineering,ENGR NONDEGREE,65,13
-4665,2003,Engineering,ENGR PHYS,79,12
-4666,2003,Engineering,ENV ENGR,41,29
-4667,2003,Engineering,ENV SCI,6,4
-4668,2003,Engineering,Electrical Engineering,1203,220
-4669,2003,Engineering,GEN ENGR,468,133
-4670,2003,Engineering,Industrial Engineering,62,29
-4671,2003,Engineering,MATSCI&ENG,159,56
-4672,2003,Engineering,Materials Science & Engr,108,50
-4673,2003,Engineering,Mechanical Engineering,845,109
-4674,2003,Engineering,Nuclear Engineering,103,23
-4675,2003,Engineering,Systems & Entrepreneurial Engr,10,2
-4676,2003,Engineering,Theoretical & Applied Mechans,59,7
+,Fall,College,Major Name,Total,Male,Female
+4668,2003,Engineering,Electrical Engineering,1423,1203,220
+4673,2003,Engineering,Mechanical Engineering,954,845,109
+4660,2003,Engineering,Civil Engineering,795,626,169
+4662,2003,Engineering,Computer Science,780,696,84
+4661,2003,Engineering,Computer Engineering,756,683,73
+4669,2003,Engineering,GEN ENGR,601,468,133
+4658,2003,Engineering,Aero & Astro Engineering,417,343,74
+4671,2003,Engineering,MATSCI&ENG,215,159,56
+4672,2003,Engineering,Materials Science & Engr,158,108,50
+4674,2003,Engineering,Nuclear Engineering,126,103,23

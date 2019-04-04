@@ -1,18 +1,11 @@
-,Fall,College,Major Name,Male,Female
-5334,2007,ACES,Agr & Consumer Economics,379,191
-5335,2007,ACES,Agr & Environmental Cmc & Educ,21,69
-5336,2007,ACES,Agr Engineering & Agr Science,38,6
-5337,2007,ACES,"Agribusiness, Farm & Financial ",79,20
-5338,2007,ACES,Agricultural Education,2,2
-5339,2007,ACES,Animal Sciences,187,450
-5340,2007,ACES,Consumer and Textile Marketing,1,8
-5341,2007,ACES,Crop Sciences,96,50
-5342,2007,ACES,Food Science & Human Nutrition,103,310
-5343,2007,ACES,Horticulture,38,24
-5344,2007,ACES,Human & Community Development,5,22
-5345,2007,ACES,Human Development & Family St,14,178
-5346,2007,ACES,"Intl, Resource, Consumer Econ ",30,25
-5347,2007,ACES,Natural Res & Env Sciences,47,44
-5348,2007,ACES,Natural Resrcs & Environ Sci,95,101
-5349,2007,ACES,Nondegree,3,10
-5350,2007,ACES,Nutritional Sciences,16,44
+,Fall,College,Major Name,Total,Male,Female
+5339,2007,ACES,Animal Sciences,638,187,450
+5334,2007,ACES,Agr & Consumer Economics,570,379,191
+5342,2007,ACES,Food Science & Human Nutrition,413,103,310
+5348,2007,ACES,Natural Resrcs & Environ Sci,197,95,101
+5345,2007,ACES,Human Development & Family St,192,14,178
+5341,2007,ACES,Crop Sciences,146,96,50
+5337,2007,ACES,"Agribusiness, Farm & Financial ",100,79,20
+5347,2007,ACES,Natural Res & Env Sciences,91,47,44
+5335,2007,ACES,Agr & Environmental Cmc & Educ,90,21,69
+5343,2007,ACES,Horticulture,62,38,24

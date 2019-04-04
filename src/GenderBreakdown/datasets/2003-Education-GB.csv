@@ -1,15 +1,11 @@
-,Fall,College,Major Name,Male,Female
-4644,2003,Education,BUS EDUC,0,1
-4645,2003,Education,ED POL ST,38,74
-4646,2003,Education,ED SEC&CON,31,70
-4647,2003,Education,EDUC ELEMENTARY,12,76
-4648,2003,Education,EDUC GEN,24,268
-4649,2003,Education,Early Childhood Education,3,60
-4650,2003,Education,Ed Organization and Leadership,75,90
-4651,2003,Education,Educ Voc Tech,37,49
-4652,2003,Education,Educational Psychology,46,90
-4653,2003,Education,Elementary Education,32,277
-4654,2003,Education,Secondary & Continuing Educ,12,18
-4655,2003,Education,Special Education,16,118
-4656,2003,Education,UG NON-DEG,0,1
-4657,2003,Education,XMURAL,2,0
+,Fall,College,Major Name,Total,Male,Female
+4653,2003,Education,Elementary Education,309,32,277
+4648,2003,Education,EDUC GEN,292,24,268
+4650,2003,Education,Ed Organization and Leadership,165,75,90
+4652,2003,Education,Educational Psychology,136,46,90
+4655,2003,Education,Special Education,134,16,118
+4645,2003,Education,ED POL ST,112,38,74
+4646,2003,Education,ED SEC&CON,101,31,70
+4647,2003,Education,EDUC ELEMENTARY,88,12,76
+4651,2003,Education,Educ Voc Tech,86,37,49
+4649,2003,Education,Early Childhood Education,63,3,60

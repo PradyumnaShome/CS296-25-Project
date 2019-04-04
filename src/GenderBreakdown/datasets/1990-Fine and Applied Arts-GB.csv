@@ -1,24 +1,11 @@
-,Fall,College,Major Name,Male,Female
-2113,1990,Fine and Applied Arts,Architectural Studies,403,182
-2114,1990,Fine and Applied Arts,Architecture,137,62
-2115,1990,Fine and Applied Arts,Art Education,24,44
-2116,1990,Fine and Applied Arts,Art History,13,68
-2117,1990,Fine and Applied Arts,Art and Design,161,171
-2118,1990,Fine and Applied Arts,Crafts,7,16
-2119,1990,Fine and Applied Arts,Dance,8,34
-2120,1990,Fine and Applied Arts,Graphic Design,53,71
-2121,1990,Fine and Applied Arts,Industrial Design,57,23
-2122,1990,Fine and Applied Arts,Landscape Architecture,89,51
-2123,1990,Fine and Applied Arts,MUS-VOICE,9,33
-2124,1990,Fine and Applied Arts,MUSIC(AMS),35,25
-2125,1990,Fine and Applied Arts,MUSIC-COMP,8,3
-2126,1990,Fine and Applied Arts,MUSIC-INST,35,48
-2127,1990,Fine and Applied Arts,MUSIC-OPEN,2,2
-2128,1990,Fine and Applied Arts,Music,72,72
-2129,1990,Fine and Applied Arts,Music Education,92,139
-2130,1990,Fine and Applied Arts,Music History,1,0
-2131,1990,Fine and Applied Arts,PERFORM ST,6,3
-2132,1990,Fine and Applied Arts,Regional Planning,12,4
-2133,1990,Fine and Applied Arts,Theatre,16,14
-2134,1990,Fine and Applied Arts,UNCLASS,20,28
-2135,1990,Fine and Applied Arts,Urban Planning,104,52
+,Fall,College,Major Name,Total,Male,Female
+2113,1990,Fine and Applied Arts,Architectural Studies,585,403,182
+2117,1990,Fine and Applied Arts,Art and Design,332,161,171
+2129,1990,Fine and Applied Arts,Music Education,231,92,139
+2114,1990,Fine and Applied Arts,Architecture,199,137,62
+2135,1990,Fine and Applied Arts,Urban Planning,156,104,52
+2128,1990,Fine and Applied Arts,Music,144,72,72
+2122,1990,Fine and Applied Arts,Landscape Architecture,140,89,51
+2120,1990,Fine and Applied Arts,Graphic Design,124,53,71
+2126,1990,Fine and Applied Arts,MUSIC-INST,83,35,48
+2116,1990,Fine and Applied Arts,Art History,81,13,68

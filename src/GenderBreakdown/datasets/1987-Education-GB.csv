@@ -1,19 +1,11 @@
-,Fall,College,Major Name,Male,Female
-1472,1987,Education,BUS EDUC,2,11
-1473,1987,Education,ED POL ST,25,32
-1474,1987,Education,ED SEC&CON,56,85
-1475,1987,Education,EDUC ELEMENTARY,18,117
-1476,1987,Education,EDUC GEN,50,140
-1477,1987,Education,Early Childhood Education,0,96
-1478,1987,Education,Ed Organization and Leadership,77,77
-1479,1987,Education,Educ Voc Tech,44,47
-1480,1987,Education,Educational Psychology,57,104
-1481,1987,Education,Elementary Education,11,329
-1482,1987,Education,Special Education,10,64
-1483,1987,Education,TCH ENGL,10,29
-1484,1987,Education,TCH GEN SCIENCE,7,4
-1485,1987,Education,TCH LIFE SCI,4,7
-1486,1987,Education,TCH PHYS SCI,3,1
-1487,1987,Education,TCH SOC ST,22,17
-1488,1987,Education,TECH ED SP,18,8
-1489,1987,Education,UG NON-DEG,6,4
+,Fall,College,Major Name,Total,Male,Female
+1481,1987,Education,Elementary Education,340,11,329
+1476,1987,Education,EDUC GEN,190,50,140
+1480,1987,Education,Educational Psychology,161,57,104
+1478,1987,Education,Ed Organization and Leadership,154,77,77
+1474,1987,Education,ED SEC&CON,141,56,85
+1475,1987,Education,EDUC ELEMENTARY,135,18,117
+1477,1987,Education,Early Childhood Education,96,0,96
+1479,1987,Education,Educ Voc Tech,91,44,47
+1482,1987,Education,Special Education,74,10,64
+1473,1987,Education,ED POL ST,57,25,32

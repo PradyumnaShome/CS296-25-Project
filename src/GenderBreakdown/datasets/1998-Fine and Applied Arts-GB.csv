@@ -1,24 +1,11 @@
-,Fall,College,Major Name,Male,Female
-3718,1998,Fine and Applied Arts,Architectural Studies,324,208
-3719,1998,Fine and Applied Arts,Architecture,100,53
-3720,1998,Fine and Applied Arts,Art Education,25,76
-3721,1998,Fine and Applied Arts,Art History,9,43
-3722,1998,Fine and Applied Arts,Art and Design,412,178
-3723,1998,Fine and Applied Arts,Crafts,15,21
-3724,1998,Fine and Applied Arts,Dance,10,56
-3725,1998,Fine and Applied Arts,Graphic Design,45,67
-3726,1998,Fine and Applied Arts,Industrial Design,52,25
-3727,1998,Fine and Applied Arts,Landscape Architecture,86,55
-3728,1998,Fine and Applied Arts,MUS-VOICE,14,39
-3729,1998,Fine and Applied Arts,MUSIC(AMS),46,50
-3730,1998,Fine and Applied Arts,MUSIC-COMP,8,2
-3731,1998,Fine and Applied Arts,MUSIC-INST,39,78
-3732,1998,Fine and Applied Arts,MUSIC-OPEN,2,0
-3733,1998,Fine and Applied Arts,Music,66,76
-3734,1998,Fine and Applied Arts,Music Education,119,175
-3735,1998,Fine and Applied Arts,Music History,4,1
-3736,1998,Fine and Applied Arts,PERFORM ST,12,23
-3737,1998,Fine and Applied Arts,Regional Planning,9,6
-3738,1998,Fine and Applied Arts,Theatre,19,23
-3739,1998,Fine and Applied Arts,UNCLASS,19,23
-3740,1998,Fine and Applied Arts,Urban Planning,94,57
+,Fall,College,Major Name,Total,Male,Female
+3718,1998,Fine and Applied Arts,Architectural Studies,532,324,208
+3722,1998,Fine and Applied Arts,Art and Design,336,412,178
+3734,1998,Fine and Applied Arts,Music Education,294,119,175
+3719,1998,Fine and Applied Arts,Architecture,153,100,53
+3740,1998,Fine and Applied Arts,Urban Planning,151,94,57
+3733,1998,Fine and Applied Arts,Music,142,66,76
+3727,1998,Fine and Applied Arts,Landscape Architecture,141,86,55
+3731,1998,Fine and Applied Arts,MUSIC-INST,117,39,78
+3725,1998,Fine and Applied Arts,Graphic Design,112,45,67
+3720,1998,Fine and Applied Arts,Art Education,101,25,76

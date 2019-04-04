@@ -1,19 +1,11 @@
-,Fall,College,Major Name,Male,Female
-270,1981,Education,BUS EDUC,3,22
-271,1981,Education,ED POL ST,35,28
-272,1981,Education,ED SEC&CON,40,70
-273,1981,Education,EDUC ELEMENTARY,23,118
-274,1981,Education,EDUC GEN,21,92
-275,1981,Education,EDUC IDISC,4,3
-276,1981,Education,Early Childhood Education,0,57
-277,1981,Education,Ed Organization and Leadership,57,72
-278,1981,Education,Educ Voc Tech,54,61
-279,1981,Education,Educational Psychology,69,79
-280,1981,Education,Elementary Education,27,405
-281,1981,Education,Special Education,18,110
-282,1981,Education,TCH ENGL,1,14
-283,1981,Education,TCH GEN SCIENCE,2,1
-284,1981,Education,TCH LIFE SCI,3,6
-285,1981,Education,TCH PHYS SCI,1,1
-286,1981,Education,TCH SOC ST,17,9
-287,1981,Education,TECH ED SP,46,21
+,Fall,College,Major Name,Total,Male,Female
+280,1981,Education,Elementary Education,432,27,405
+279,1981,Education,Educational Psychology,148,69,79
+273,1981,Education,EDUC ELEMENTARY,141,23,118
+277,1981,Education,Ed Organization and Leadership,129,57,72
+281,1981,Education,Special Education,128,18,110
+278,1981,Education,Educ Voc Tech,115,54,61
+274,1981,Education,EDUC GEN,113,21,92
+272,1981,Education,ED SEC&CON,110,40,70
+287,1981,Education,TECH ED SP,67,46,21
+271,1981,Education,ED POL ST,63,35,28

@@ -1,23 +1,11 @@
-,Fall,College,Major Name,Male,Female
-3254,1996,Education,ED POL ST,25,52
-3255,1996,Education,ED SEC&CON,30,48
-3256,1996,Education,EDUC ELEMENTARY,8,69
-3257,1996,Education,EDUC GEN,68,201
-3258,1996,Education,Early Childhood Education,1,57
-3259,1996,Education,Ed Organization and Leadership,50,77
-3260,1996,Education,Educ Voc Tech,33,59
-3261,1996,Education,Educational Psychology,37,83
-3262,1996,Education,Elementary Education,19,278
-3263,1996,Education,Secondary & Continuing Educ,14,12
-3264,1996,Education,Special Education,14,96
-3265,1996,Education,TCH ENGL IN MN,5,11
-3266,1996,Education,TCH ENGL OUT MN,10,31
-3267,1996,Education,TCH GEN SCIENCE,2,5
-3268,1996,Education,TCH LIFE SCI,1,3
-3269,1996,Education,TCH PS CHEM,0,3
-3270,1996,Education,TCH PS PHYSICS,2,0
-3271,1996,Education,TCH SOC ST IN,20,7
-3272,1996,Education,TCH SOC ST OUT,18,10
-3273,1996,Education,TECH ED INDUST,3,0
-3274,1996,Education,TECH ED LAW ENF,1,1
-3275,1996,Education,UG NON-DEG,0,2
+,Fall,College,Major Name,Total,Male,Female
+3262,1996,Education,Elementary Education,297,19,278
+3257,1996,Education,EDUC GEN,269,68,201
+3259,1996,Education,Ed Organization and Leadership,127,50,77
+3261,1996,Education,Educational Psychology,120,37,83
+3264,1996,Education,Special Education,110,14,96
+3260,1996,Education,Educ Voc Tech,92,33,59
+3255,1996,Education,ED SEC&CON,78,30,48
+3254,1996,Education,ED POL ST,77,25,52
+3256,1996,Education,EDUC ELEMENTARY,77,8,69
+3258,1996,Education,Early Childhood Education,58,1,57

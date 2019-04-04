@@ -1,10 +1,10 @@
-,Fall,College,Major Name,Male,Female
-6615,2013,Applied Health Sciences,Audiology,1,18
-6616,2013,Applied Health Sciences,Community Health,191,480
-6617,2013,Applied Health Sciences,Health,49,156
-6618,2013,Applied Health Sciences,Kinesiology,265,347
-6619,2013,Applied Health Sciences,Nondegree,2,1
-6620,2013,Applied Health Sciences,Public Health,11,25
-6621,2013,Applied Health Sciences,"Recreation, Sport, and Tourism ",212,134
-6622,2013,Applied Health Sciences,Rehabilitation,0,1
-6623,2013,Applied Health Sciences,Speech & Hearing Science,15,348
+,Fall,College,Major Name,Total,Male,Female
+6616,2013,Applied Health Sciences,Community Health,671,191,480
+6618,2013,Applied Health Sciences,Kinesiology,612,265,347
+6623,2013,Applied Health Sciences,Speech & Hearing Science,363,15,348
+6621,2013,Applied Health Sciences,"Recreation, Sport, and Tourism ",346,212,134
+6617,2013,Applied Health Sciences,Health,205,49,156
+6620,2013,Applied Health Sciences,Public Health,36,11,25
+6615,2013,Applied Health Sciences,Audiology,19,1,18
+6619,2013,Applied Health Sciences,Nondegree,3,2,1
+6622,2013,Applied Health Sciences,Rehabilitation,1,0,1

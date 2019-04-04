@@ -1,20 +1,11 @@
-,Fall,College,Major Name,Male,Female
-5722,2009,ACES,Agr & Consumer Economics,425,221
-5723,2009,ACES,Agr & Environmental Cmc & Educ,18,64
-5724,2009,ACES,Agr Engineering & Agr Science,60,9
-5725,2009,ACES,"Agribusiness, Farm & Financial ",3,1
-5726,2009,ACES,Agricultural Education,0,2
-5727,2009,ACES,Agricultural Production,2,3
-5728,2009,ACES,Animal Sciences,168,451
-5729,2009,ACES,Bioenergy,6,0
-5730,2009,ACES,Bioinformatics,2,1
-5731,2009,ACES,Crop Sciences,115,48
-5732,2009,ACES,Food Science & Human Nutrition,97,346
-5733,2009,ACES,Horticulture,34,17
-5734,2009,ACES,Human & Community Development,5,25
-5735,2009,ACES,Human Development & Family St,14,192
-5736,2009,ACES,"Intl, Resource, Consumer Econ ",2,0
-5737,2009,ACES,Natural Res & Env Sciences,52,36
-5738,2009,ACES,Natural Resrcs & Environ Sci,99,96
-5739,2009,ACES,Nondegree,22,26
-5740,2009,ACES,Nutritional Sciences,14,44
+,Fall,College,Major Name,Total,Male,Female
+5722,2009,ACES,Agr & Consumer Economics,646,425,221
+5728,2009,ACES,Animal Sciences,620,168,451
+5732,2009,ACES,Food Science & Human Nutrition,443,97,346
+5735,2009,ACES,Human Development & Family St,208,14,192
+5738,2009,ACES,Natural Resrcs & Environ Sci,195,99,96
+5731,2009,ACES,Crop Sciences,163,115,48
+5737,2009,ACES,Natural Res & Env Sciences,88,52,36
+5723,2009,ACES,Agr & Environmental Cmc & Educ,82,18,64
+5724,2009,ACES,Agr Engineering & Agr Science,69,60,9
+5740,2009,ACES,Nutritional Sciences,58,14,44

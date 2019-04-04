@@ -1,19 +1,11 @@
-,Fall,College,Major Name,Male,Female
-5980,2010,Education,Accountancy,672,601
-5981,2010,Education,Actuarial Science,169,123
-5982,2010,Education,Advertising,158,368
-5983,2010,Education,African American Studies,4,3
-5984,2010,Education,Anthropology,69,132
-5985,2010,Education,Applied Mathematics,14,10
-5986,2010,Education,Curriculum and Instruction,20,69
-5987,2010,Education,Early Childhood Education,0,44
-5988,2010,Education,Ed Organization and Leadership,55,81
-5989,2010,Education,Educational Policy Studies,53,96
-5990,2010,Education,Educational Psychology,27,66
-5991,2010,Education,Elementary Education,19,288
-5992,2010,Education,Human Resource Education,41,48
-5993,2010,Education,Nondegree,3,9
-5994,2010,Education,Pre-Early Chld/Elem Ed/Spec Ed,21,266
-5995,2010,Education,Secondary & Continuing Educ,12,21
-5996,2010,Education,Secondary Education,6,7
-5997,2010,Education,Special Education,17,123
+,Fall,College,Major Name,Total,Male,Female
+5980,2010,Education,Accountancy,1273,672,601
+5982,2010,Education,Advertising,526,158,368
+5991,2010,Education,Elementary Education,308,19,288
+5981,2010,Education,Actuarial Science,292,169,123
+5994,2010,Education,Pre-Early Chld/Elem Ed/Spec Ed,287,21,266
+5984,2010,Education,Anthropology,201,69,132
+5989,2010,Education,Educational Policy Studies,149,53,96
+5997,2010,Education,Special Education,140,17,123
+5988,2010,Education,Ed Organization and Leadership,136,55,81
+5990,2010,Education,Educational Psychology,93,27,66

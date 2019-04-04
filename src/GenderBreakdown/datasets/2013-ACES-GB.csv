@@ -1,20 +1,11 @@
-,Fall,College,Major Name,Male,Female
-6596,2013,ACES,Agr & Consumer Economics,464,230
-6597,2013,ACES,Agr & Environmental Cmc & Educ,2,9
-6598,2013,ACES,Agric Leadership & Sci Educ,24,34
-6599,2013,ACES,Agricultural & Applied Econ,32,25
-6600,2013,ACES,Agricultural & Biological Engr,59,30
-6601,2013,ACES,Agricultural Education,1,7
-6602,2013,ACES,Agricultural Production,2,4
-6603,2013,ACES,Animal Sciences,138,489
-6604,2013,ACES,Bioenergy,7,3
-6605,2013,ACES,Bioinformatics,1,3
-6606,2013,ACES,Crop Sciences,163,83
-6607,2013,ACES,Food Science & Human Nutrition,123,406
-6608,2013,ACES,Horticulture,10,15
-6609,2013,ACES,Human & Community Development,7,15
-6610,2013,ACES,Human Development & Family St,23,205
-6611,2013,ACES,Natural Res & Env Sciences,55,24
-6612,2013,ACES,Natural Resrcs & Environ Sci,128,111
-6613,2013,ACES,Nondegree,73,46
-6614,2013,ACES,Nutritional Sciences,14,28
+,Fall,College,Major Name,Total,Male,Female
+6596,2013,ACES,Agr & Consumer Economics,694,464,230
+6603,2013,ACES,Animal Sciences,627,138,489
+6607,2013,ACES,Food Science & Human Nutrition,529,123,406
+6606,2013,ACES,Crop Sciences,246,163,83
+6612,2013,ACES,Natural Resrcs & Environ Sci,239,128,111
+6610,2013,ACES,Human Development & Family St,228,23,205
+6613,2013,ACES,Nondegree,119,73,46
+6600,2013,ACES,Agricultural & Biological Engr,89,59,30
+6611,2013,ACES,Natural Res & Env Sciences,79,55,24
+6598,2013,ACES,Agric Leadership & Sci Educ,58,24,34

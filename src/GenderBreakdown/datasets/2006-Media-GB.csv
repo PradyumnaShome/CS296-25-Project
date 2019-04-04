@@ -1,8 +1,8 @@
-,Fall,College,Major Name,Male,Female
-5319,2006,Media,Broadcast Journalism,32,52
-5320,2006,Media,Communications,30,30
-5321,2006,Media,General Curriculum,45,111
-5322,2006,Media,Journalism,10,16
-5323,2006,Media,Media Studies,44,84
-5324,2006,Media,News-Editorial,55,89
-5325,2006,Media,Nondegree,0,2
+,Fall,College,Major Name,Total,Male,Female
+5321,2006,Media,General Curriculum,156,45,111
+5324,2006,Media,News-Editorial,144,55,89
+5323,2006,Media,Media Studies,128,44,84
+5319,2006,Media,Broadcast Journalism,84,32,52
+5320,2006,Media,Communications,60,30,30
+5322,2006,Media,Journalism,26,10,16
+5325,2006,Media,Nondegree,2,0,2

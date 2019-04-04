@@ -1,8 +1,8 @@
-,Fall,College,Major Name,Male,Female
-5513,2007,Media,Broadcast Journalism,25,50
-5514,2007,Media,Communications,24,32
-5515,2007,Media,General Curriculum,31,102
-5516,2007,Media,Journalism,14,12
-5517,2007,Media,Media Studies,31,64
-5518,2007,Media,News-Editorial,46,97
-5519,2007,Media,Nondegree,0,1
+,Fall,College,Major Name,Total,Male,Female
+5518,2007,Media,News-Editorial,143,46,97
+5515,2007,Media,General Curriculum,133,31,102
+5517,2007,Media,Media Studies,95,31,64
+5513,2007,Media,Broadcast Journalism,75,25,50
+5514,2007,Media,Communications,56,24,32
+5516,2007,Media,Journalism,26,14,12
+5519,2007,Media,Nondegree,1,0,1

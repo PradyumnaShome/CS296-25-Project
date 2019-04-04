@@ -1,22 +1,11 @@
-,Fall,College,Major Name,Male,Female
-5006,2005,Engineering,Aero & Astro Engineering,42,6
-5007,2005,Engineering,Aerospace Engineering,326,55
-5008,2005,Engineering,Agricultural Engineering,77,16
-5009,2005,Engineering,Bioengineering,40,20
-5010,2005,Engineering,Civil Engineering,641,154
-5011,2005,Engineering,Computer Engineering,520,42
-5012,2005,Engineering,Computer Science,943,119
-5013,2005,Engineering,Electrical Engineering,1223,183
-5014,2005,Engineering,Engineering Mechanics,63,15
-5015,2005,Engineering,Engineering Physics,87,14
-5016,2005,Engineering,Environ Engr in Civil Engr,33,28
-5017,2005,Engineering,Environ Science in Civil Engr,9,5
-5018,2005,Engineering,General Engineering,509,115
-5019,2005,Engineering,Industrial Engineering,54,27
-5020,2005,Engineering,Materials Science & Engr,288,95
-5021,2005,Engineering,Mechanical Engineering,931,121
-5022,2005,Engineering,Nondegree,65,18
-5023,2005,Engineering,Nuclear Engineering,136,23
-5024,2005,Engineering,Physics,258,38
-5025,2005,Engineering,Systems & Entrepreneurial Engr,24,3
-5026,2005,Engineering,Theoretical & Applied Mechans,58,9
+,Fall,College,Major Name,Total,Male,Female
+5013,2005,Engineering,Electrical Engineering,1406,1223,183
+5012,2005,Engineering,Computer Science,1064,943,119
+5021,2005,Engineering,Mechanical Engineering,1055,931,121
+5010,2005,Engineering,Civil Engineering,795,641,154
+5018,2005,Engineering,General Engineering,624,509,115
+5011,2005,Engineering,Computer Engineering,563,520,42
+5020,2005,Engineering,Materials Science & Engr,383,288,95
+5007,2005,Engineering,Aerospace Engineering,381,326,55
+5024,2005,Engineering,Physics,296,258,38
+5023,2005,Engineering,Nuclear Engineering,159,136,23

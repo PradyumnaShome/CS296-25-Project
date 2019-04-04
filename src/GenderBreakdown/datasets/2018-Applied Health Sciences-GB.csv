@@ -1,9 +1,9 @@
-,Fall,College,Major Name,Male,Female
-7729,2018,Applied Health Sciences,Audiology,2,23
-7730,2018,Applied Health Sciences,Community Health,160,496
-7731,2018,Applied Health Sciences,Interdisciplinary Health Sci,60,268
-7732,2018,Applied Health Sciences,Kinesiology,286,348
-7733,2018,Applied Health Sciences,Nondegree,16,22
-7734,2018,Applied Health Sciences,Public Health,4,16
-7735,2018,Applied Health Sciences,"Recreation, Sport, and Tourism ",243,116
-7736,2018,Applied Health Sciences,Speech & Hearing Science,14,284
+,Fall,College,Major Name,Total,Male,Female
+7730,2018,Applied Health Sciences,Community Health,656,160,496
+7732,2018,Applied Health Sciences,Kinesiology,634,286,348
+7735,2018,Applied Health Sciences,"Recreation, Sport, and Tourism ",359,243,116
+7731,2018,Applied Health Sciences,Interdisciplinary Health Sci,328,60,268
+7736,2018,Applied Health Sciences,Speech & Hearing Science,298,14,284
+7733,2018,Applied Health Sciences,Nondegree,38,16,22
+7729,2018,Applied Health Sciences,Audiology,26,2,23
+7734,2018,Applied Health Sciences,Public Health,20,4,16

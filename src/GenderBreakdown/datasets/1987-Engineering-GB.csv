@@ -1,19 +1,11 @@
-,Fall,College,Major Name,Male,Female
-1490,1987,Engineering,Aero & Astro Engineering,595,60
-1491,1987,Engineering,Agricultural Engineering,58,2
-1492,1987,Engineering,CER ENGR,194,52
-1493,1987,Engineering,Civil Engineering,474,93
-1494,1987,Engineering,Computer Engineering,374,33
-1495,1987,Engineering,Computer Science,366,76
-1496,1987,Engineering,ENGR MECH,35,9
-1497,1987,Engineering,ENGR PHYS,87,15
-1498,1987,Engineering,ENV ENGR,30,9
-1499,1987,Engineering,ENV SCI,8,3
-1500,1987,Engineering,Electrical Engineering,1764,240
-1501,1987,Engineering,GEN ENGR,401,152
-1502,1987,Engineering,Industrial Engineering,140,61
-1503,1987,Engineering,METAL ENGR,147,27
-1504,1987,Engineering,Mechanical Engineering,887,119
-1505,1987,Engineering,Nuclear Engineering,132,14
-1506,1987,Engineering,TCH CS,0,1
-1507,1987,Engineering,Theoretical & Applied Mechans,53,5
+,Fall,College,Major Name,Total,Male,Female
+1500,1987,Engineering,Electrical Engineering,2004,1764,240
+1504,1987,Engineering,Mechanical Engineering,1006,887,119
+1490,1987,Engineering,Aero & Astro Engineering,655,595,60
+1493,1987,Engineering,Civil Engineering,567,474,93
+1501,1987,Engineering,GEN ENGR,553,401,152
+1495,1987,Engineering,Computer Science,442,366,76
+1494,1987,Engineering,Computer Engineering,407,374,33
+1492,1987,Engineering,CER ENGR,246,194,52
+1502,1987,Engineering,Industrial Engineering,201,140,61
+1503,1987,Engineering,METAL ENGR,174,147,27

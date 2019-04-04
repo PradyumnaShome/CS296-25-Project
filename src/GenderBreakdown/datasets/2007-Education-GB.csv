@@ -1,17 +1,11 @@
-,Fall,College,Major Name,Male,Female
-5372,2007,Education,Accountancy,594,519
-5373,2007,Education,Actuarial Science,199,82
-5374,2007,Education,Advertising,99,287
-5375,2007,Education,Anthropology,74,146
-5376,2007,Education,Applied Mathematics,16,9
-5377,2007,Education,Early Childhood Education,0,60
-5378,2007,Education,Ed Organization and Leadership,63,122
-5379,2007,Education,Education General,1,0
-5380,2007,Education,Educational Policy Studies,45,85
-5381,2007,Education,Educational Psychology,31,87
-5382,2007,Education,Elementary Education,27,340
-5383,2007,Education,Human Resource Education,35,47
-5384,2007,Education,Nondegree,0,3
-5385,2007,Education,Pre-Early Chld/Elem Ed/Spec Ed,22,250
-5386,2007,Education,Secondary & Continuing Educ,44,76
-5387,2007,Education,Special Education,21,122
+,Fall,College,Major Name,Total,Male,Female
+5372,2007,Education,Accountancy,1120,594,519
+5374,2007,Education,Advertising,386,99,287
+5382,2007,Education,Elementary Education,367,27,340
+5373,2007,Education,Actuarial Science,281,199,82
+5385,2007,Education,Pre-Early Chld/Elem Ed/Spec Ed,272,22,250
+5375,2007,Education,Anthropology,220,74,146
+5378,2007,Education,Ed Organization and Leadership,185,63,122
+5387,2007,Education,Special Education,143,21,122
+5380,2007,Education,Educational Policy Studies,130,45,85
+5386,2007,Education,Secondary & Continuing Educ,120,44,76

@@ -1,20 +1,11 @@
-,Fall,College,Major Name,Male,Female
-3491,1997,Engineering,Aero & Astro Engineering,225,54
-3492,1997,Engineering,Agricultural Engineering,104,28
-3493,1997,Engineering,CER ENGR,22,5
-3494,1997,Engineering,Civil Engineering,710,208
-3495,1997,Engineering,Computer Engineering,545,46
-3496,1997,Engineering,Computer Science,608,77
-3497,1997,Engineering,ENGR MECH,33,2
-3498,1997,Engineering,ENGR PHYS,55,11
-3499,1997,Engineering,ENV ENGR,51,19
-3500,1997,Engineering,ENV SCI,8,6
-3501,1997,Engineering,Electrical Engineering,1242,177
-3502,1997,Engineering,GEN ENGR,318,132
-3503,1997,Engineering,Industrial Engineering,114,56
-3504,1997,Engineering,MATSCI&ENG,119,29
-3505,1997,Engineering,METAL ENGR,21,1
-3506,1997,Engineering,Materials Science & Engr,86,27
-3507,1997,Engineering,Mechanical Engineering,843,142
-3508,1997,Engineering,Nuclear Engineering,77,14
-3509,1997,Engineering,Theoretical & Applied Mechans,38,6
+,Fall,College,Major Name,Total,Male,Female
+3501,1997,Engineering,Electrical Engineering,1419,1242,177
+3507,1997,Engineering,Mechanical Engineering,985,843,142
+3494,1997,Engineering,Civil Engineering,918,710,208
+3496,1997,Engineering,Computer Science,685,608,77
+3495,1997,Engineering,Computer Engineering,591,545,46
+3502,1997,Engineering,GEN ENGR,450,318,132
+3491,1997,Engineering,Aero & Astro Engineering,279,225,54
+3503,1997,Engineering,Industrial Engineering,170,114,56
+3504,1997,Engineering,MATSCI&ENG,148,119,29
+3492,1997,Engineering,Agricultural Engineering,132,104,28

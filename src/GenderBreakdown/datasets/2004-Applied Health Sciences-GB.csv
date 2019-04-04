@@ -1,8 +1,8 @@
-,Fall,College,Major Name,Male,Female
-4784,2004,Applied Health Sciences,Audiology,0,5
-4785,2004,Applied Health Sciences,Community Health,77,298
-4786,2004,Applied Health Sciences,Kinesiology,215,382
-4787,2004,Applied Health Sciences,Leisure Studies,254,150
-4788,2004,Applied Health Sciences,Nondegree,0,2
-4789,2004,Applied Health Sciences,Rehabilitation,0,6
-4790,2004,Applied Health Sciences,Speech & Hearing Science,13,278
+,Fall,College,Major Name,Total,Male,Female
+4786,2004,Applied Health Sciences,Kinesiology,597,215,382
+4787,2004,Applied Health Sciences,Leisure Studies,405,254,150
+4785,2004,Applied Health Sciences,Community Health,375,77,298
+4790,2004,Applied Health Sciences,Speech & Hearing Science,291,13,278
+4789,2004,Applied Health Sciences,Rehabilitation,6,0,6
+4784,2004,Applied Health Sciences,Audiology,5,0,5
+4788,2004,Applied Health Sciences,Nondegree,2,0,2

@@ -1,21 +1,11 @@
-,Fall,College,Major Name,Male,Female
-6420,2012,Education,Accountancy,689,677
-6421,2012,Education,Actuarial Science,169,119
-6422,2012,Education,Advertising,180,461
-6423,2012,Education,African American Studies,5,6
-6424,2012,Education,Anthropology,69,157
-6425,2012,Education,Applied Mathematics,15,16
-6426,2012,Education,Curriculum and Instruction,24,89
-6427,2012,Education,Early Childhood Education,1,29
-6428,2012,Education,Ed Organization and Leadership,61,109
-6429,2012,Education,Educ Voc Tech,0,1
-6430,2012,Education,Education,0,1
-6431,2012,Education,Educational Policy Studies,66,95
-6432,2012,Education,Educational Psychology,18,53
-6433,2012,Education,Elementary Education,22,248
-6434,2012,Education,Human Resource Education,20,36
-6435,2012,Education,Nondegree,0,6
-6436,2012,Education,Pre-Early Chld/Elem Ed/Spec Ed,15,245
-6437,2012,Education,Secondary & Continuing Educ,4,13
-6438,2012,Education,Secondary Education,9,7
-6439,2012,Education,Special Education,17,130
+,Fall,College,Major Name,Total,Male,Female
+6420,2012,Education,Accountancy,1366,689,677
+6422,2012,Education,Advertising,641,180,461
+6421,2012,Education,Actuarial Science,288,169,119
+6433,2012,Education,Elementary Education,270,22,248
+6436,2012,Education,Pre-Early Chld/Elem Ed/Spec Ed,260,15,245
+6424,2012,Education,Anthropology,226,69,157
+6428,2012,Education,Ed Organization and Leadership,170,61,109
+6431,2012,Education,Educational Policy Studies,161,66,95
+6439,2012,Education,Special Education,147,17,130
+6426,2012,Education,Curriculum and Instruction,113,24,89

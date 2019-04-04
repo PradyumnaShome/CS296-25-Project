@@ -1,20 +1,11 @@
-,Fall,College,Major Name,Male,Female
-484,1982,Engineering,Aero & Astro Engineering,443,38
-485,1982,Engineering,Agricultural Engineering,88,9
-486,1982,Engineering,CER ENGR,87,30
-487,1982,Engineering,CERAMICS,0,1
-488,1982,Engineering,Civil Engineering,568,104
-489,1982,Engineering,Computer Engineering,301,56
-490,1982,Engineering,Computer Science,466,182
-491,1982,Engineering,ENGR MECH,35,7
-492,1982,Engineering,ENGR PHYS,79,9
-493,1982,Engineering,ENV ENGR,25,5
-494,1982,Engineering,ENV SCI,11,4
-495,1982,Engineering,Electrical Engineering,1353,159
-496,1982,Engineering,GEN ENGR,400,152
-497,1982,Engineering,Industrial Engineering,124,56
-498,1982,Engineering,METAL ENGR,142,33
-499,1982,Engineering,Mechanical Engineering,868,86
-500,1982,Engineering,Nuclear Engineering,171,15
-501,1982,Engineering,TCH CS,5,4
-502,1982,Engineering,Theoretical & Applied Mechans,48,4
+,Fall,College,Major Name,Total,Male,Female
+495,1982,Engineering,Electrical Engineering,1512,1353,159
+499,1982,Engineering,Mechanical Engineering,954,868,86
+488,1982,Engineering,Civil Engineering,672,568,104
+490,1982,Engineering,Computer Science,648,466,182
+496,1982,Engineering,GEN ENGR,552,400,152
+484,1982,Engineering,Aero & Astro Engineering,481,443,38
+489,1982,Engineering,Computer Engineering,357,301,56
+500,1982,Engineering,Nuclear Engineering,186,171,15
+497,1982,Engineering,Industrial Engineering,180,124,56
+498,1982,Engineering,METAL ENGR,175,142,33

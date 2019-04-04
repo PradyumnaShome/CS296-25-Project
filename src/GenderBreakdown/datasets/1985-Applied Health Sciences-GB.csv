@@ -1,18 +1,11 @@
-,Fall,College,Major Name,Male,Female
-1037,1985,Applied Health Sciences,Biology,30,50
-1038,1985,Applied Health Sciences,CUR INST 2,8,15
-1039,1985,Applied Health Sciences,CUR INST#1,6,2
-1040,1985,Applied Health Sciences,CUR INST#3,9,1
-1041,1985,Applied Health Sciences,HEALTH&SAF,4,3
-1042,1985,Applied Health Sciences,HLTH EDUC,4,28
-1043,1985,Applied Health Sciences,HLTH PL AD,3,17
-1044,1985,Applied Health Sciences,Kinesiology,138,109
-1045,1985,Applied Health Sciences,Leisure Studies,19,22
-1046,1985,Applied Health Sciences,MOTOR P&SP,0,1
-1047,1985,Applied Health Sciences,OUTDR REC,16,11
-1048,1985,Applied Health Sciences,PERSN AREA,1,1
-1049,1985,Applied Health Sciences,PROG MANAG,60,99
-1050,1985,Applied Health Sciences,SCH HEALTH,1,0
-1051,1985,Applied Health Sciences,SOC SCI SP,4,4
-1052,1985,Applied Health Sciences,TCH KINES,2,0
-1053,1985,Applied Health Sciences,THER REC,10,49
+,Fall,College,Major Name,Total,Male,Female
+1044,1985,Applied Health Sciences,Kinesiology,247,138,109
+1049,1985,Applied Health Sciences,PROG MANAG,159,60,99
+1037,1985,Applied Health Sciences,Biology,80,30,50
+1053,1985,Applied Health Sciences,THER REC,59,10,49
+1045,1985,Applied Health Sciences,Leisure Studies,41,19,22
+1042,1985,Applied Health Sciences,HLTH EDUC,32,4,28
+1047,1985,Applied Health Sciences,OUTDR REC,27,16,11
+1038,1985,Applied Health Sciences,CUR INST 2,23,8,15
+1043,1985,Applied Health Sciences,HLTH PL AD,20,3,17
+1040,1985,Applied Health Sciences,CUR INST#3,10,9,1

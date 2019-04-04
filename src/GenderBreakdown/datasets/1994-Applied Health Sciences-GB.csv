@@ -1,15 +1,11 @@
-,Fall,College,Major Name,Male,Female
-2831,1994,Applied Health Sciences,Biology,13,11
-2832,1994,Applied Health Sciences,CUR INST 2,0,1
-2833,1994,Applied Health Sciences,CUR INST#3,3,2
-2834,1994,Applied Health Sciences,HLTH EDUC,2,20
-2835,1994,Applied Health Sciences,HLTH PL AD,26,66
-2836,1994,Applied Health Sciences,Kinesiology,226,214
-2837,1994,Applied Health Sciences,Leisure Studies,73,84
-2838,1994,Applied Health Sciences,MSPH IN C HLTH,1,9
-2839,1994,Applied Health Sciences,PERSN AREA,1,0
-2840,1994,Applied Health Sciences,PROG MANAG,16,25
-2841,1994,Applied Health Sciences,Rehabilitation,9,19
-2842,1994,Applied Health Sciences,SOC SCI SP,3,2
-2843,1994,Applied Health Sciences,TCH KINES,0,1
-2844,1994,Applied Health Sciences,THER REC,2,7
+,Fall,College,Major Name,Total,Male,Female
+2836,1994,Applied Health Sciences,Kinesiology,440,226,214
+2837,1994,Applied Health Sciences,Leisure Studies,157,73,84
+2835,1994,Applied Health Sciences,HLTH PL AD,92,26,66
+2840,1994,Applied Health Sciences,PROG MANAG,41,16,25
+2841,1994,Applied Health Sciences,Rehabilitation,28,9,19
+2831,1994,Applied Health Sciences,Biology,24,13,11
+2834,1994,Applied Health Sciences,HLTH EDUC,22,2,20
+2838,1994,Applied Health Sciences,MSPH IN C HLTH,10,1,9
+2844,1994,Applied Health Sciences,THER REC,9,2,7
+2833,1994,Applied Health Sciences,CUR INST#3,5,3,2

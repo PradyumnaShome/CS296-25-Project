@@ -1,8 +1,8 @@
-,Fall,College,Major Name,Male,Female
-5544,2008,Applied Health Sciences,Audiology,3,16
-5545,2008,Applied Health Sciences,Community Health,131,481
-5546,2008,Applied Health Sciences,Kinesiology,281,390
-5547,2008,Applied Health Sciences,Leisure Studies,4,2
-5548,2008,Applied Health Sciences,"Recreation, Sport, and Tourism ",272,150
-5549,2008,Applied Health Sciences,Rehabilitation,0,5
-5550,2008,Applied Health Sciences,Speech & Hearing Science,20,329
+,Fall,College,Major Name,Total,Male,Female
+5546,2008,Applied Health Sciences,Kinesiology,672,281,390
+5545,2008,Applied Health Sciences,Community Health,612,131,481
+5548,2008,Applied Health Sciences,"Recreation, Sport, and Tourism ",423,272,150
+5550,2008,Applied Health Sciences,Speech & Hearing Science,349,20,329
+5544,2008,Applied Health Sciences,Audiology,19,3,16
+5547,2008,Applied Health Sciences,Leisure Studies,6,4,2
+5549,2008,Applied Health Sciences,Rehabilitation,5,0,5

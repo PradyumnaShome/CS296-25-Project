@@ -1,19 +1,11 @@
-,Fall,College,Major Name,Male,Female
-1892,1989,Engineering,Aero & Astro Engineering,460,53
-1893,1989,Engineering,Agricultural Engineering,77,6
-1894,1989,Engineering,CER ENGR,203,34
-1895,1989,Engineering,CERAMICS,2,0
-1896,1989,Engineering,Civil Engineering,586,96
-1897,1989,Engineering,Computer Engineering,286,27
-1898,1989,Engineering,Computer Science,354,64
-1899,1989,Engineering,ENGR MECH,77,13
-1900,1989,Engineering,ENGR PHYS,107,14
-1901,1989,Engineering,ENV ENGR,27,10
-1902,1989,Engineering,ENV SCI,9,5
-1903,1989,Engineering,Electrical Engineering,1406,188
-1904,1989,Engineering,GEN ENGR,483,143
-1905,1989,Engineering,Industrial Engineering,192,69
-1906,1989,Engineering,METAL ENGR,141,26
-1907,1989,Engineering,Mechanical Engineering,765,89
-1908,1989,Engineering,Nuclear Engineering,158,20
-1909,1989,Engineering,Theoretical & Applied Mechans,58,5
+,Fall,College,Major Name,Total,Male,Female
+1903,1989,Engineering,Electrical Engineering,1594,1406,188
+1907,1989,Engineering,Mechanical Engineering,854,765,89
+1896,1989,Engineering,Civil Engineering,682,586,96
+1904,1989,Engineering,GEN ENGR,626,483,143
+1892,1989,Engineering,Aero & Astro Engineering,513,460,53
+1898,1989,Engineering,Computer Science,418,354,64
+1897,1989,Engineering,Computer Engineering,313,286,27
+1905,1989,Engineering,Industrial Engineering,261,192,69
+1894,1989,Engineering,CER ENGR,237,203,34
+1908,1989,Engineering,Nuclear Engineering,178,158,20

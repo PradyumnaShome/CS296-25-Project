@@ -1,15 +1,11 @@
-,Fall,College,Major Name,Male,Female
-7510,2017,Business,Business Administration,44,48
-7511,2017,Business,Business Administration (MBA),783,374
-7512,2017,Business,Business Process Management,17,18
-7513,2017,Business,Curric Unassigned,504,428
-7514,2017,Business,Finance,540,305
-7515,2017,Business,Information Sys & Info Tech,65,48
-7516,2017,Business,Information Systems,3,0
-7517,2017,Business,Management,62,56
-7518,2017,Business,Marketing,87,162
-7519,2017,Business,Nondegree,67,47
-7520,2017,Business,Operations Management,1,0
-7521,2017,Business,Supply Chain Management,29,50
-7522,2017,Business,Taxation,13,13
-7523,2017,Business,Technology Management,53,39
+,Fall,College,Major Name,Total,Male,Female
+7511,2017,Business,Business Administration (MBA),1158,783,374
+7513,2017,Business,Curric Unassigned,934,504,428
+7514,2017,Business,Finance,845,540,305
+7518,2017,Business,Marketing,249,87,162
+7517,2017,Business,Management,118,62,56
+7519,2017,Business,Nondegree,114,67,47
+7515,2017,Business,Information Sys & Info Tech,113,65,48
+7510,2017,Business,Business Administration,92,44,48
+7523,2017,Business,Technology Management,92,53,39
+7521,2017,Business,Supply Chain Management,79,29,50

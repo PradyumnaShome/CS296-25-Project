@@ -1,10 +1,10 @@
-,Fall,College,Major Name,Male,Female
-261,1981,Business,Accountancy,925,680
-262,1981,Business,Business Administration,736,551
-263,1981,Business,Computer Science,193,53
-264,1981,Business,Economics,137,46
-265,1981,Business,Finance,339,169
-266,1981,Business,MARKETING,85,101
-267,1981,Business,Teaching of Spanish,3,25
-268,1981,Business,Theatre,63,66
-269,1981,Business,UNASSIGNED,344,325
+,Fall,College,Major Name,Total,Male,Female
+261,1981,Business,Accountancy,1605,925,680
+262,1981,Business,Business Administration,1287,736,551
+269,1981,Business,UNASSIGNED,669,344,325
+265,1981,Business,Finance,508,339,169
+263,1981,Business,Computer Science,246,193,53
+266,1981,Business,MARKETING,186,85,101
+264,1981,Business,Economics,183,137,46
+268,1981,Business,Theatre,129,63,66
+267,1981,Business,Teaching of Spanish,28,3,25

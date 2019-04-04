@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Male,Female
-1462,1987,Business,Accountancy,504,535
-1463,1987,Business,Business Administration,570,375
-1464,1987,Business,COM TEACH,1,0
-1465,1987,Business,Computer Science,335,59
-1466,1987,Business,Economics,191,45
-1467,1987,Business,Finance,390,268
-1468,1987,Business,MARKETING,64,137
-1469,1987,Business,Teaching of Spanish,3,27
-1470,1987,Business,Theatre,52,52
-1471,1987,Business,UNASSIGNED,359,332
+,Fall,College,Major Name,Total,Male,Female
+1462,1987,Business,Accountancy,1039,504,535
+1463,1987,Business,Business Administration,945,570,375
+1471,1987,Business,UNASSIGNED,691,359,332
+1467,1987,Business,Finance,658,390,268
+1465,1987,Business,Computer Science,394,335,59
+1466,1987,Business,Economics,236,191,45
+1468,1987,Business,MARKETING,201,64,137
+1470,1987,Business,Theatre,104,52,52
+1469,1987,Business,Teaching of Spanish,30,3,27
+1464,1987,Business,COM TEACH,1,1,0

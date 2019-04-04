@@ -1,28 +1,11 @@
-,Fall,College,Major Name,Male,Female
-7102,2015,Engineering,Aerospace Engineering,588,69
-7103,2015,Engineering,Agricultural & Biological Engr,88,38
-7104,2015,Engineering,Bioengineering,167,151
-7105,2015,Engineering,Bioinformatics,2,3
-7106,2015,Engineering,Bioinstrumentation,7,5
-7107,2015,Engineering,Civil Engineering,976,343
-7108,2015,Engineering,Computer Engineering,952,109
-7109,2015,Engineering,Computer Science,1310,330
-7110,2015,Engineering,Electrical & Computer Engr,429,74
-7111,2015,Engineering,Electrical Engineering,1002,144
-7112,2015,Engineering,Engineering,14,6
-7113,2015,Engineering,Engineering Mechanics,101,11
-7114,2015,Engineering,Engineering Physics,218,30
-7115,2015,Engineering,Engineering Undeclared,117,30
-7116,2015,Engineering,Environ Engr in Civil Engr,46,54
-7117,2015,Engineering,Environ Science in Civil Engr,0,1
-7118,2015,Engineering,Financial Engineering,91,31
-7119,2015,Engineering,General Engineering,172,58
-7120,2015,Engineering,Industrial Engineering,247,90
-7121,2015,Engineering,Materials Science & Engr,418,168
-7122,2015,Engineering,Mechanical Engineering,1069,182
-7123,2015,Engineering,Nondegree,172,46
-7124,2015,Engineering,Nuclear Engineering,2,1
-7125,2015,Engineering,"Nuclear, Plasma, Radiolgc Engr ",204,29
-7126,2015,Engineering,Physics,203,58
-7127,2015,Engineering,Systems & Entrepreneurial Engr,21,7
-7128,2015,Engineering,Theoretical & Applied Mechans,39,8
+,Fall,College,Major Name,Total,Male,Female
+7109,2015,Engineering,Computer Science,1640,1310,330
+7107,2015,Engineering,Civil Engineering,1319,976,343
+7122,2015,Engineering,Mechanical Engineering,1251,1069,182
+7111,2015,Engineering,Electrical Engineering,1146,1002,144
+7108,2015,Engineering,Computer Engineering,1062,952,109
+7102,2015,Engineering,Aerospace Engineering,657,588,69
+7121,2015,Engineering,Materials Science & Engr,586,418,168
+7110,2015,Engineering,Electrical & Computer Engr,503,429,74
+7120,2015,Engineering,Industrial Engineering,337,247,90
+7104,2015,Engineering,Bioengineering,318,167,151

@@ -1,25 +1,11 @@
-,Fall,College,Major Name,Male,Female
-5787,2009,Engineering,Aerospace Engineering,443,64
-5788,2009,Engineering,Agricultural & Biological Engr,37,22
-5789,2009,Engineering,Agricultural Engineering,55,9
-5790,2009,Engineering,Bioengineering,105,73
-5791,2009,Engineering,Bioinformatics,2,2
-5792,2009,Engineering,Civil Engineering,816,272
-5793,2009,Engineering,Computer Engineering,423,45
-5794,2009,Engineering,Computer Science,914,121
-5795,2009,Engineering,Electrical & Computer Engr,446,67
-5796,2009,Engineering,Electrical Engineering,837,107
-5797,2009,Engineering,Engineering Mechanics,89,17
-5798,2009,Engineering,Engineering Physics,125,14
-5799,2009,Engineering,Environ Engr in Civil Engr,40,40
-5800,2009,Engineering,Environ Science in Civil Engr,3,8
-5801,2009,Engineering,General Engineering,349,104
-5802,2009,Engineering,Industrial Engineering,112,47
-5803,2009,Engineering,Materials Science & Engr,344,119
-5804,2009,Engineering,Mechanical Engineering,936,114
-5805,2009,Engineering,Nondegree,154,42
-5806,2009,Engineering,Nuclear Engineering,102,15
-5807,2009,Engineering,"Nuclear, Plasma, Radiolgc Engr ",83,19
-5808,2009,Engineering,Physics,238,37
-5809,2009,Engineering,Systems & Entrepreneurial Engr,22,8
-5810,2009,Engineering,Theoretical & Applied Mechans,39,7
+,Fall,College,Major Name,Total,Male,Female
+5792,2009,Engineering,Civil Engineering,1090,816,272
+5804,2009,Engineering,Mechanical Engineering,1052,936,114
+5794,2009,Engineering,Computer Science,1035,914,121
+5796,2009,Engineering,Electrical Engineering,945,837,107
+5795,2009,Engineering,Electrical & Computer Engr,513,446,67
+5787,2009,Engineering,Aerospace Engineering,507,443,64
+5793,2009,Engineering,Computer Engineering,469,423,45
+5803,2009,Engineering,Materials Science & Engr,463,344,119
+5801,2009,Engineering,General Engineering,454,349,104
+5808,2009,Engineering,Physics,275,238,37

@@ -1,20 +1,11 @@
-,Fall,College,Major Name,Male,Female
-2488,1992,Engineering,Aero & Astro Engineering,347,45
-2489,1992,Engineering,Agricultural Engineering,70,17
-2490,1992,Engineering,CER ENGR,161,29
-2491,1992,Engineering,CERAMICS,9,4
-2492,1992,Engineering,Civil Engineering,782,152
-2493,1992,Engineering,Computer Engineering,298,28
-2494,1992,Engineering,Computer Science,339,51
-2495,1992,Engineering,ENGR MECH,65,9
-2496,1992,Engineering,ENGR PHYS,60,16
-2497,1992,Engineering,ENV ENGR,65,16
-2498,1992,Engineering,ENV SCI,8,7
-2499,1992,Engineering,Electrical Engineering,1356,168
-2500,1992,Engineering,GEN ENGR,472,142
-2501,1992,Engineering,Industrial Engineering,112,41
-2502,1992,Engineering,METAL ENGR,144,25
-2503,1992,Engineering,Mechanical Engineering,901,88
-2504,1992,Engineering,Nuclear Engineering,147,20
-2505,1992,Engineering,TCH CS,1,1
-2506,1992,Engineering,Theoretical & Applied Mechans,51,4
+,Fall,College,Major Name,Total,Male,Female
+2499,1992,Engineering,Electrical Engineering,1524,1356,168
+2503,1992,Engineering,Mechanical Engineering,989,901,88
+2492,1992,Engineering,Civil Engineering,934,782,152
+2500,1992,Engineering,GEN ENGR,614,472,142
+2488,1992,Engineering,Aero & Astro Engineering,392,347,45
+2494,1992,Engineering,Computer Science,390,339,51
+2493,1992,Engineering,Computer Engineering,326,298,28
+2490,1992,Engineering,CER ENGR,190,161,29
+2502,1992,Engineering,METAL ENGR,169,144,25
+2504,1992,Engineering,Nuclear Engineering,167,147,20

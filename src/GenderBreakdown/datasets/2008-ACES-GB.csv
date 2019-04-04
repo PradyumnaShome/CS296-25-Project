@@ -1,18 +1,11 @@
-,Fall,College,Major Name,Male,Female
-5527,2008,ACES,Agr & Consumer Economics,463,235
-5528,2008,ACES,Agr & Environmental Cmc & Educ,15,58
-5529,2008,ACES,Agr Engineering & Agr Science,47,7
-5530,2008,ACES,"Agribusiness, Farm & Financial ",26,5
-5531,2008,ACES,Agricultural Education,1,0
-5532,2008,ACES,Animal Sciences,173,470
-5533,2008,ACES,Bioinformatics,1,0
-5534,2008,ACES,Crop Sciences,92,50
-5535,2008,ACES,Food Science & Human Nutrition,93,304
-5536,2008,ACES,Horticulture,36,21
-5537,2008,ACES,Human & Community Development,4,24
-5538,2008,ACES,Human Development & Family St,9,202
-5539,2008,ACES,"Intl, Resource, Consumer Econ ",13,7
-5540,2008,ACES,Natural Res & Env Sciences,50,41
-5541,2008,ACES,Natural Resrcs & Environ Sci,87,89
-5542,2008,ACES,Nondegree,15,15
-5543,2008,ACES,Nutritional Sciences,14,47
+,Fall,College,Major Name,Total,Male,Female
+5527,2008,ACES,Agr & Consumer Economics,699,463,235
+5532,2008,ACES,Animal Sciences,644,173,470
+5535,2008,ACES,Food Science & Human Nutrition,397,93,304
+5538,2008,ACES,Human Development & Family St,211,9,202
+5541,2008,ACES,Natural Resrcs & Environ Sci,177,87,89
+5534,2008,ACES,Crop Sciences,142,92,50
+5540,2008,ACES,Natural Res & Env Sciences,91,50,41
+5528,2008,ACES,Agr & Environmental Cmc & Educ,73,15,58
+5543,2008,ACES,Nutritional Sciences,61,14,47
+5536,2008,ACES,Horticulture,57,36,21

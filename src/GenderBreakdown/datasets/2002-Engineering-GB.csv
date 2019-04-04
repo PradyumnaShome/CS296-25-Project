@@ -1,20 +1,11 @@
-,Fall,College,Major Name,Male,Female
-4471,2002,Engineering,Aero & Astro Engineering,349,79
-4472,2002,Engineering,Agricultural Engineering,74,21
-4473,2002,Engineering,Civil Engineering,626,167
-4474,2002,Engineering,Computer Engineering,738,87
-4475,2002,Engineering,Computer Science,783,91
-4476,2002,Engineering,ENGR MECH,40,14
-4477,2002,Engineering,ENGR NONDEGREE,48,9
-4478,2002,Engineering,ENGR PHYS,76,14
-4479,2002,Engineering,ENV ENGR,36,24
-4480,2002,Engineering,ENV SCI,7,3
-4481,2002,Engineering,Electrical Engineering,1088,210
-4482,2002,Engineering,GEN ENGR,414,124
-4483,2002,Engineering,Industrial Engineering,76,32
-4484,2002,Engineering,MATSCI&ENG,141,50
-4485,2002,Engineering,MCS INTERNET,1,0
-4486,2002,Engineering,Materials Science & Engr,106,36
-4487,2002,Engineering,Mechanical Engineering,802,86
-4488,2002,Engineering,Nuclear Engineering,77,20
-4489,2002,Engineering,Theoretical & Applied Mechans,54,6
+,Fall,College,Major Name,Total,Male,Female
+4481,2002,Engineering,Electrical Engineering,1298,1088,210
+4487,2002,Engineering,Mechanical Engineering,888,802,86
+4475,2002,Engineering,Computer Science,874,783,91
+4474,2002,Engineering,Computer Engineering,825,738,87
+4473,2002,Engineering,Civil Engineering,793,626,167
+4482,2002,Engineering,GEN ENGR,538,414,124
+4471,2002,Engineering,Aero & Astro Engineering,428,349,79
+4484,2002,Engineering,MATSCI&ENG,191,141,50
+4486,2002,Engineering,Materials Science & Engr,142,106,36
+4483,2002,Engineering,Industrial Engineering,108,76,32

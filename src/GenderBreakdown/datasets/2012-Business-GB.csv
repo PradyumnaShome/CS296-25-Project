@@ -1,13 +1,11 @@
-,Fall,College,Major Name,Male,Female
-6407,2012,Business,Business Administration,25,22
-6408,2012,Business,Business Administration (MBA),282,119
-6409,2012,Business,Business Process Management,19,13
-6410,2012,Business,Curric Unassigned,534,390
-6411,2012,Business,Finance,423,232
-6412,2012,Business,Information Sys & Info Tech,28,6
-6413,2012,Business,Management,50,61
-6414,2012,Business,Marketing,72,126
-6415,2012,Business,Nondegree,53,30
-6416,2012,Business,Supply Chain Management,33,25
-6417,2012,Business,Taxation,8,23
-6418,2012,Business,Technology Management,69,33
+,Fall,College,Major Name,Total,Male,Female
+6410,2012,Business,Curric Unassigned,924,534,390
+6411,2012,Business,Finance,655,423,232
+6408,2012,Business,Business Administration (MBA),401,282,119
+6414,2012,Business,Marketing,198,72,126
+6413,2012,Business,Management,111,50,61
+6418,2012,Business,Technology Management,102,69,33
+6415,2012,Business,Nondegree,83,53,30
+6416,2012,Business,Supply Chain Management,58,33,25
+6407,2012,Business,Business Administration,47,25,22
+6412,2012,Business,Information Sys & Info Tech,34,28,6

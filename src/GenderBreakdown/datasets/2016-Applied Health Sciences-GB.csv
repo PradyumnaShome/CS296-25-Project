@@ -1,11 +1,11 @@
-,Fall,College,Major Name,Male,Female
-7280,2016,Applied Health Sciences,Audiology,4,25
-7281,2016,Applied Health Sciences,Community Health,133,464
-7282,2016,Applied Health Sciences,Health,0,2
-7283,2016,Applied Health Sciences,Interdisciplinary Health Sci,42,197
-7284,2016,Applied Health Sciences,Kinesiology,275,354
-7285,2016,Applied Health Sciences,Nondegree,17,12
-7286,2016,Applied Health Sciences,Public Health,8,21
-7287,2016,Applied Health Sciences,"Recreation, Sport, and Tourism ",226,107
-7288,2016,Applied Health Sciences,Rehabilitation,2,1
-7289,2016,Applied Health Sciences,Speech & Hearing Science,23,320
+,Fall,College,Major Name,Total,Male,Female
+7284,2016,Applied Health Sciences,Kinesiology,629,275,354
+7281,2016,Applied Health Sciences,Community Health,597,133,464
+7289,2016,Applied Health Sciences,Speech & Hearing Science,343,23,320
+7287,2016,Applied Health Sciences,"Recreation, Sport, and Tourism ",333,226,107
+7283,2016,Applied Health Sciences,Interdisciplinary Health Sci,239,42,197
+7280,2016,Applied Health Sciences,Audiology,29,4,25
+7285,2016,Applied Health Sciences,Nondegree,29,17,12
+7286,2016,Applied Health Sciences,Public Health,29,8,21
+7288,2016,Applied Health Sciences,Rehabilitation,3,2,1
+7282,2016,Applied Health Sciences,Health,2,0,2

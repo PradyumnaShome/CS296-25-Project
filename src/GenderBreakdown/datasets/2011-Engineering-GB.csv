@@ -1,27 +1,11 @@
-,Fall,College,Major Name,Male,Female
-6218,2011,Engineering,Aerospace Engineering,437,70
-6219,2011,Engineering,Agricultural & Biological Engr,108,48
-6220,2011,Engineering,Agricultural Engineering,7,3
-6221,2011,Engineering,Bioengineering,134,97
-6222,2011,Engineering,Bioinformatics,1,1
-6223,2011,Engineering,Civil Engineering,893,284
-6224,2011,Engineering,Computer Engineering,563,45
-6225,2011,Engineering,Computer Science,1090,139
-6226,2011,Engineering,Electrical & Computer Engr,417,59
-6227,2011,Engineering,Electrical Engineering,995,133
-6228,2011,Engineering,Engineering Mechanics,126,16
-6229,2011,Engineering,Engineering Physics,138,14
-6230,2011,Engineering,Environ Engr in Civil Engr,40,56
-6231,2011,Engineering,Environ Science in Civil Engr,4,3
-6232,2011,Engineering,Financial Engineering,52,17
-6233,2011,Engineering,General Engineering,307,77
-6234,2011,Engineering,Industrial Engineering,168,58
-6235,2011,Engineering,Materials Science & Engr,423,124
-6236,2011,Engineering,Mechanical Engineering,927,126
-6237,2011,Engineering,Nondegree,162,45
-6238,2011,Engineering,Nuclear Engineering,49,10
-6239,2011,Engineering,"Nuclear, Plasma, Radiolgc Engr ",184,25
-6240,2011,Engineering,Physics,227,38
-6241,2011,Engineering,Systems & Entrepreneurial Engr,13,6
-6242,2011,Engineering,Teaching of Physics,2,1
-6243,2011,Engineering,Theoretical & Applied Mechans,37,10
+,Fall,College,Major Name,Total,Male,Female
+6225,2011,Engineering,Computer Science,1229,1090,139
+6223,2011,Engineering,Civil Engineering,1178,893,284
+6227,2011,Engineering,Electrical Engineering,1128,995,133
+6236,2011,Engineering,Mechanical Engineering,1055,927,126
+6224,2011,Engineering,Computer Engineering,608,563,45
+6235,2011,Engineering,Materials Science & Engr,547,423,124
+6218,2011,Engineering,Aerospace Engineering,507,437,70
+6226,2011,Engineering,Electrical & Computer Engr,476,417,59
+6233,2011,Engineering,General Engineering,384,307,77
+6240,2011,Engineering,Physics,265,227,38

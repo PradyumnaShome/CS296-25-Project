@@ -1,19 +1,11 @@
-,Fall,College,Major Name,Male,Female
-885,1984,Engineering,Aero & Astro Engineering,445,50
-886,1984,Engineering,Agricultural Engineering,73,5
-887,1984,Engineering,CER ENGR,117,39
-888,1984,Engineering,Civil Engineering,469,83
-889,1984,Engineering,Computer Engineering,408,76
-890,1984,Engineering,Computer Science,443,157
-891,1984,Engineering,ENGR MECH,36,10
-892,1984,Engineering,ENGR PHYS,73,8
-893,1984,Engineering,ENV ENGR,30,7
-894,1984,Engineering,ENV SCI,8,2
-895,1984,Engineering,Electrical Engineering,1543,212
-896,1984,Engineering,GEN ENGR,305,127
-897,1984,Engineering,Industrial Engineering,89,46
-898,1984,Engineering,METAL ENGR,136,29
-899,1984,Engineering,Mechanical Engineering,793,86
-900,1984,Engineering,Nuclear Engineering,131,11
-901,1984,Engineering,TCH CS,2,1
-902,1984,Engineering,Theoretical & Applied Mechans,48,2
+,Fall,College,Major Name,Total,Male,Female
+895,1984,Engineering,Electrical Engineering,1755,1543,212
+899,1984,Engineering,Mechanical Engineering,879,793,86
+890,1984,Engineering,Computer Science,600,443,157
+888,1984,Engineering,Civil Engineering,552,469,83
+885,1984,Engineering,Aero & Astro Engineering,495,445,50
+889,1984,Engineering,Computer Engineering,484,408,76
+896,1984,Engineering,GEN ENGR,432,305,127
+898,1984,Engineering,METAL ENGR,165,136,29
+887,1984,Engineering,CER ENGR,156,117,39
+900,1984,Engineering,Nuclear Engineering,142,131,11

@@ -1,5 +1,5 @@
-,Fall,College,Major Name,Male,Female
-3801,1998,VetMed,VMS - Veterinary Biosciences,12,5
-3802,1998,VetMed,VMS - Veterinary Pathobiology,24,17
-3803,1998,VetMed,VMS-Veterinary Clinical Medcne,8,15
-3804,1998,VetMed,Veterinary Medicine,103,260
+,Fall,College,Major Name,Total,Male,Female
+3804,1998,VetMed,Veterinary Medicine,363,103,260
+3802,1998,VetMed,VMS - Veterinary Pathobiology,41,24,17
+3803,1998,VetMed,VMS-Veterinary Clinical Medcne,23,8,15
+3801,1998,VetMed,VMS - Veterinary Biosciences,17,12,5

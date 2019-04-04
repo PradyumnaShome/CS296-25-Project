@@ -1,84 +1,11 @@
-,Fall,College,Major Name,Male,Female
-7830,2018,LAS,African Studies,1,3
-7831,2018,LAS,Asian American Studies,2,1
-7832,2018,LAS,Astronomy,78,41
-7833,2018,LAS,Atmospheric Sciences,77,40
-7834,2018,LAS,Biochemistry,124,118
-7835,2018,LAS,Biology,280,440
-7836,2018,LAS,Biophysics & Computnl Biology,9,3
-7837,2018,LAS,Biophysics & Quant Biology,33,13
-7838,2018,LAS,Cell and Developmental Biology,13,18
-7839,2018,LAS,Chemical Engineering,502,252
-7840,2018,LAS,Chemical Physics,2,1
-7841,2018,LAS,Chemistry,452,346
-7842,2018,LAS,Classical Philology,7,3
-7843,2018,LAS,Classics,7,10
-7844,2018,LAS,Communication,280,452
-7845,2018,LAS,Comparative Literature,7,22
-7846,2018,LAS,Computer Sci & Anthropology,26,10
-7847,2018,LAS,Computer Sci & Astronomy,32,7
-7848,2018,LAS,Computer Sci & Chemistry,32,9
-7849,2018,LAS,Computer Sci & Linguistics,51,25
-7850,2018,LAS,Computer Science & Economics,3,0
-7851,2018,LAS,Creative Writing,38,60
-7852,2018,LAS,E Asian Languages & Cultures,20,39
-7853,2018,LAS,"Earth, Soc, Env Sustainability ",63,76
-7854,2018,LAS,East Asian Studies,6,5
-7855,2018,LAS,"Ecol, Evol, Conservation Biol ",11,23
-7856,2018,LAS,Econometrics & Quant Econ,26,7
-7857,2018,LAS,Economics,834,368
-7858,2018,LAS,English,119,323
-7859,2018,LAS,Entomology,21,8
-7860,2018,LAS,European Union Studies,3,3
-7861,2018,LAS,French,16,20
-7862,2018,LAS,Gender and Women's Studies,0,20
-7863,2018,LAS,General Curriculum,76,45
-7864,2018,LAS,Geography,32,21
-7865,2018,LAS,Geography & Geographic Info Sc,30,8
-7866,2018,LAS,Geology,55,42
-7867,2018,LAS,German,6,3
-7868,2018,LAS,Germanic Lang & Lit,0,4
-7869,2018,LAS,Germanic Studies,2,1
-7870,2018,LAS,Global Studies,52,131
-7871,2018,LAS,Health Communication,2,25
-7872,2018,LAS,History,216,124
-7873,2018,LAS,History of Art,2,15
-7874,2018,LAS,Individual Plans of Study,5,8
-7875,2018,LAS,Integrative Biology,147,200
-7876,2018,LAS,Interdisciplinary,1,1
-7877,2018,LAS,Italian,3,4
-7878,2018,LAS,LAS - Undeclared,46,89
-7879,2018,LAS,Latin American Studies,4,1
-7880,2018,LAS,Latina/Latino Studies,1,15
-7881,2018,LAS,Linguistics,50,75
-7882,2018,LAS,Math & Computer Science,225,48
-7883,2018,LAS,Mathematics,506,265
-7884,2018,LAS,Microbiology,20,29
-7885,2018,LAS,Molecular & Integrative Physi,8,15
-7886,2018,LAS,Molecular and Cellular Biology,418,535
-7887,2018,LAS,Molecular&Cell Bio-undeclared,12,15
-7888,2018,LAS,Neuroscience,22,32
-7889,2018,LAS,Nondegree,76,73
-7890,2018,LAS,Philosophy,82,29
-7891,2018,LAS,Physics,219,56
-7892,2018,LAS,Plant Biology,12,21
-7893,2018,LAS,Political Science,422,345
-7894,2018,LAS,Portuguese,0,1
-7895,2018,LAS,Psychological Science,8,13
-7896,2018,LAS,Psychology,437,1230
-7897,2018,LAS,Religion,4,8
-7898,2018,LAS,"Russian, E Eur, Eurasian St ",3,7
-7899,2018,LAS,Slavic Languages & Literature,3,11
-7900,2018,LAS,Slavic Studies,3,2
-7901,2018,LAS,Sociology,77,136
-7902,2018,LAS,Spanish,40,81
-7903,2018,LAS,Statistics,325,236
-7904,2018,LAS,Statistics & Computer Science,195,64
-7905,2018,LAS,Teaching of Biological Science,9,15
-7906,2018,LAS,Teaching of Chemistry,0,1
-7907,2018,LAS,Teaching of English Sec Lang,5,23
-7908,2018,LAS,Teaching of French,0,1
-7909,2018,LAS,Teaching of Latin,0,2
-7910,2018,LAS,Teaching of Mathematics,2,1
-7911,2018,LAS,Teaching of Spanish,0,7
-7912,2018,LAS,Translation and Interpreting,10,20
+,Fall,College,Major Name,Total,Male,Female
+7896,2018,LAS,Psychology,1667,437,1230
+7857,2018,LAS,Economics,1202,834,368
+7886,2018,LAS,Molecular and Cellular Biology,953,418,535
+7841,2018,LAS,Chemistry,798,452,346
+7883,2018,LAS,Mathematics,772,506,265
+7893,2018,LAS,Political Science,768,422,345
+7839,2018,LAS,Chemical Engineering,756,502,252
+7844,2018,LAS,Communication,732,280,452
+7835,2018,LAS,Biology,720,280,440
+7903,2018,LAS,Statistics,561,325,236

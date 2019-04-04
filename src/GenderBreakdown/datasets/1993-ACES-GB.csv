@@ -1,45 +1,11 @@
-,Fall,College,Major Name,Male,Female
-2593,1993,ACES,Agr & Environmental Cmc & Educ,5,3
-2594,1993,ACES,Agricultural & Applied Econ,340,98
-2595,1993,ACES,Agricultural Communications,21,56
-2596,1993,ACES,Agricultural Education,8,8
-2597,1993,ACES,Agricultural Engineering,95,14
-2598,1993,ACES,Agricultural Sciences,18,20
-2599,1993,ACES,Agronomy,98,34
-2600,1993,ACES,Animal Sciences,205,234
-2601,1993,ACES,CONSM ECON,12,34
-2602,1993,ACES,CORE CURR,37,17
-2603,1993,ACES,DIETETICS,1,65
-2604,1993,ACES,EXT EDUC,2,6
-2605,1993,ACES,FAM&CON EC,3,5
-2606,1993,ACES,Food Science & Human Nutrition,68,167
-2607,1993,ACES,Forestry,102,67
-2608,1993,ACES,GEN AGR,12,2
-2609,1993,ACES,GEN H ECON,0,1
-2610,1993,ACES,H DVL-FAM,12,125
-2611,1993,ACES,HR&FS A&ID,2,13
-2612,1993,ACES,HU DEV&FAM,6,21
-2613,1993,ACES,Horticulture,42,26
-2614,1993,ACES,INT DSGN,0,4
-2615,1993,ACES,MKT TEXT&A,2,101
-2616,1993,ACES,Mechanical Agriculture,67,0
-2617,1993,ACES,Nutritional Sciences,16,27
-2618,1993,ACES,ORN HORT,44,43
-2619,1993,ACES,PLANT PATH,21,11
-2620,1993,ACES,Physics,319,29
-2621,1993,ACES,REST MGMT,29,46
-2622,1993,ACES,SOIL SCI,3,0
-2623,1993,ACES,Secondary Education,17,24
-2624,1993,ACES,Spanish,18,29
-2625,1993,ACES,Speech & Hearing Science,10,182
-2626,1993,ACES,Statistics,19,10
-2627,1993,ACES,TEXT-APPRL,1,18
-2628,1993,ACES,Teaching of Biological Science,3,6
-2629,1993,ACES,Teaching of Chemistry,8,7
-2630,1993,ACES,Teaching of Earth Science,0,2
-2631,1993,ACES,Teaching of English Sec Lang,18,88
-2632,1993,ACES,Teaching of French,2,15
-2633,1993,ACES,Teaching of German,0,3
-2634,1993,ACES,Teaching of Latin,0,2
-2635,1993,ACES,Teaching of Mathematics,20,25
-2636,1993,ACES,Teaching of Physics,3,2
+,Fall,College,Major Name,Total,Male,Female
+2600,1993,ACES,Animal Sciences,439,205,234
+2594,1993,ACES,Agricultural & Applied Econ,438,340,98
+2620,1993,ACES,Physics,348,319,29
+2606,1993,ACES,Food Science & Human Nutrition,235,68,167
+2625,1993,ACES,Speech & Hearing Science,192,10,182
+2607,1993,ACES,Forestry,169,102,67
+2610,1993,ACES,H DVL-FAM,137,12,125
+2599,1993,ACES,Agronomy,132,98,34
+2597,1993,ACES,Agricultural Engineering,109,95,14
+2631,1993,ACES,Teaching of English Sec Lang,106,18,88

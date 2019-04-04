@@ -1,20 +1,11 @@
-,Fall,College,Major Name,Male,Female
-3699,1998,Engineering,Aero & Astro Engineering,238,61
-3700,1998,Engineering,Agricultural Engineering,93,26
-3701,1998,Engineering,CER ENGR,9,0
-3702,1998,Engineering,Civil Engineering,658,187
-3703,1998,Engineering,Computer Engineering,618,64
-3704,1998,Engineering,Computer Science,630,81
-3705,1998,Engineering,ENGR MECH,27,3
-3706,1998,Engineering,ENGR PHYS,47,5
-3707,1998,Engineering,ENV ENGR,38,27
-3708,1998,Engineering,ENV SCI,10,7
-3709,1998,Engineering,Electrical Engineering,1198,157
-3710,1998,Engineering,GEN ENGR,302,130
-3711,1998,Engineering,Industrial Engineering,110,48
-3712,1998,Engineering,MATSCI&ENG,137,32
-3713,1998,Engineering,METAL ENGR,10,1
-3714,1998,Engineering,Materials Science & Engr,77,30
-3715,1998,Engineering,Mechanical Engineering,859,129
-3716,1998,Engineering,Nuclear Engineering,71,14
-3717,1998,Engineering,Theoretical & Applied Mechans,47,9
+,Fall,College,Major Name,Total,Male,Female
+3709,1998,Engineering,Electrical Engineering,1355,1198,157
+3715,1998,Engineering,Mechanical Engineering,988,859,129
+3702,1998,Engineering,Civil Engineering,845,658,187
+3704,1998,Engineering,Computer Science,711,630,81
+3703,1998,Engineering,Computer Engineering,682,618,64
+3710,1998,Engineering,GEN ENGR,432,302,130
+3699,1998,Engineering,Aero & Astro Engineering,299,238,61
+3712,1998,Engineering,MATSCI&ENG,169,137,32
+3711,1998,Engineering,Industrial Engineering,158,110,48
+3700,1998,Engineering,Agricultural Engineering,119,93,26

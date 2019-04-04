@@ -1,19 +1,11 @@
-,Fall,College,Major Name,Male,Female
-5935,2010,ACES,Agr & Consumer Economics,402,210
-5936,2010,ACES,Agr & Environmental Cmc & Educ,26,64
-5937,2010,ACES,Agr Engineering & Agr Science,35,6
-5938,2010,ACES,Agricultural & Biological Engr,24,5
-5939,2010,ACES,Agricultural Education,2,4
-5940,2010,ACES,Agricultural Production,3,4
-5941,2010,ACES,Animal Sciences,153,446
-5942,2010,ACES,Bioenergy,10,2
-5943,2010,ACES,Bioinformatics,9,1
-5944,2010,ACES,Crop Sciences,139,55
-5945,2010,ACES,Food Science & Human Nutrition,96,343
-5946,2010,ACES,Horticulture,29,14
-5947,2010,ACES,Human & Community Development,7,26
-5948,2010,ACES,Human Development & Family St,20,191
-5949,2010,ACES,Natural Res & Env Sciences,42,28
-5950,2010,ACES,Natural Resrcs & Environ Sci,102,85
-5951,2010,ACES,Nondegree,36,39
-5952,2010,ACES,Nutritional Sciences,16,41
+,Fall,College,Major Name,Total,Male,Female
+5935,2010,ACES,Agr & Consumer Economics,612,402,210
+5941,2010,ACES,Animal Sciences,600,153,446
+5945,2010,ACES,Food Science & Human Nutrition,439,96,343
+5948,2010,ACES,Human Development & Family St,213,20,191
+5944,2010,ACES,Crop Sciences,194,139,55
+5950,2010,ACES,Natural Resrcs & Environ Sci,187,102,85
+5936,2010,ACES,Agr & Environmental Cmc & Educ,90,26,64
+5951,2010,ACES,Nondegree,75,36,39
+5949,2010,ACES,Natural Res & Env Sciences,70,42,28
+5952,2010,ACES,Nutritional Sciences,57,16,41

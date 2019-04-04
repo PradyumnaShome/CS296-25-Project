@@ -1,13 +1,11 @@
-,Fall,College,Major Name,Male,Female
-5756,2009,Business,Business Administration,60,50
-5757,2009,Business,Business Administration (MBA),235,107
-5758,2009,Business,Business Process Management,10,8
-5759,2009,Business,Curric Unassigned,574,464
-5760,2009,Business,Finance,479,219
-5761,2009,Business,Information Sys & Info Tech,30,7
-5762,2009,Business,Management,68,95
-5763,2009,Business,Marketing,58,93
-5764,2009,Business,Nondegree,28,14
-5765,2009,Business,Supply Chain Management,24,11
-5766,2009,Business,Taxation,12,14
-5767,2009,Business,Technology Management,41,11
+,Fall,College,Major Name,Total,Male,Female
+5759,2009,Business,Curric Unassigned,1038,574,464
+5760,2009,Business,Finance,698,479,219
+5757,2009,Business,Business Administration (MBA),345,235,107
+5762,2009,Business,Management,164,68,95
+5763,2009,Business,Marketing,151,58,93
+5756,2009,Business,Business Administration,110,60,50
+5767,2009,Business,Technology Management,52,41,11
+5764,2009,Business,Nondegree,42,28,14
+5761,2009,Business,Information Sys & Info Tech,37,30,7
+5765,2009,Business,Supply Chain Management,35,24,11

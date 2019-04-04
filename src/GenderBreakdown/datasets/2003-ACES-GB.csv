@@ -1,41 +1,11 @@
-,Fall,College,Major Name,Male,Female
-4578,2003,ACES,Agr & Consumer Economics,244,116
-4579,2003,ACES,Agr & Environmental Cmc & Educ,46,90
-4580,2003,ACES,Agr Engineering & Agr Science,36,4
-4581,2003,ACES,Agricultural & Applied Econ,1,0
-4582,2003,ACES,Animal Sciences,158,413
-4583,2003,ACES,CFTM-CNSMR&TXTL,1,14
-4584,2003,ACES,CTM-CNSMR&TXTL,10,109
-4585,2003,ACES,Crop Sciences,94,51
-4586,2003,ACES,Food Science & Human Nutrition,109,282
-4587,2003,ACES,Forestry,13,1
-4588,2003,ACES,HDFS-CH&AD DEV,8,130
-4589,2003,ACES,HDFS-FS,5,51
-4590,2003,ACES,HORT -- P&M,30,24
-4591,2003,ACES,HORT--HORT SCI,2,3
-4592,2003,ACES,Horticulture,4,1
-4593,2003,ACES,Human & Community Development,3,23
-4594,2003,ACES,IRCE-CONS EC&F,54,33
-4595,2003,ACES,IRCE-E&NR MGMT,2,0
-4596,2003,ACES,IRCE-INDCURRIC,6,3
-4597,2003,ACES,"IRCE-POL,TRD,DV",21,16
-4598,2003,ACES,NRES-BIOL SCI,33,22
-4599,2003,ACES,NRES-ENV S W,6,8
-4600,2003,ACES,NRES-F & W CONS,22,13
-4601,2003,ACES,NRES-SOC SCI,18,21
-4602,2003,ACES,Natural Res & Env Sciences,42,25
-4603,2003,ACES,Natural Resrcs & Environ Sci,81,56
-4604,2003,ACES,Nondegree,7,10
-4605,2003,ACES,Nutritional Sciences,9,35
-4606,2003,ACES,Physics,298,52
-4607,2003,ACES,"Recreation, Sport, and Tourism ",117,36
-4608,2003,ACES,Spanish,22,36
-4609,2003,ACES,Speech & Hearing Science,15,270
-4610,2003,ACES,Statistics,10,17
-4611,2003,ACES,Teaching of Biological Science,0,4
-4612,2003,ACES,Teaching of Chemistry,3,8
-4613,2003,ACES,Teaching of English Sec Lang,12,48
-4614,2003,ACES,Teaching of French,0,5
-4615,2003,ACES,Teaching of Latin,3,2
-4616,2003,ACES,Teaching of Mathematics,0,3
-4617,2003,ACES,Teaching of Physics,0,1
+,Fall,College,Major Name,Total,Male,Female
+4582,2003,ACES,Animal Sciences,571,158,413
+4586,2003,ACES,Food Science & Human Nutrition,391,109,282
+4578,2003,ACES,Agr & Consumer Economics,360,244,116
+4606,2003,ACES,Physics,350,298,52
+4609,2003,ACES,Speech & Hearing Science,285,15,270
+4607,2003,ACES,"Recreation, Sport, and Tourism ",153,117,36
+4585,2003,ACES,Crop Sciences,145,94,51
+4588,2003,ACES,HDFS-CH&AD DEV,138,8,130
+4603,2003,ACES,Natural Resrcs & Environ Sci,137,81,56
+4579,2003,ACES,Agr & Environmental Cmc & Educ,136,46,90

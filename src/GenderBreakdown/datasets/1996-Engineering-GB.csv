@@ -1,23 +1,11 @@
-,Fall,College,Major Name,Male,Female
-3276,1996,Engineering,Aero & Astro Engineering,212,46
-3277,1996,Engineering,Agricultural Engineering,94,22
-3278,1996,Engineering,CER ENGR,37,10
-3279,1996,Engineering,CERAMIC ENG,1,0
-3280,1996,Engineering,CERAMICS,1,1
-3281,1996,Engineering,Civil Engineering,772,201
-3282,1996,Engineering,Computer Engineering,537,37
-3283,1996,Engineering,Computer Science,553,79
-3284,1996,Engineering,ENGR MECH,29,8
-3285,1996,Engineering,ENGR PHYS,56,15
-3286,1996,Engineering,ENV ENGR,48,12
-3287,1996,Engineering,ENV SCI,7,9
-3288,1996,Engineering,Electrical Engineering,1274,195
-3289,1996,Engineering,GEN ENGR,385,127
-3290,1996,Engineering,Industrial Engineering,102,54
-3291,1996,Engineering,MATSCI&ENG,102,21
-3292,1996,Engineering,METAL ENGR,32,4
-3293,1996,Engineering,Materials Science & Engr,90,21
-3294,1996,Engineering,Mechanical Engineering,894,135
-3295,1996,Engineering,Nuclear Engineering,88,17
-3296,1996,Engineering,TCH CS,0,1
-3297,1996,Engineering,Theoretical & Applied Mechans,35,6
+,Fall,College,Major Name,Total,Male,Female
+3288,1996,Engineering,Electrical Engineering,1469,1274,195
+3294,1996,Engineering,Mechanical Engineering,1029,894,135
+3281,1996,Engineering,Civil Engineering,973,772,201
+3283,1996,Engineering,Computer Science,632,553,79
+3282,1996,Engineering,Computer Engineering,574,537,37
+3289,1996,Engineering,GEN ENGR,512,385,127
+3276,1996,Engineering,Aero & Astro Engineering,258,212,46
+3290,1996,Engineering,Industrial Engineering,156,102,54
+3291,1996,Engineering,MATSCI&ENG,123,102,21
+3277,1996,Engineering,Agricultural Engineering,116,94,22

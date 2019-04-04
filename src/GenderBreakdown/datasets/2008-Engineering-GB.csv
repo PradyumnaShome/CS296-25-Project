@@ -1,23 +1,11 @@
-,Fall,College,Major Name,Male,Female
-5584,2008,Engineering,Aerospace Engineering,453,60
-5585,2008,Engineering,Agricultural & Biological Engr,7,7
-5586,2008,Engineering,Agricultural Engineering,76,14
-5587,2008,Engineering,Bioengineering,101,72
-5588,2008,Engineering,Civil Engineering,735,219
-5589,2008,Engineering,Computer Engineering,398,46
-5590,2008,Engineering,Computer Science,858,121
-5591,2008,Engineering,Electrical & Computer Engr,444,60
-5592,2008,Engineering,Electrical Engineering,717,86
-5593,2008,Engineering,Engineering Mechanics,61,13
-5594,2008,Engineering,Engineering Physics,118,13
-5595,2008,Engineering,Environ Engr in Civil Engr,34,41
-5596,2008,Engineering,Environ Science in Civil Engr,3,7
-5597,2008,Engineering,General Engineering,411,131
-5598,2008,Engineering,Industrial Engineering,86,39
-5599,2008,Engineering,Materials Science & Engr,339,100
-5600,2008,Engineering,Mechanical Engineering,968,129
-5601,2008,Engineering,Nondegree,110,25
-5602,2008,Engineering,Nuclear Engineering,152,22
-5603,2008,Engineering,Physics,262,40
-5604,2008,Engineering,Systems & Entrepreneurial Engr,28,5
-5605,2008,Engineering,Theoretical & Applied Mechans,41,6
+,Fall,College,Major Name,Total,Male,Female
+5600,2008,Engineering,Mechanical Engineering,1099,968,129
+5590,2008,Engineering,Computer Science,980,858,121
+5588,2008,Engineering,Civil Engineering,955,735,219
+5592,2008,Engineering,Electrical Engineering,804,717,86
+5597,2008,Engineering,General Engineering,542,411,131
+5584,2008,Engineering,Aerospace Engineering,514,453,60
+5591,2008,Engineering,Electrical & Computer Engr,504,444,60
+5589,2008,Engineering,Computer Engineering,446,398,46
+5599,2008,Engineering,Materials Science & Engr,439,339,100
+5603,2008,Engineering,Physics,302,262,40

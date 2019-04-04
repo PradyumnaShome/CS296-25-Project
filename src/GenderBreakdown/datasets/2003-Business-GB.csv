@@ -1,14 +1,11 @@
-,Fall,College,Major Name,Male,Female
-4631,2003,Business,Accountancy,630,601
-4632,2003,Business,BUS NON-DEGREE,25,21
-4633,2003,Business,Business Administration,630,522
-4634,2003,Business,Computer Science,392,85
-4635,2003,Business,Economics,160,63
-4636,2003,Business,Executive MBA Program,35,10
-4637,2003,Business,Finance,640,285
-4638,2003,Business,INT'L MSBA,32,13
-4639,2003,Business,Leisure Studies,3,26
-4640,2003,Business,Teaching of Spanish,4,20
-4641,2003,Business,Technical Systems Management,81,7
-4642,2003,Business,Theatre,64,64
-4643,2003,Business,UNASSIGNED,260,172
+,Fall,College,Major Name,Total,Male,Female
+4631,2003,Business,Accountancy,1231,630,601
+4633,2003,Business,Business Administration,1152,630,522
+4637,2003,Business,Finance,925,640,285
+4634,2003,Business,Computer Science,477,392,85
+4643,2003,Business,UNASSIGNED,432,260,172
+4635,2003,Business,Economics,223,160,63
+4642,2003,Business,Theatre,128,64,64
+4641,2003,Business,Technical Systems Management,88,81,7
+4632,2003,Business,BUS NON-DEGREE,46,25,21
+4636,2003,Business,Executive MBA Program,45,35,10

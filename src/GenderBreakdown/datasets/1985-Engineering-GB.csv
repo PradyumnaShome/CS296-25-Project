@@ -1,20 +1,11 @@
-,Fall,College,Major Name,Male,Female
-1087,1985,Engineering,Aero & Astro Engineering,557,61
-1088,1985,Engineering,Agricultural Engineering,68,5
-1089,1985,Engineering,CER ENGR,137,43
-1090,1985,Engineering,CERAMICS,0,1
-1091,1985,Engineering,Civil Engineering,452,77
-1092,1985,Engineering,Computer Engineering,436,65
-1093,1985,Engineering,Computer Science,414,124
-1094,1985,Engineering,ENGR MECH,45,10
-1095,1985,Engineering,ENGR PHYS,77,15
-1096,1985,Engineering,ENV ENGR,22,7
-1097,1985,Engineering,ENV SCI,6,5
-1098,1985,Engineering,Electrical Engineering,1711,234
-1099,1985,Engineering,GEN ENGR,313,138
-1100,1985,Engineering,Industrial Engineering,109,49
-1101,1985,Engineering,METAL ENGR,142,27
-1102,1985,Engineering,Mechanical Engineering,869,99
-1103,1985,Engineering,Nuclear Engineering,127,13
-1104,1985,Engineering,TCH CS,0,1
-1105,1985,Engineering,Theoretical & Applied Mechans,46,4
+,Fall,College,Major Name,Total,Male,Female
+1098,1985,Engineering,Electrical Engineering,1945,1711,234
+1102,1985,Engineering,Mechanical Engineering,968,869,99
+1087,1985,Engineering,Aero & Astro Engineering,618,557,61
+1093,1985,Engineering,Computer Science,538,414,124
+1091,1985,Engineering,Civil Engineering,529,452,77
+1092,1985,Engineering,Computer Engineering,501,436,65
+1099,1985,Engineering,GEN ENGR,451,313,138
+1089,1985,Engineering,CER ENGR,180,137,43
+1101,1985,Engineering,METAL ENGR,169,142,27
+1100,1985,Engineering,Industrial Engineering,158,109,49
