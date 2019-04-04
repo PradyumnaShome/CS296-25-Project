@@ -20,15 +20,15 @@
     <script src="https://d3js.org/d3.v5.min.js"></script>
 
     <!-- Our visualization code -->
-    <script src="visualization.js"></script>
+    <!-- <script src="visualization.js"></script> -->
 </head>
 
 <body>
     <div class="container">
         <section class="heading">
-            <h3>Visualizations of Illini Students Demographics</h4>
+            <h3>Visualizations of Illini Students Demographics</h3>
                 <h5>
-                    A CS 296-25 project by Eric Zhang, Jackie Oh, Jatin Mathur, Pradyumna Shome and Sumuk Rao
+                    A CS 296 data visualization project by Eric Zhang, Jackie Oh, Jatin Mathur, Pradyumna Shome and Sumuk Rao
                 </h5>
         </section>
         <section class="visualization-list container-fluid">
@@ -41,32 +41,162 @@
                 </th>
                 <tr>
                     <td>
-                        <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-                        <button type="button" class="btn btn-primary" onclick="location.href='/GenderBreakdown/'">Gender
-                            Breakdown</button>
+                        <button type="button" id='button' class="btn btn-primary" onclick="location.href='/Engineering/'">Engineering</button>
                     </td>
                     <td>
-                        Shows the breakdown of gender by major for the past 25 years.
+                        Shows various visualizations for the College of Engineering over time
                     </td>
                 </tr>
                 <tr>
                     <td>
-                        <!-- Indicates a successful or positive action -->
-                        <button type="button" class="btn btn-success" onclick="location.href='/RaceBreakdown/'">Race
-                            Breakdown</button>
+                        <button type="button" class="btn btn-primary" onclick="location.href='/Business/'">Business</button>
                     </td>
                     <td>
-                        Features the breakdown of race by major for the past 25 years.
+                        Shows various visualizations for the College of Business over time
                     </td>
                 </tr>
                 <tr>
                     <td>
-                        <!-- Contextual button for informational alert messages -->
-                        <button type="button" class="btn btn-info" onclick="location.href='/ChangeOfMajor/'">Major
-                            popularity over time</button>
+                        <button type="button" class="btn btn-primary" onclick="location.href='/ACES/'">ACES</button>
                     </td>
                     <td>
-                        A visual depiction of the changes in each major's popularity over the years.
+                            Shows various visualizations for the College of ACES over time
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <button type="button" class="btn btn-primary" onclick="location.href='/AppliedHealthSciences/'">Applied Health Sciences</button>
+                    </td>
+                    <td>
+                            Shows various visualizations for the College of AHS over time
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <button type="button" class="btn btn-primary" onclick="location.href='/AppliedLifeSciences/'">Applied Life Sciences</button>
+                    </td>
+                    <td>
+                            Shows various visualizations for the College of ALS over time
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <button type="button" class="btn btn-primary" onclick="location.href='/Aviation/'">Aviation</button>
+                    </td>
+                    <td>
+                            Shows various visualizations for the College of Aviation over time
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <button type="button" class="btn btn-primary" onclick="location.href='/DGS/'">DGS</button>
+                    </td>
+                    <td>
+                            Shows various visualizations for the College of DGS over time
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <button type="button" class="btn btn-primary" onclick="location.href='/Education/'">Education</button>
+                    </td>
+                    <td>
+                            Shows various visualizations for the College of Education over time
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <button type="button" class="btn btn-primary" onclick="location.href='/FineAndAppliedArts/'">Fine and Applied Arts</button>
+                    </td>
+                    <td>
+                            Shows various visualizations for the College of Fine and Applied Arts over time
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <button type="button" class="btn btn-primary" onclick="location.href='/Graduate/'">Graduate</button>
+                    </td>
+                    <td>
+                            Shows various visualizations for the College of Graduate over time
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <button type="button" class="btn btn-primary" onclick="location.href='/LAS/'">Liberal Arts and Sciences</button>
+                    </td>
+                    <td>
+                            Shows various visualizations for the College of LAS over time
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <button type="button" class="btn btn-primary" onclick="location.href='/LM/'">LM</button>
+                    </td>
+                    <td>
+                            Shows various visualizations for the College of LM over time
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <button type="button" class="btn btn-primary" onclick="location.href='/LN/'">LN</button>
+                    </td>
+                    <td>
+                            Shows various visualizations for the College of LN over time
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <button type="button" class="btn btn-primary" onclick="location.href='/LaborAndIndustrialRelations/'">Labor and Industrial Relations</button>
+                    </td>
+                    <td>
+                            Shows various visualizations for the College of Labor and Industrial Relations over time
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <button type="button" class="btn btn-primary" onclick="location.href='/Law/'">Law</button>
+                    </td>
+                    <td>
+                            Shows various visualizations for the College of Law over time
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <button type="button" class="btn btn-primary" onclick="location.href='/Media/'">Media</button>
+                    </td>
+                    <td>
+                            Shows various visualizations for the College of Media over time
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <button type="button" class="btn btn-primary" onclick="location.href='/Medicine/'">Medicine</button>
+                    </td>
+                    <td>
+                            Shows various visualizations for the College of Medicine over time
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <button type="button" class="btn btn-primary" onclick="location.href='/NB/'">NB</button>
+                    </td>
+                    <td>
+                            Shows various visualizations for the College of NB over time
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <button type="button" class="btn btn-primary" onclick="location.href='/SocialWork/'">Social Work</button>
+                    </td>
+                    <td>
+                            Shows various visualizations for the College of Social Work over time
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <button type="button" class="btn btn-primary" onclick="location.href='/VetMed/'">VetMed</button>
+                    </td>
+                    <td>
+                            Shows various visualizations for the College of VetMed over time
                     </td>
                 </tr>
                 <tr>
@@ -79,7 +209,7 @@
                     </td>
                 </tr>
             </table>
-            <section>
+            <!-- <section>
                 <h2>
                     Academic Year 2019 Enrollment by College
                 </h2>
@@ -93,7 +223,7 @@
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> -->
         </section>
     </div>
 </body>
