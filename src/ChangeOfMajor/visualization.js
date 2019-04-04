@@ -1,48 +1,55 @@
-// Using jQuery, read our data and call visualize(...) only once the page is ready:
-$(function () {
-    const datasetPath = "datasets/majors_transposed.csv";
-    d3.csv(datasetPath).then(function (data) {
-        // Write the data to the console for debugging:
-        console.log(data);
+var myVar = setInterval(myTimer, 5000);
+var BASE_YEAR = 1980;
+var YEAR = 1980;
+var COLLEGE = 'Engineering';
+var first = true;
 
-        // Call our visualize function:
-        var currentYearStart = "1990";
-        var currentYearEnd = "1995";
-        var currentCollege = "Engineering";
+window.onload = function () {
+    selector = document.getElementById("college-select");
+    selector.onchange = function() {
+        console.log(selector.options[selector.selectedIndex].text);
+        COLLEGE = selector.options[selector.selectedIndex].text;
+    }
+};
 
-        visualize(data, currentYearStart, currentYearEnd, currentCollege);
+function myTimer() { 
+    // Using jQuery, read our data and call visualize(...) only once the page is ready:
+    if (first) {
+        first = false;
+    } else {
+        document.getElementById('slopegraph').children[0].remove();
+    }
+    // Using jQuery, read our data and call visualize(...) only once the page is ready:
+    $(function () {
+        const datasetPath = "datasets/majors_transposed.csv";
+        d3.csv(datasetPath).then(function (data) {
+            // Write the data to the console for debugging:
+            console.log(data);
+
+            // Call our visualize function:
+            visualize(data, YEAR, YEAR + 5, COLLEGE);
+
+            YEAR += 5;
+            if (YEAR == 2015) {
+                document.getElementById('slopegraph').children[0].remove();
+                YEAR = BASE_YEAR;
+                visualize(data, BASE_YEAR, 2018, COLLEGE);
+            }
+        });
     });
-});
+}
 
 var visualize = function (data, currentYearStart, currentYearEnd, currentCollege) {
     // Boilerplate:
     var margin = { top: 50, right: 50, bottom: 50, left: 100 },
         width = 1500 - margin.left - margin.right,
-        height = 1400 - margin.top - margin.bottom,
+        height = 1000 - margin.top - margin.bottom,
         padding = 50;
 
     const effectiveDimension = {
         width: width - margin.left - margin.right,
         height: height - margin.top - margin.bottom
     };
-
-    var config = {
-        xOffset: 0,
-        yOffset: 0,
-        width: width,
-        height: height,
-        labelPositioning: {
-          alpha: 0.5,
-          spacing: 18
-        },
-        leftTitle: "2013",
-        rightTitle: "2016",
-        labelGroupOffset: 5,
-        labelKeyOffset: 50,
-        radius: 6,
-        // Reduce this to turn on detail-on-hover version
-        unfocusOpacity: 0.3
-      }
 
     var slopegraphMargin = 120;
 
@@ -60,22 +67,6 @@ var visualize = function (data, currentYearStart, currentYearEnd, currentCollege
 
     var maxTotal = d3.max([maxStart, maxEnd])
 
-    var minStart = d3.min(data.filter(function(d) {
-        return (d["College"] == currentCollege)
-    }), function(d) {
-        return d["Total_" + currentYearStart]
-    })
-
-    var minEnd = d3.min(data.filter(function(d) {
-        return (d["College"] == currentCollege)
-    }), function(d) {
-        return d["Total_" + currentYearEnd]
-    })
-
-    var minTotal = d3.min([maxStart, maxEnd])
-
-    console.log(minTotal)
-
     d3.select("#chart")
         .attr("align","center");
 
@@ -89,7 +80,6 @@ var visualize = function (data, currentYearStart, currentYearEnd, currentCollege
 
     var tip = d3.tip()
         .attr('class', 'd3-tip')
-        .style("opacity", 0.1)
         .offset([-10, 0])
         .html(function (d, i) {
             return d["Major Name"];
@@ -97,7 +87,14 @@ var visualize = function (data, currentYearStart, currentYearEnd, currentCollege
     
     var yScale = d3.scaleLinear()
         .domain([0, maxTotal])
-        .range([effectiveDimension.height, margin.top + 200]);
+        .range([effectiveDimension.height, 150]);
+
+    // var yScale = function(d) {
+    //     return effectiveDimension.height - d + 150;
+    // }
+
+    console.log(effectiveDimension.height)
+    console.log(maxTotal)
 
     console.log(yScale(0))
 
@@ -105,20 +102,28 @@ var visualize = function (data, currentYearStart, currentYearEnd, currentCollege
         return (d["College"] == currentCollege && parseInt(d["Total_" + currentYearStart]) > 50)
     })
 
-    svg.selectAll(".slope-line")
+    svg.selectAll("slope-line")
         .data(filteredData)
         .enter()
         .append("line")
         .attr("x1", margin.left + slopegraphMargin)
         .attr("y1", function(d, i) {
+            if (d['Total_' + currentYearStart] > maxTotal || d['Total_' + currentYearStart] < 0) {
+                console.log("holy moly!")
+            }
             return yScale(d['Total_' + currentYearStart]);
         })
-        .attr("x2", effectiveDimension.width - margin.right - slopegraphMargin)
+        .attr("x2", effectiveDimension.width - margin.right - 2*slopegraphMargin)
         .attr("y2", function(d, i) {
+            if (d['Total_' + currentYearEnd] > maxTotal || d['Total_' + currentYearEnd] < 0) {
+                console.log("holy moly!")
+            }
+            // console.log(yScale(d['Total_' + currentYearEnd]))
             return yScale(d['Total_' + currentYearEnd]);
         })
         .attr("stroke-width", 3)
         .attr("stroke", "black")
+        .attr("id", "slope")
         .on('mouseover', tip.show)
         .on('mouseout', tip.hide);
     
@@ -143,7 +148,7 @@ var visualize = function (data, currentYearStart, currentYearEnd, currentCollege
         .attr("y", function(d, i) {
             return yScale(d['Total_' + currentYearEnd]);
         })
-        .attr("x", effectiveDimension.width - margin.right - slopegraphMargin + 10)
+        .attr("x", effectiveDimension.width - margin.right - 2*slopegraphMargin + 10)
         .attr("font-size","12px")
         .text(function(d, i) {
             return d['Major Name'] + ": " + parseInt(d['Total_' + currentYearEnd])
@@ -170,7 +175,7 @@ var visualize = function (data, currentYearStart, currentYearEnd, currentCollege
         .attr("stroke-width", 2)
         .attr("fill","red")
         .attr("r", 5)
-        .attr("cx", effectiveDimension.width - margin.right - slopegraphMargin)
+        .attr("cx", effectiveDimension.width - margin.right - 2*slopegraphMargin)
         .attr("cy", function(d, i) {
             console.log("hello")
             return yScale(d['Total_' + currentYearEnd])
@@ -186,230 +191,25 @@ var visualize = function (data, currentYearStart, currentYearEnd, currentCollege
         .attr("stroke-linecap","round");
             
     svg.append("line")
-        .attr("x1", effectiveDimension.width - margin.right - slopegraphMargin)
+        .attr("x1", effectiveDimension.width - margin.right - 2*slopegraphMargin)
         .attr("y1", 150)
-        .attr("x2", effectiveDimension.width - margin.right - slopegraphMargin)
+        .attr("x2", effectiveDimension.width - margin.right - 2*slopegraphMargin)
         .attr("y2", height)
         .attr("stroke-width", 3)
         .attr("stroke", "black")
         .attr("stroke-linecap","round");
 
-    d3.selectAll(".slope-line")
-        .attr("opacity", config.unfocusOpacity);
-
     svg.call(tip);
 
-    svg.selectAll("first-title")
-        .enter()
-        .append("text")
+    svg.append("text")
         .attr("x", margin.left + slopegraphMargin - 10)
         .attr("y", 100)
-        .style("font-size", "16px") 
+        .style("font-size", "20px") 
             .text(currentYearStart);
 
-    svg.selectAll("second-title")
-        .enter()
-        .append("text")
-        .attr("x", effectiveDimension.width - margin.right - slopegraphMargin - 10)
+    svg.append("text")
+        .attr("x", effectiveDimension.width - margin.right - 2*slopegraphMargin - 10)
         .attr("y", 100)
-        .style("font-size", "16px") 
+        .style("font-size", "20px") 
       	.text(currentYearEnd);
-          
-    // relax(leftSlopeLabels, "yLeftPosition");
-    //     leftSlopeLabels.selectAll("text")
-    //         .attr("y", d => d.yLeftPosition);
-          
-    // relax(rightSlopeLabels, "yRightPosition");
-    //     rightSlopeLabels.selectAll("text")
-    //         .attr("y", d => d.yRightPosition);
-
-    // // Function to reposition an array selection of labels (in the y-axis)
-    // function relax(labels, position) {
-    //     again = false;
-    //     labels.each(function (d, i) {
-    //       a = this;
-    //       da = d3.select(a).datum();
-    //       y1 = da[position];
-    //       labels.each(function (d, j) {
-    //         b = this;
-    //         if (a == b) return;
-    //         db = d3.select(b).datum();
-    //         y2 = db[position];
-    //         deltaY = y1 - y2;
-  
-    //         if (Math.abs(deltaY) > config.labelPositioning.spacing) return;
-  
-    //         again = true;
-    //         sign = deltaY > 0 ? 1 : -1;
-    //         adjust = sign * config.labelPositioning.alpha;
-    //         da[position] = +y1 + adjust;
-    //         db[position] = +y2 - adjust;
-  
-    //         if (again) {
-    //           relax(labels, position);
-    //         }
-    //       })
-    //     })
-    // }
-
-    function handle_transition(new_currentYearStart, new_currentYearEnd, new_currentCollege) {
-        console.log("new current year start " + new_currentYearStart)
-        console.log("new current year end " + new_currentYearEnd)
-        console.log("new current college " + new_currentCollege)
-
-        var maxStart = d3.max(data.filter(function(d) {
-            return (d["College"] == new_currentCollege)
-        }), function(d) {
-            return d["Total_" + new_currentYearStart]
-        })
-    
-        var maxEnd = d3.max(data.filter(function(d) {
-            return (d["College"] == new_currentCollege)
-        }), function(d) {
-            return d["Total_" + new_currentYearEnd]
-        })
-    
-        var maxTotal = d3.max([maxStart, maxEnd])
-    
-        var minStart = d3.min(data.filter(function(d) {
-            return (d["College"] == new_currentCollege)
-        }), function(d) {
-            return d["Total_" + new_currentYearStart]
-        })
-    
-        var minEnd = d3.min(data.filter(function(d) {
-            return (d["College"] == new_currentCollege)
-        }), function(d) {
-            return d["Total_" + new_currentYearEnd]
-        })
-
-        var minTotal = d3.min([maxStart, maxEnd])
-
-        var tip = d3.tip()
-            .attr('class', 'd3-tip')
-            .style("opacity", 0.1)
-            .offset([-10, 0])
-            .html(function (d, i) {
-                return d["Major Name"];
-            });
-        
-        var yScale = d3.scaleLinear()
-            .domain([0, maxTotal])
-            .range([effectiveDimension.height, margin.top + 200]);
-
-        console.log(yScale(0))
-
-        var filteredData = data.filter(function(d) {
-            console.log("here")
-            return (d["College"] == new_currentCollege && parseInt(d["Total_" + new_currentYearStart]) > 50)
-        })
-
-        svg.selectAll("line")
-            .data(filteredData)
-            .transition()
-                .attr("x1", margin.left + slopegraphMargin)
-                .attr("y1", function(d, i) {
-                    return yScale(d['Total_' + new_currentYearStart]);
-                })
-                .attr("x2", effectiveDimension.width - margin.right - slopegraphMargin)
-                .attr("y2", function(d, i) {
-                    console.log("hello")
-                    return yScale(d['Total_' + new_currentYearEnd]);
-                })
-                .duration(1500)
-                .delay(200)
-            // .attr("stroke-width", 3)
-            // .attr("stroke", "black")
-            // .on('mouseover', tip.show)
-            // .on('mouseout', tip.hide);
-        
-        svg.selectAll("left_text")
-            .data(filteredData)
-            .transition()
-                .attr("y", function(d, i) {
-                    return yScale(d['Total_' + currentYearStart]);
-                })
-                .attr("x", margin.left + slopegraphMargin - 10)
-                .text(function(d, i) {
-                    return d['Major Name'] + ": " + parseInt(d['Total_' + currentYearStart])
-                })
-                .duration(1500)
-                .delay(200)
-
-        rightSlopeLabels = svg.selectAll("right_text")
-            .data(filteredData)
-            .transition()
-                // .append("text")
-                .attr("y", function(d, i) {
-                    return yScale(d['Total_' + currentYearEnd]);
-                })
-                .attr("x", effectiveDimension.width - margin.right - slopegraphMargin + 10)
-                .text(function(d, i) {
-                    return d['Major Name'] + ": " + parseInt(d['Total_' + currentYearEnd])
-                })
-                .duration(1500)
-                .delay(200)
-
-        svg.selectAll("left_circles")
-            .data(filteredData)
-            .transition()
-                // .data(filteredData)
-                // .append("circle")
-                .attr("r", 5)
-                .attr("cx", margin.left + slopegraphMargin)
-                .attr("cy", function(d, i) {
-                    return yScale(d['Total_' + currentYearStart])
-                })
-                .duration(1500)
-                .delay(200)
-
-        svg.selectAll("right_circles")
-            .data(filteredData)
-            .transition()
-                // .append("circle")
-                .attr("stroke","black")
-                .attr("stroke-width", 2)
-                .attr("r", 5)
-                .attr("cx", effectiveDimension.width - margin.right - slopegraphMargin)
-                .attr("cy", function(d, i) {
-                    console.log("hello")
-                    return yScale(d['Total_' + currentYearEnd])
-                })
-                .duration(1500)
-                .delay(200)
-
-        svg.call(tip);
-
-        // svg.selectAll("first-title")
-        //     .attr("x", margin.left + slopegraphMargin - 10)
-        //     .attr("y", 100)
-        //     .style("font-size", "16px") 
-        //         .text(currentYearStart);
-
-        // svg.selectAll("second-title")
-        //     .attr("x", effectiveDimension.width - margin.right - slopegraphMargin - 10)
-        //     .attr("y", 100)
-        //     .style("font-size", "16px") 
-        //     .text(currentYearEnd);
-    }
-
-    d3.select("#label-option-start").on("change", function(){
-        myInput = this.value
-        currentYearStart = myInput
-        handle_transition(currentYearStart, currentYearEnd, currentCollege);
-    })
-
-    d3.select("#label-option-end").on("change", function(){
-        myInput = this.value
-        currentYearEnd = myInput;
-        handle_transition(currentYearStart, currentYearEnd, currentCollege);
-    })
-
-    d3.select("#label-option-college").on("change", function(){
-        myInput = this.value
-        currentCollege = this.value
-        handle_transition(myInput, currentYearEnd, currentCollege);
-    })
-
-
 }
