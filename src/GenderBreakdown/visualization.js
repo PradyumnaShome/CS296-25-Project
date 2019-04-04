@@ -1,37 +1,48 @@
-var myVar = setInterval(myTimer, 1000);
+var myVar = setInterval(myTimer, 500);
 var BASE_YEAR = 1980;
 var YEAR = 1980;
-const COLLEGE = 'ACES';
+const COLLEGE = 'Engineering';
 var first = true;
 var toShow = 'Gender';
 
 button = document.getElementById("graph-toggle");
 button.onclick = function() {
     if (button.innerHTML == 'See Gender') {
-        button.innerHTML = 'Illinois vs Non-Illinois';
+        button.innerHTML = 'See Illinois vs Non-Illinois';
         toShow = 'Gender'
-    } else {
-        button.innerHTML = "See Gender";
+    } else if (button.innerHTML == 'See Illinois vs Non-Illinois') {
+        button.innerHTML = 'See Major Size';
         toShow = 'Illinois-Non-Illinois'
+    } else {
+        button.innerHTML = 'See Gender';
+        toShow = 'Major-Size'
     }
 }
 
 function myTimer() {    
     // Using jQuery, read our data and call visualize(...) only once the page is ready:
-    if (first) {
-        first = false;
-    } else {
-        document.getElementById('chart').children[0].remove();
-    }
+    // if (first) {
+    //     first = false;
+    // } else {
+    //     document.getElementById('chart').children[0].remove();
+    // }
 
     $(function () {
-        const datasetPath = "datasets/" + YEAR.toString() + '-' + COLLEGE + '-GB' + '.csv';
+        var datasetPath;
+        if (toShow == 'Major-Size') {
+            datasetPath = datasetPath = "datasets/" + YEAR.toString() + '-' + COLLEGE + '-mp' + '.csv';
+        } else {
+            datasetPath = "datasets/" + YEAR.toString() + '-' + COLLEGE + '-GB' + '.csv';
+        }
         d3.csv(datasetPath).then(function (data) {
-            // Call our visualize function:
+            // Clear current chart and call our visualize function:
+            $('#chart').empty();
             if (toShow == 'Gender') {
                 visualizeGender(data);
-            } else {
+            } else if (toShow == 'Illinois-Non-Illinois') {
                 visualizeIllinois(data);
+            } else {
+                visualizeMajorSize(data);
             }
             YEAR += 1;
             if (YEAR == 2018) {
@@ -63,7 +74,7 @@ var visualizeGender = function(data) {
         .attr("x", (width / 2))             
         .attr("y", 0 - (margin.top / 2))
         .attr("text-anchor", "middle")  
-        .style("font-size", "16px") 
+        .style("font-size", "30px") 
         .style("text-decoration", "italics")  
         .text(YEAR.toString());
 
@@ -91,7 +102,6 @@ var visualizeGender = function(data) {
     }
     
     majors = getMajors(data);
-    console.log(majors);
 
     // Scale Teams:
     var majorScale = d3.scaleBand()
@@ -210,7 +220,7 @@ var visualizeIllinois = function(data) {
         .attr("x", (width / 2))             
         .attr("y", 0 - (margin.top / 2))
         .attr("text-anchor", "middle")  
-        .style("font-size", "20px") 
+        .style("font-size", "30px") 
         .style("text-decoration", "italics")
         .text(YEAR.toString());
 
@@ -333,6 +343,122 @@ var visualizeIllinois = function(data) {
                         return gradient_color('blue');
                     });
 };
+
+var visualizeMajorSize = function (data) {
+    // Boilerplate:
+    const canvasDimension = { width: 1024, height: 800 };
+    var margin = { top: 100, right: 50, bottom: 200, left: 100 };
+
+    const effectiveDimension = {
+        width: canvasDimension.width - margin.left - margin.right,
+        height: canvasDimension.height - margin.top - margin.bottom
+    };
+
+    var svg = d3.select("#chart")
+        .append("svg")
+        .attr("width", canvasDimension.width)
+        .attr("height", canvasDimension.height)
+        .style("width", canvasDimension.width)
+        .style("height", canvasDimension.height)
+        .append("g");
+
+    // Visualization Code:
+
+    var background = svg
+        .append("rect")
+        .attr("width", effectiveDimension.width)
+        .attr("height", effectiveDimension.height)
+        .attr("x", margin.left)
+        .attr("y", margin.top)
+        .attr("fill", "paleturquoise")
+        .attr("stroke", "blue");
+
+    var majors = new Set([]);
+
+    data.forEach(element => {
+        majors.add(element["Major Name"]);
+    });
+
+    var majors = Array.from(majors);
+
+    var yScale = d3.scaleLinear()
+        .range([0, effectiveDimension.height])
+        .domain([100, 0])
+
+    var heightScale = d3.scaleLinear()
+        .range([0, effectiveDimension.height])
+        .domain([0, 100])
+
+    var yAxis = d3.axisLeft()
+        .scale(yScale)
+
+    var xScale = d3.scaleBand()
+        .domain(majors)
+        .range([0, effectiveDimension.width])
+
+    var xAxis = d3.axisBottom()
+        .scale(xScale);
+
+    svg.append('g')
+        .attr("class", "y axis")
+        .attr("transform", "translate(" + margin.left + ", " + margin.top + ")")
+        .call(yAxis);
+
+    svg.append("g")
+        .attr("class", "x axis")
+        .attr("transform", "translate(" + margin.left + ", " + (effectiveDimension.height + margin.top) + ")")
+        .call(xAxis)
+        .selectAll('text')
+        .style("text-anchor", "end")
+        .attr("dx", "-1em")
+        .attr("dy", "-0.1em")
+        .attr("transform", "rotate(-60)");
+
+    var total = 0;
+    data.forEach(element => {
+        total += parseInt(element["Total"])
+    })
+
+    svg.selectAll("Major Name")
+        .data(data)
+        .enter()
+        .append("rect")
+        .attr("class", "bar")
+        .attr("x", function (d) {
+            return margin.left + xScale(d["Major Name"])
+        })
+        .attr("width", xScale.bandwidth())
+        .attr("y", function (d) {
+            return effectiveDimension.height + margin.top - heightScale(100 * d["Total"] / total)
+        })
+        .attr("height", function (d) {
+            height = heightScale(100 * d["Total"] / total)
+            return height
+        })
+        .attr("stroke", "black")
+        .attr("fill", "orange");
+
+    svg.append("text")
+        .attr("transform", "translate(" + (margin.left + effectiveDimension.width / 2) + ", " + (effectiveDimension.height + margin.top + margin.bottom * 4.0 / 5.0) + ")")
+        .style("text-anchor", "middle")
+        .text("Major");
+
+    svg.append("text")
+        .attr("transform", "translate(" + margin.left/2  + ", " + (margin.top + effectiveDimension.height/2) + ")")
+        .style("text-anchor", "middle")
+        .text("%");
+
+    svg.append("text")
+        .attr("transform", "translate(" + (margin.left + effectiveDimension.width / 2) + ", " + (margin.top * 3 / 4) + ")")
+        .style("text-anchor", "middle")
+        .style("font-size", "30px")
+        .text(YEAR);
+
+    svg.append("text")
+        .attr("transform", "translate(" + (margin.left/2 + effectiveDimension.width) + ", " + (margin.top * 3 / 4) + ")")
+        .style("text-anchor", "middle")
+        .text("Total Students: " + total);
+}
 
 function translation(x,y) {
     return 'translate(' + x + ',' + y + ')';
