@@ -7,11 +7,11 @@ var toShow = 'Gender';
 
 button = document.getElementById("graph-toggle");
 button.onclick = function() {
-    if (button.innerHTML == 'Gender') {
+    if (button.innerHTML == 'See Gender') {
         button.innerHTML = 'Illinois vs Non-Illinois';
         toShow = 'Gender'
     } else {
-        button.innerHTML = "Gender";
+        button.innerHTML = "See Gender";
         toShow = 'Illinois-Non-Illinois'
     }
 }
@@ -125,9 +125,8 @@ var visualizeGender = function(data) {
         
     var rightBarGroup = svg.append('g')
         .attr('transform', translation(pointB, 0));
-
-    console.log('pointA', pointA)
-    // DRAW AXES
+    
+    // DRAW LEFT Y AXIS
     svg.append('g')
         .attr('class', 'axis y left')
         .attr('transform', translation(pointA, 0))
@@ -135,20 +134,33 @@ var visualizeGender = function(data) {
         .selectAll('text')
         .style('text-anchor', 'middle');
 
+    // DRAW RIGHT Y AXIS
     svg.append('g')
         .attr('class', 'axis y right')
         .attr('transform', translation(pointB, 0))
         .call(yAxisRight);
 
+    // DRAW LEFT X AXIS
     svg.append('g')
         .attr('class', 'axis x left')
         .attr('transform', translation(0, height))
         .call(xAxisLeft);
+    // text label for the left x axis
+    svg.append("text")             
+        .attr("transform", translation((width / 2 - margin.middle / 2) / 2, height + 50))
+        .style("text-anchor", "middle")
+        .text("Percent Male");
 
+    // DRAW RIGHT X AXIS
     svg.append('g')
         .attr('class', 'axis x right')
         .attr('transform', translation(pointB, height))
         .call(xAxisRight);
+    // text label for the right x axis
+    svg.append("text")             
+        .attr("transform", translation((width / 2 + margin.middle / 2) / 2 + width / 2, height + 50))
+        .style("text-anchor", "middle")
+        .text("Percent Female");
 
     // DRAW BARS
     leftBarGroup.selectAll('.bar.left')
@@ -198,8 +210,8 @@ var visualizeIllinois = function(data) {
         .attr("x", (width / 2))             
         .attr("y", 0 - (margin.top / 2))
         .attr("text-anchor", "middle")  
-        .style("font-size", "16px") 
-        .style("text-decoration", "italics")  
+        .style("font-size", "20px") 
+        .style("text-decoration", "italics")
         .text(YEAR.toString());
 
     // Scale Years:
@@ -260,8 +272,7 @@ var visualizeIllinois = function(data) {
     var rightBarGroup = svg.append('g')
         .attr('transform', translation(pointB, 0));
 
-    console.log('pointA', pointA)
-    // DRAW AXES
+    // DRAW LEFT Y AXIS
     svg.append('g')
         .attr('class', 'axis y left')
         .attr('transform', translation(pointA, 0))
@@ -269,20 +280,33 @@ var visualizeIllinois = function(data) {
         .selectAll('text')
         .style('text-anchor', 'middle');
 
+    // DRAW RIGHT Y AXIS
     svg.append('g')
         .attr('class', 'axis y right')
         .attr('transform', translation(pointB, 0))
         .call(yAxisRight);
 
+    // DRAW LEFT X AXIS
     svg.append('g')
         .attr('class', 'axis x left')
         .attr('transform', translation(0, height))
         .call(xAxisLeft);
+    // text label for the left x axis
+    svg.append("text")             
+        .attr("transform", translation((width / 2 - margin.middle / 2) / 2, height + 50))
+        .style("text-anchor", "middle")
+        .text("Percent Non-Illinois");
 
+    // DRAW RIGHT X AXIS
     svg.append('g')
         .attr('class', 'axis x right')
         .attr('transform', translation(pointB, height))
         .call(xAxisRight);
+    // text label for the right x axis
+    svg.append("text")             
+        .attr("transform", translation((width / 2 + margin.middle / 2) / 2 + width / 2, height + 50))
+        .style("text-anchor", "middle")
+        .text("Percent Illinois");
 
     // DRAW BARS
     leftBarGroup.selectAll('.bar.left')
