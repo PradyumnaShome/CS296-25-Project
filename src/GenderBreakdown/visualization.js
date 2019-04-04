@@ -1,4 +1,4 @@
-var myVar = setInterval(myTimer, 500);
+var myVar = setInterval(myTimer, 1000);
 var BASE_YEAR = 1980;
 var YEAR = 1980;
 const COLLEGE = 'ACES';
