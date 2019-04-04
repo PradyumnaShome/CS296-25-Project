@@ -1,0 +1,80 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>Project 1 - Illinois Students By Curriculum</title>
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    
+    <link rel="stylesheet" href="css/main.css"/>
+
+    <!-- jQuery and lodash -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.11/lodash.min.js"></script>
+
+    <!-- d3.js -->
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+
+    <!-- <script src="//cdnjs.cloudflare.com/ajax/libs/lodash.js/3.10.1/lodash.min.js" charset="utf-8"></script> -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.min.js"></script>
+
+
+    <!-- Our visualization code -->
+    <script src="visualization.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <h4>Change in UIUC Majors over time</h4>
+        <h5>A CS 296-25 project by Eric Zhang, Jackie Oh, Jatin Mathur, Pradyumna Shome and Sumuk Rao</h5>
+        <!-- Our d3.js visualization will appear in #chart -->
+        <br>
+        <p align="center">
+            <!-- Choose Start Year: -->
+                <!-- <select id="label-option-start">
+                    <option value="1980">1980</option>
+                    <option value="1985">1985</option>
+                    <option selected="1990">1990</option>
+                    <option value="1995">1995</option>
+                    <option value="2000">2000</option>
+                    <option value="2005">2005</option>
+                    <option value="2010">2010</option>
+                    <option value="2015">2015</option>
+                    <option value="2018">2018</option>
+                </select>
+
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                Choose End Year:
+                <select id="label-option-end">
+                        <option value="1980">1980</option>
+                        <option value="1985">1985</option>
+                        <option value="1990">1990</option>
+                        <option selected="1995">1995</option>
+                        <option value="2000">2000</option>
+                        <option value="2005">2005</option>
+                        <option value="2010">2010</option>
+                        <option value="2015">2015</option>
+                        <option value="2018">2018</option>
+                </select>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
+                Choose College:
+                <select id="college-select">
+                        <option value="ACES">ACES</option>
+                        <option value="Business">Business</option>
+                        <option value="Education">Education</option>
+                        <option selected="Engineering">Engineering</option>
+                        <option value="Fine and Applied Arts">Fine and Applied Arts</option>
+                        <option value="LAS">LAS</option>
+                </select>
+                &nbsp&nbsp&nbsp
+                <button id="toggle-animation", type="button">Pause</button>
+        </p>
+        <div id="slopegraph"></div>
+    </div>
+</body>
+
+</html>

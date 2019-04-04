@@ -1,4 +1,3 @@
-
 // Using jQuery, read our data and update visualization every second
 
 var college = "LAS"
