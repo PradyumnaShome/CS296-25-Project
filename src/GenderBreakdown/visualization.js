@@ -3,7 +3,18 @@ var BASE_YEAR = 1980;
 var YEAR = 1980;
 const COLLEGE = 'ACES';
 var first = true;
-var button = 'illinois';
+var toShow = 'Gender';
+
+button = document.getElementById("graph-toggle");
+button.onclick = function() {
+    if (button.innerHTML == 'Gender') {
+        button.innerHTML = 'Illinois vs Non-Illinois';
+        toShow = 'Gender'
+    } else {
+        button.innerHTML = "Gender";
+        toShow = 'Illinois-Non-Illinois'
+    }
+}
 
 function myTimer() {    
     // Using jQuery, read our data and call visualize(...) only once the page is ready:
@@ -17,7 +28,7 @@ function myTimer() {
         const datasetPath = "datasets/" + YEAR.toString() + '-' + COLLEGE + '-GB' + '.csv';
         d3.csv(datasetPath).then(function (data) {
             // Call our visualize function:
-            if (button == 'gender') {
+            if (toShow == 'Gender') {
                 visualizeGender(data);
             } else {
                 visualizeIllinois(data);
@@ -148,7 +159,9 @@ var visualizeGender = function(data) {
                     .attr('y', function(d) {return majorScale(d["Major Name"]);})
                     .attr('width', function(d) { return percentScale(parseInt(d['Male']) / parseInt(d['Total']));})
                     .attr('height', 10)
-                    .attr('fill', 'blue');
+                    .attr('fill', function() {
+                        return gradient_color('blue');
+                    });
 
     rightBarGroup.selectAll('.bar.right')
                 .data(data)
@@ -158,7 +171,9 @@ var visualizeGender = function(data) {
                     .attr('y', function(d) {return majorScale(d["Major Name"]);})
                     .attr('width', function(d) { return percentScale(parseInt(d['Female']) / parseInt(d['Total']));})
                     .attr('height', 10)
-                    .attr('fill', 'pink');
+                    .attr('fill', function() {
+                        return gradient_color('pink');
+                    });
 };
 
 var visualizeIllinois = function(data) {
@@ -276,9 +291,11 @@ var visualizeIllinois = function(data) {
                     .attr('class', 'bar left')
                     .attr('x', 0)
                     .attr('y', function(d) {return majorScale(d["Major Name"]);})
-                    .attr('width', function(d) { return percentScale(parseInt(d['Illinois']) / parseInt(d['Total']));})
+                    .attr('width', function(d) { return percentScale(parseInt(d['Non-Illinois']) / parseInt(d['Total']));})
                     .attr('height', 10)
-                    .attr('fill', 'blue');
+                    .attr('fill', function() {
+                        return gradient_color('red');
+                    });
 
     rightBarGroup.selectAll('.bar.right')
                 .data(data)
@@ -286,9 +303,11 @@ var visualizeIllinois = function(data) {
                     .attr('class', 'bar right')
                     .attr('x', 0)
                     .attr('y', function(d) {return majorScale(d["Major Name"]);})
-                    .attr('width', function(d) { return percentScale(parseInt(d['Non-Illinois']) / parseInt(d['Total']));})
+                    .attr('width', function(d) { return percentScale(parseInt(d['Illinois']) / parseInt(d['Total']));})
                     .attr('height', 10)
-                    .attr('fill', 'orange');
+                    .attr('fill', function() {
+                        return gradient_color('blue');
+                    });
 };
 
 function translation(x,y) {
@@ -296,3 +315,36 @@ function translation(x,y) {
 }
 
 var parseTime = d3.timeParse("%Y");
+
+function gradient_color(color) {
+    if (color == 'blue') {
+        colors = [[0, 102, 102], [0, 51, 102], [0, 0, 102],
+                 [0, 153, 153], [0, 76, 153], [0, 0, 153],
+                 [0, 204, 204], [0, 102, 204], [0, 0, 204],
+                 [0, 255, 255], [0, 128, 255], [0, 0, 255],
+                 [51, 153, 255], [51, 51, 255],
+                 [102, 178, 255], [102, 102, 255],
+                 [153, 204, 255], [153, 153, 255]];
+        color = colors[Math.floor(Math.random() * colors.length)];
+        return d3.rgb(color[0], color[1], color[2]);
+    } else if (color == 'pink') {
+        colors = [[51, 0, 102], [102, 0, 102],
+                [76, 0, 153], [153, 0, 153],
+                [102, 0, 204], [204, 0, 204],
+                [127, 0, 255], [255, 0, 255], [255, 0, 127],
+                [153, 51, 255], [255, 51, 255], [255, 51, 153],
+                [178, 102, 255], [255, 102, 255], [255, 102, 178],
+                [204, 153, 255], [255, 153, 255], [255, 153, 204]]
+        color = colors[Math.floor(Math.random() * colors.length)];
+        return d3.rgb(color[0], color[1], color[2]);
+    } else if (color == 'red') {
+        colors = [[153, 0, 0], [204, 0, 0],[204, 102, 0],
+                [255, 0, 0], [255, 128, 0],
+                [255, 51, 51], [255, 153, 51],
+                [255, 102, 102], [255, 153, 153]]
+        color = colors[Math.floor(Math.random() * colors.length)];
+        return d3.rgb(color[0], color[1], color[2]);
+    }
+
+    return d3.rgb(255, 0, 0)
+}
