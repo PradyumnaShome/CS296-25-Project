@@ -30,7 +30,8 @@ var visualize = function (data) {
         .style("height", canvasDimension.height)
         .append("g");
 
-    // Visualization Code:
+        //Using visualizationTest.js Not this file.
+
 
     var canvasBackground = svg
         .append("rect")
@@ -49,4 +50,5 @@ var visualize = function (data) {
         .attr("y", margin.top)
         .attr("fill", "seagreen")
         .attr("stroke", "blue");
+
 }

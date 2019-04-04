@@ -28,53 +28,33 @@
 </head>
 
 <body>
-    <div class="container">
-        <h4>Change in UIUC Majors over time</h4>
-        <h5>A CS 296-25 project by Eric Zhang, Jackie Oh, Jatin Mathur, Pradyumna Shome and Sumuk Rao</h5>
-        <!-- Our d3.js visualization will appear in #chart -->
-        <br>
-        <p align="center">
-            <!-- Choose Start Year: -->
-                <!-- <select id="label-option-start">
-                    <option value="1980">1980</option>
-                    <option value="1985">1985</option>
-                    <option selected="1990">1990</option>
-                    <option value="1995">1995</option>
-                    <option value="2000">2000</option>
-                    <option value="2005">2005</option>
-                    <option value="2010">2010</option>
-                    <option value="2015">2015</option>
-                    <option value="2018">2018</option>
-                </select>
-
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                Choose End Year:
-                <select id="label-option-end">
-                        <option value="1980">1980</option>
-                        <option value="1985">1985</option>
-                        <option value="1990">1990</option>
-                        <option selected="1995">1995</option>
-                        <option value="2000">2000</option>
-                        <option value="2005">2005</option>
-                        <option value="2010">2010</option>
-                        <option value="2015">2015</option>
-                        <option value="2018">2018</option>
-                </select>
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
-                Choose College:
-                <select id="college-select">
-                        <option value="ACES">ACES</option>
-                        <option value="Business">Business</option>
-                        <option value="Education">Education</option>
-                        <option selected="Engineering">Engineering</option>
-                        <option value="Fine and Applied Arts">Fine and Applied Arts</option>
-                        <option value="LAS">LAS</option>
-                </select>
-                &nbsp&nbsp&nbsp
-                <button id="toggle-animation", type="button">Pause</button>
-        </p>
-        <div id="slopegraph"></div>
+    <div id="buttons">
+        <button onClick="chooseCollege('ACES')">ACES</button>
+        <button onClick="chooseCollege('Applied Health Sciences')">Applied Health Science</button>
+        <button onClick="chooseCollege('Applied Life Sciences')">Applied Life Sciences</button>
+        <button onClick="chooseCollege('Aviation')">Aviation</button>
+        <button onClick="chooseCollege('Business')">Business</button>
+        <button onClick="chooseCollege('DGS')">DGS</button>
+        <button onClick="chooseCollege('Education')">Education</button>
+        <button onClick="chooseCollege('Engineering')">Engineering</button>
+        <button onClick="chooseCollege('Fine and Applied Arts')">Fine and Applied Arts</button>
+        <button onClick="chooseCollege('Graduate')">Graduate</button>
+        <button onClick="chooseCollege('iSchool')">iSchool</button>
+        <button onClick="chooseCollege('Labor and Industrial Relations')">Labor and Industrial Relations</button>
+        <button onClick="chooseCollege('LAS')">LAS</button>
+        <button onClick="chooseCollege('Law')">Law</button>
+        <button onClick="chooseCollege('LM')">LM</button>
+        <button onClick="chooseCollege('LN')">LN</button>
+        <button onClick="chooseCollege('Media')">Media</button>
+        <button onClick="chooseCollege('Medicine')">Medicine</button>
+        <button onClick="chooseCollege('NB')">NB</button>
+        <button onClick="chooseCollege('Social Work')">Social Work</button>
+        <button onClick="chooseCollege('VetMed')">VetMed</button>
     </div>
+    <!-- Our d3.js visualization will appear in #chart -->
+    <div id="chart"></div>
+    </div>
+    
 </body>
 
 </html>
