@@ -1,16 +1,37 @@
-var myVar = setInterval(myTimer, 5000);
+
+var interval = setInterval(function() {
+    if (!isRunning) {
+        // not running, do nothing
+    } else {
+        // it is running, do stuff.
+        myTimer()
+    }
+}, 3000);
 var BASE_YEAR = 1980;
 var YEAR = 1980;
 var COLLEGE = 'Engineering';
 var first = true;
+var isRunning = true;
 
 window.onload = function () {
     selector = document.getElementById("college-select");
     selector.onchange = function() {
-        console.log(selector.options[selector.selectedIndex].text);
         COLLEGE = selector.options[selector.selectedIndex].text;
     }
+
+    startButton = document.getElementById("toggle-animation")
+    startButton.onclick = function () {
+        if (isRunning === false) {
+            isRunning = true;
+            startButton.innerHTML = "Pause"
+        } else {
+            isRunning = false;
+            startButton.innerHTML = "Play"
+        }
+    }
 };
+
+
 
 function myTimer() { 
     // Using jQuery, read our data and call visualize(...) only once the page is ready:
@@ -56,13 +77,13 @@ var visualize = function (data, currentYearStart, currentYearEnd, currentCollege
     var maxStart = d3.max(data.filter(function(d) {
         return (d["College"] == currentCollege)
     }), function(d) {
-        return d["Total_" + currentYearStart]
+        return parseInt(d["Total_" + currentYearStart])
     })
 
     var maxEnd = d3.max(data.filter(function(d) {
         return (d["College"] == currentCollege)
     }), function(d) {
-        return d["Total_" + currentYearEnd]
+        return parseInt(d["Total_" + currentYearEnd])
     })
 
     var maxTotal = d3.max([maxStart, maxEnd])
@@ -87,20 +108,33 @@ var visualize = function (data, currentYearStart, currentYearEnd, currentCollege
     
     var yScale = d3.scaleLinear()
         .domain([0, maxTotal])
-        .range([effectiveDimension.height, 150]);
-
-    // var yScale = function(d) {
-    //     return effectiveDimension.height - d + 150;
-    // }
-
-    console.log(effectiveDimension.height)
-    console.log(maxTotal)
-
-    console.log(yScale(0))
+        .range([effectiveDimension.height, 150])
+        .clamp(true);
 
     var filteredData = data.filter(function(d) {
         return (d["College"] == currentCollege && parseInt(d["Total_" + currentYearStart]) > 50)
     })
+
+    var defs = svg.append("defs");
+
+    var gradient = defs.append("linearGradient")
+        .attr("id", "svgGradient")
+        .attr("x1", "0%")
+        .attr("x2", "100%")
+        .attr("y1", "0%")
+        .attr("y2", "100%");
+
+    gradient.append("stop")
+        .attr('class', 'start')
+        .attr("offset", "0%")
+        .attr("stop-color", "red")
+        .attr("stop-opacity", 1);
+
+    gradient.append("stop")
+        .attr('class', 'end')
+        .attr("offset", "100%")
+        .attr("stop-color", "blue")
+        .attr("stop-opacity", 1);
 
     svg.selectAll("slope-line")
         .data(filteredData)
@@ -108,21 +142,14 @@ var visualize = function (data, currentYearStart, currentYearEnd, currentCollege
         .append("line")
         .attr("x1", margin.left + slopegraphMargin)
         .attr("y1", function(d, i) {
-            if (d['Total_' + currentYearStart] > maxTotal || d['Total_' + currentYearStart] < 0) {
-                console.log("holy moly!")
-            }
             return yScale(d['Total_' + currentYearStart]);
         })
         .attr("x2", effectiveDimension.width - margin.right - 2*slopegraphMargin)
         .attr("y2", function(d, i) {
-            if (d['Total_' + currentYearEnd] > maxTotal || d['Total_' + currentYearEnd] < 0) {
-                console.log("holy moly!")
-            }
-            // console.log(yScale(d['Total_' + currentYearEnd]))
             return yScale(d['Total_' + currentYearEnd]);
         })
-        .attr("stroke-width", 3)
-        .attr("stroke", "black")
+        .attr("stroke-width", 5)
+        .attr("stroke", "url(#svgGradient)")
         .attr("id", "slope")
         .on('mouseover', tip.show)
         .on('mouseout', tip.hide);
@@ -158,8 +185,8 @@ var visualize = function (data, currentYearStart, currentYearEnd, currentCollege
         .data(filteredData)
         .enter()
         .append("circle")
-        .attr("stroke","black")
-        .attr("stroke-width", 2)
+        .attr("stroke","url(#svgGradient)")
+        .attr("stroke-width", 4)
         .attr("fill","white")
         .attr("r", 5)
         .attr("cx", margin.left + slopegraphMargin)
@@ -171,13 +198,12 @@ var visualize = function (data, currentYearStart, currentYearEnd, currentCollege
         .data(filteredData)
         .enter()
         .append("circle")
-        .attr("stroke","black")
-        .attr("stroke-width", 2)
-        .attr("fill","red")
+        .attr("stroke","url(#svgGradient)")
+        .attr("stroke-width", 4)
+        .attr("fill","white")
         .attr("r", 5)
         .attr("cx", effectiveDimension.width - margin.right - 2*slopegraphMargin)
         .attr("cy", function(d, i) {
-            console.log("hello")
             return yScale(d['Total_' + currentYearEnd])
         });
     
@@ -200,6 +226,43 @@ var visualize = function (data, currentYearStart, currentYearEnd, currentCollege
         .attr("stroke-linecap","round");
 
     svg.call(tip);
+
+    relax(leftSlopeLabels, "yLeftPosition");
+        leftSlopeLabels.selectAll("text")
+            .attr("y", d => d.yLeftPosition);
+          
+    relax(rightSlopeLabels, "yRightPosition");
+        rightSlopeLabels.selectAll("text")
+            .attr("y", d => d.yRightPosition);
+
+    // Function to reposition an array selection of labels (in the y-axis)
+    function relax(labels, position) {
+        again = false;
+        labels.each(function (d, i) {
+          a = this;
+          da = d3.select(a).datum();
+          y1 = da[position];
+          labels.each(function (d, j) {
+            b = this;
+            if (a == b) return;
+            db = d3.select(b).datum();
+            y2 = db[position];
+            deltaY = y1 - y2;
+  
+            if (Math.abs(deltaY) > 18) return;
+  
+            // again = true;
+            sign = deltaY > 0 ? 1 : -1;
+            adjust = sign * 0.5;
+            da[position] = +y1 + adjust;
+            db[position] = +y2 - adjust;
+  
+            // if (again) {
+            //   relax(labels, position);
+            // }
+          })
+        })
+    }
 
     svg.append("text")
         .attr("x", margin.left + slopegraphMargin - 10)
