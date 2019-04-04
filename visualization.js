@@ -1,7 +1,7 @@
 
 // Using jQuery, read our data and call visualize(...) only once the page is ready:
 $(function () {
-    const datasetPath = "datasets/IllinoisStudentsByCurriculum.csv";
+    // const datasetPath = "datasets/IllinoisStudentsByCurriculum.csv";
     // d3.csv(datasetPath).then(function (data) {
     //     // Write the data to the console for debugging:
     //     console.log(data);
@@ -10,49 +10,45 @@ $(function () {
     //     visualize(data);
     // });
     displayFrontPage();
-
 });
 
 function displayFrontPage() {
     // define data
+    
     var dataset = [
-        { label: "Assamese", count: 13 },
-        { label: "Bengali", count: 83 },
-        { label: "Bodo", count: 1.4 },
-        { label: "Dogri", count: 2.3 },
-        { label: "Gujarati", count: 46 },
-        { label: "Hindi", count: 300 },
-        { label: "Kannada", count: 38 },
-        { label: "Kashmiri", count: 5.5 },
-        { label: "Konkani", count: 5 },
-        { label: "Maithili", count: 20 },
-        { label: "Malayalam", count: 33 },
-        { label: "Manipuri", count: 1.5 },
-        { label: "Marathi", count: 72 },
-        { label: "Nepali", count: 2.9 },
-        { label: "Oriya", count: 33 },
-        { label: "Punjabi", count: 29 },
-        { label: "Sanskrit", count: 0.01 },
-        { label: "Santhali", count: 6.5 },
-        { label: "Sindhi", count: 2.5 },
-        { label: "Tamil", count: 61 },
-        { label: "Telugu", count: 74 },
-        { label: "Urdu", count: 52 }
+        {"college": 'ACES', count: 3072},
+        {"college": 'Applied Health Sciences', count: 2359},
+        {"college": 'Business', count: 4783},
+        {"college": 'DGS', count: 2962},
+        {"college": 'Education', count: 4325},
+        {"college": 'Engineering', count: 11463},
+        {"college": 'Fine and Applied Arts', count: 2479},
+        {"college": 'Graduate', count: 60},
+        {"college": 'LAS', count: 13952},
+        {"college": 'LN', count: 399},
+        {"college": 'Labor and Industrial Relations', count: 251},
+        {"college": 'Law', count: 487},
+        {"college": 'Media', count: 488},
+        {"college": 'Medicine', count: 32},
+        {"college": 'NB', count: 3},
+        {"college": 'Social Work', count: 788},
+        {"college": 'VetMed', count: 627},
+        {"college": 'iSchool', count: 809},
     ];
 
     // chart dimensions
-    var width = 1200;
-    var height = 1000;
+    var width = 1000;
+    var height = 600;
 
     // a circle chart needs a radius
-    var radius = 200;
+    var radius = 125;
 
     // legend dimensions
     var legendRectSize = 25; // defines the size of the colored squares in legend
     var legendSpacing = 6; // defines spacing between squares
 
     // define color scale
-    var color = d3.scaleOrdinal(d3.schemeCategory20c);
+    var color = d3.scaleOrdinal(d3.schemeCategory10);
     // more color scales: https://bl.ocks.org/pstuffa/3393ff2711a53975040077b7453781a9
 
     var svg = d3.select('#chart') // select element in the DOM with id 'chart'
@@ -84,19 +80,6 @@ function displayFrontPage() {
     tooltip.append('div') // add divs to the tooltip defined above  
         .attr('class', 'percent'); // add class 'percent' on the selection
 
-    // Confused? see below:
-
-    // <div id="chart">
-    //   <div class="tooltip">
-    //     <div class="label">
-    //     </div>
-    //     <div class="count">
-    //     </div>
-    //     <div class="percent">
-    //     </div>
-    //   </div>
-    // </div>
-
     dataset.forEach(function (d) {
         d.count = +d.count; // calculate count as we iterate through the data
         d.enabled = true; // add enabled property to track which entries are checked
@@ -108,7 +91,7 @@ function displayFrontPage() {
         .enter() //creates placeholder nodes for each of the values
         .append('path') // replace placeholders with path elements
         .attr('d', arc) // define d attribute with arc function above
-        .attr('fill', function (d) { return color(d.data.label); }) // use color scale to define fill of each label in dataset
+        .attr('fill', function (d) { return color(d.data.college); }) // use color scale to define fill of each label in dataset
         .each(function (d) { this._current - d; }); // creates a smooth animation for each track
 
     // mouse event handlers are attached to path so they need to come after its definition
@@ -141,7 +124,7 @@ function displayFrontPage() {
         .attr('transform', function (d, i) {
             var height = legendRectSize + legendSpacing; // height of element is the height of the colored square plus the spacing      
             var offset = height * color.domain().length / 2; // vertical offset of the entire legend = height of a single element & half the total number of elements  
-            var horz = 18 * legendRectSize; // the legend is shifted to the left to make room for the text
+            var horz = (18 * legendRectSize) - 100; // the legend is shifted to the left to make room for the text
             var vert = i * height - offset; // the top of the element is hifted up or down from the center using the offset defiend earlier and the index of the current element 'i'               
             return 'translate(' + horz + ',' + vert + ')'; //return translation       
         });
@@ -168,7 +151,7 @@ function displayFrontPage() {
             }
 
             pie.value(function (d) {
-                if (d.label === label) d.enabled = enabled; // if entry label matches legend label
+                if (d.college === college) d.enabled = enabled; // if entry label matches legend label
                 return (d.enabled) ? d.count : 0; // update enabled property and return count or 0 based on the entry's status
             });
 
@@ -190,44 +173,4 @@ function displayFrontPage() {
         .attr('x', legendRectSize + legendSpacing)
         .attr('y', legendRectSize - legendSpacing)
         .text(function (d) { return d; }); // return label
-}
-
-
-var visualize = function (data) {
-    // Boilerplate:
-    const canvasDimension = { width: 1024, height: 800 };
-    var margin = { top: 50, right: 50, bottom: 50, left: 50 };
-
-    const effectiveDimension = {
-        width: canvasDimension.width - margin.left - margin.right,
-        height: canvasDimension.height - margin.top - margin.bottom
-    };
-
-    var svg = d3.select("#chart")
-        .append("svg")
-        .attr("width", canvasDimension.width)
-        .attr("height", canvasDimension.height)
-        .style("width", canvasDimension.width)
-        .style("height", canvasDimension.height)
-        .append("g");
-
-    // Visualization Code:
-
-    var canvasBackground = svg
-        .append("rect")
-        .attr("width", canvasDimension.width)
-        .attr("height", canvasDimension.height)
-        .attr("x", 0)
-        .attr("y", 0)
-        .attr("fill", "dodgerblue")
-        .attr("stroke", "black");
-
-    var background = svg
-        .append("rect")
-        .attr("width", effectiveDimension.width)
-        .attr("height", effectiveDimension.height)
-        .attr("x", margin.left)
-        .attr("y", margin.top)
-        .attr("fill", "seagreen")
-        .attr("stroke", "blue");
 }
