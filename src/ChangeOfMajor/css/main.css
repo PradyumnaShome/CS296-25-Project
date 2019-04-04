@@ -11,6 +11,11 @@ h5 {
     text-align: center;
 }
 
+.border-lines {
+    stroke: #999;
+    stroke-width: 1px;
+}
+
 .d3-tip {
     line-height: 1;
     font-weight: bold;
@@ -20,14 +25,22 @@ h5 {
     border-radius: 2px;
 }
 
-.bar {
-    fill: orange;
+circle {
+    fill: white;
+    stroke: black;
+    stroke-width: 2px;
 }
 
-.line:hover {
-    fill: orangered ;
+.slope-line {
+    stroke: #333;
+    stroke-width: 2px;
+    stroke-linecap: round;
 }
-  
+
+.title {
+    font-size: 18px;
+    font-weight: 700;
+}
   
   /* Creates a small triangle extender for the tooltip
   .d3-tip:after {
